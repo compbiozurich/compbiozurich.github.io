@@ -1,0 +1,109 @@
+title: 'compbioZurich'
+label: |
+  <a href="/index.html"><span style="color: #000; background-color: #fff;">compbio&nbsp;</span><span style="color: #fff; background: #000;">&nbsp;zurich&nbsp;</span></a>
+tagline: 'bioinformatics & computational biology in zurich'
+description: |
+  A website for the bioinformatics and computational biology community in Zurich and around
+show_downloads: true
+google_analytics: UA-572981-2
+plugins:
+ - jekyll-seo-tag
+keywords:
+  - genomics
+  - cancer
+  - bioinformatics
+  - LSZGS
+  - UZH
+  - ETHZ
+  - SIB
+  - Zurich
+  - teaching
+  - lectures
+  - seminars
+site_domain_name: info.compbiozurich.org
+url: 'http://info.compbiozurich.org'
+baseurl: ""
+site_parent_link: 'http://compbiozurich.org'
+
+# instructions for processing specific directories
+
+include:        # usually only pages in / and /_posts are "seen" => processed
+  - categories  # contains landing pages for each category
+  - tags        # contains landing pages for each tag
+
+# Collections are used to organise pages into logical groups; these do not need 
+# to have a relation to the "categories", though this is highly recommended
+# Collection directories reside in "/collections_dir/_(collection name)".
+
+collections_dir: pages  # optional; here, all collections are inside "/pages"
+collections:
+  howto:
+    output: true
+    permalink: /howto/:path/
+  people:
+    output: true
+    permalink: /people/:path/
+  events:
+    output: true
+    permalink: /events/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
+  positions:
+    output: true
+    permalink: /positions/:path/
+    
+# navigation blocks can be used to separate different categories and add e.g. 
+# external link block(s), in combination with a properly modified layout
+
+nav_cat_blocks: # comma-separated "label,type,label_visibility"
+  General: 'General,categories,hide'
+  related_sites: 'Related Sites,related_sites,show'
+  github_projects: 'Github Projects,github_projects,show'
+
+General:
+  news: News
+  people: People
+  events: 'Seminars & Events'
+  teaching: 'Lectures and Courses'
+  howto: 'Examples & Guides'
+  publications: Publications
+  positions: 'Open Positions'
+
+categories_year_sorted:
+  - news
+  - events
+
+related_sites:
+  'LSZGS': 'http://lszgs.ch'
+
+github_projects:
+  compbiozurich: 'http://github.com/compbiozurich/'
+
+cloud_tags:
+  - LSZGS
+  - UZH
+  - ETHZ
+  - SIB
+  - Zurich
+  - teaching
+  - lectures
+  - seminars
+  - code
+  - conferences
+  - events
+  
+# additional Jekyll instructions
+
+plugins:
+ - jekyll-seo-tag
+future: true
+type: website
+navigation_max_items: 4 # number of shown links in current category
+emptyArray: []          # dummy element for array initialisation
+
+# local build specific
+
+include:
+  - .htaccess
+#markdown: kramdown
