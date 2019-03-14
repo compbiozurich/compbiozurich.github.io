@@ -1,26 +1,32 @@
-label: 'Progenetix::Template'
-tagline: 'A Template for Creating Jekyll-Based Websites - Github or Standalone'
+title: 'compbioZurich'
+label: |
+  <a href="/index.html"><span style="color: #000; background-color: #fff;">compbio&nbsp;</span><span style="color: #fff; background: #000;">&nbsp;zurich&nbsp;</span></a>
+tagline: 'bioinformatics & computational biology in zurich'
 description: |
-  The Jekyll-based website template, derived from the <a href="https://jekyll-themes.com/minimal/">"Minimal" theme</a> and used on a number of projects:
-  - schemablocks.org
-  - beacon-project.org
-  - geagh-discovery.github.io
-  - info.progenetix.org
-  - info.baudisgroup.org
-  - ...
-keywords: Jekyll, websites, Github
-site_domain_name: baudisgroup.github.io/progenetix-site-template
-url: 'https://baudisgroup.github.io/progenetix-site-template'
-
-# The baseurl parameter is an empty string if the site is represented at the root 
-# of a domain. For project domains on Github it corresponds to the project name.
-baseurl: "/progenetix-site-template"
-
-# the site_parent_link parameter is used e.g. for icon links.
-site_parent_link: 'https://info.baudisgroup.org'
-github_organisation: baudisgroup
+  A website for the bioinformatics and computational biology community in Zurich and around
+show_downloads: true
+google_analytics: UA-572981-2
+plugins:
+ - jekyll-seo-tag
+keywords:
+  - genomics
+  - cancer
+  - bioinformatics
+  - LSZGS
+  - UZH
+  - ETHZ
+  - SIB
+  - Zurich
+  - teaching
+  - lectures
+  - seminars
+site_domain_name: info.compbiozurich.org
+url: 'http://info.compbiozurich.org'
+baseurl: ""
+site_parent_link: 'http://compbiozurich.org'
 
 # instructions for processing specific directories
+
 include:        # usually only pages in / and /_posts are "seen" => processed
   - categories  # contains landing pages for each category
   - tags        # contains landing pages for each tag
@@ -28,70 +34,77 @@ include:        # usually only pages in / and /_posts are "seen" => processed
 # Collections are used to organise pages into logical groups; these do not need 
 # to have a relation to the "categories", though this is highly recommended
 # Collection directories reside in "/collections_dir/_(collection name)".
-# The "_posts" collection is created by default.
+
+collections_dir: pages  # optional; here, all collections are inside "/pages"
 collections:
-  people:
-    output: true
-    permalink: /people/:path/
   howto:
     output: true
     permalink: /howto/:path/
-  minutes:
+  people:
     output: true
-    permalink: /minutes/:path/
-collections_dir: pages  # optional; here, all collections are inside "/pages"
+    permalink: /people/:path/
+  events:
+    output: true
+    permalink: /events/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
+  positions:
+    output: true
+    permalink: /positions/:path/
     
 # navigation blocks can be used to separate different categories and add e.g. 
 # external link block(s), in combination with a properly modified layout
-nav_cat_blocks:     # comma-separated "label,type,label_visibility"
-  general: 'General,categories,hide'
+
+nav_cat_blocks: # comma-separated "label,type,label_visibility"
+  General: 'General,categories,hide'
   related_sites: 'Related Sites,related_sites,show'
   github_projects: 'Github Projects,github_projects,show'
 
-# content of the different navigation blocks
-general:
+General:
   news: News
-  people: Participants
-  howto: 'Examples, Guides & FAQ'
-  minutes: 'Meeting minutes'
-  contact: Contacts
+  people: People
+  events: 'Seminars & Events'
+  teaching: 'Lectures and Courses'
+  howto: 'Examples & Guides'
+  publications: Publications
+  positions: 'Open Positions'
 
-related_sites: 
-  'Baudisgroup at UZH': 'http://info.baudisgroup.org'
-  'Progenetix': 'http://progenetix.org'
-  'SchemaBlocks': 'http://schemablocks.org'
-
-github_projects:
-  'baudisgroup': 'http://github.com/baudisgroup/'
-  'progenetix': 'http://github.com/progenetix/'
-  'SchemaBlocks': 'http://github.com/ga4gh-schemablocks/'
-  'ELIXIR Beacon': 'http://github.com/beacon-project/'
-
-# The categories_year_sorted parameter determines the selection of a 
-# time sorted, year labeled listing template for those categories.
 categories_year_sorted:
   - news
-  - minutes
+  - events
 
-# Only tags listed here are represented in the tag cloud.
+related_sites:
+  'LSZGS': 'http://lszgs.ch'
+
+github_projects:
+  compbiozurich: 'http://github.com/compbiozurich/'
+
 cloud_tags:
+  - LSZGS
+  - UZH
+  - ETHZ
+  - SIB
+  - ZHAW
+  - Zurich
+  - teaching
+  - lectures
+  - seminars
   - code
-  - admins
-  - contacts
-  - contributors
-  - developers
-  - press
-  - times
-  - Jekyll
-  - Markdown
-  - documentation
-
+  - conferences
+  - events
+  
 # additional Jekyll instructions
+
 plugins:
  - jekyll-seo-tag
-type: website
-show_downloads: true
 future: true
-safe: false
-navigation_max_items: 4 # displayed sidebar links in current category
-emptyArray: []          # dummy element for array instantiation
+type: website
+navigation_max_items: 4 # number of shown links in current category
+emptyArray: []          # dummy element for array initialisation
+
+# local build specific
+
+include:
+  - .htaccess
+#markdown: kramdown
