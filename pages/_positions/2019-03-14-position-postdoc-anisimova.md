@@ -5,7 +5,7 @@ layout: default
 author: # quoted "@Github" shortname recommended
 excerpt_separator: <!--more-->
 excerpt_link: # an optional link to different page when clicking the excerpt
-www_link: # a simple web address related to the post, e.g. https://www.ga4gh.org
+www_link: 'https://www.zhaw.ch/de/ueber-uns/person/anis/'
 www_links_formatted:
   - '<a href="mailto:maria.anisimova@zhaw.ch">[maria.anisimova@zhaw.ch]</a>'
 pdf_file_name: # the name of a PDF (no path) somewhere in "assets", which will be auto-linked
