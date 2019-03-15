@@ -1,7 +1,7 @@
 ---
 title: "Computational Biology in Zurich"
 layout: default
-permalink: index.html
+permalink: '/index.html'
 date:   2018-08-22
 ---
 

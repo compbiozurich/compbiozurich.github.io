@@ -37,6 +37,9 @@ include:        # usually only pages in / and /_posts are "seen" => processed
 
 collections_dir: pages  # optional; here, all collections are inside "/pages"
 collections:
+  about:
+    output: true
+    permalink: /about/:path/
   howto:
     output: true
     permalink: /howto/:path/
@@ -67,7 +70,6 @@ General:
   events: 'Seminars & Events'
   teaching: 'Lectures and Courses'
   howto: 'Examples & Guides'
-  publications: Publications
   positions: 'Open Positions'
 
 categories_year_sorted:
