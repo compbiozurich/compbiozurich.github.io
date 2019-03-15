@@ -77,6 +77,7 @@ categories_year_sorted:
   - events
 
 related_sites:
+  'SIB': 'http://sib.swiss'
   'LSZGS': 'http://lszgs.ch'
 
 github_projects:
