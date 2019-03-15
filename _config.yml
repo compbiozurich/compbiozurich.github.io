@@ -24,6 +24,7 @@ site_domain_name: info.compbiozurich.org
 url: 'http://info.compbiozurich.org'
 baseurl: ""
 site_parent_link: 'http://compbiozurich.org'
+#tweetfeed: "https://twitter.com/compbiozurich?ref_src=twsrc%5Etfw"
 
 # instructions for processing specific directories
 

@@ -176,7 +176,17 @@
   {%- endunless -%}
 {%- endfor -%}
 
-    </div>
+  </div>
+
+{% if site.tweetfeed contains 'twitter' %}
+  
+  <div id="tweetfeed" style="display: block; margin-top: 25px;">
+ <a class="twitter-timeline" data-width="100%" data-height="250" data-theme="light" href="{{site.tweetfeed}}"></a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+
+{% endif %}
+  
 </header>
 
 {%- comment -%}
