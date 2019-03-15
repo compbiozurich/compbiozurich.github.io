@@ -27,9 +27,19 @@ h2 { color: #393939; }
 
 h3,h4,h5,h6 { color: #494949; }
 
-#header h4 {
-  margin-top: 4px;
-  margin-bottom: 2px;
+#header h4  {
+  margin-top: 0px;
+  margin-bottom: 0x;
+}
+
+#header h5  {
+  margin-top: 12px;
+  margin-bottom: -5x;
+  color: #ccc;
+}
+
+code {
+  font-size: 11px;
 }
 
 #headband {
@@ -75,9 +85,20 @@ table { width: 100%; border-collapse: collapse; }
 
 th,td { text-align: left; padding: 5px 10px; border-bottom: 1px solid #e5e5e5; }
 
-dt { color: #444; font-weight: 700; }
 
 th { color: #444; }
+
+td ul {
+    padding: 0px;
+    list-style: inside;
+}
+
+td li {
+    margin-left: 0px;
+    padding: 0px;
+}
+
+dt { color: #444; font-weight: 700; }
 
 img { max-width: 100%; }
 
