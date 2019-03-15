@@ -19,7 +19,7 @@ Three competitive Masters Programs provide a wide array of teaching and research
 
 The goal of the program is to provide students with a broad education in Computational Biology and Bioinformatics, based on strong foundations in Computer Science, Biology and Mathematics. The curriculum includes practical cources with experimental and computational components, because cooperation and communication are key to success in this highly interdisciplinary field.The interdisciplinary character of the program is reflected in the policy of admitting applicants holding Bachelor degrees in a wide range of disciplines.
 
-#### [Neural Systems and Computation](http://www.ini.uzh.ch/nsc/)
+#### [Neural Systems and Computation](https://www.nsc.uzh.ch/en.html)
 
 This program provides skills and expertise in systems and computational neurosciences, and in neuromorphic engineering disciplines. Students are offered an education in classical works that reflect our current understanding of the architecture of the brain and its sensory, motor, and cognitive functions. An essential part of this program is to offer hands-on research experience in experimental and theoretical neuroscience disciplines, and in unexplored territories relating to vision, sensorimotor coordination, birdsong, brain circuit reconstructions, vision sensors, and more.
 
