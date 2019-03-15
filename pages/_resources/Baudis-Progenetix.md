@@ -1,7 +1,7 @@
 ---
 title: "Progenetix - Cancer Genome Data Resource"
 layout: default
-date: 2012-01-01
+date: 2001-01-01
 excerpt_separator: <!--more-->
 excerpt_link: 'https://progenetix.org'
 www_link:
@@ -23,6 +23,11 @@ tags: # please delete unneeded options
 ## {{page.title}}
 
 The Progenetix database is the largest repository for annotated copy number profiling data in cancer. The website also tracks & analyses cancer genome profiling publications for provenance & content.
+
+```
+Domain Name: progenetix.net
+Creation Date: 2000-11-29T18:17:38.000Z
+```
 
 <!--more-->
 
