@@ -6,13 +6,19 @@ excerpt_separator: <!--more-->
 excerpt_link: 'https://string-db.org'
 www_link:
 www_links_formatted:
-image_file:
+image_file: 'logo_string_small.png'
 category:
   - resources
 tags: # please delete unneeded options
   - databases
   - tools
 ---
+
+{% for static_file in site.static_files %}
+  {% if static_file.path contains page.image_file %}
+<img style="float: right; max-width: 160px;" src="{{ static_file.path | relative_url}}" />
+  {% endif %}
+{% endfor %}
 
 ## STRING - Search Tool for the Retrieval of Interacting Genes
 
