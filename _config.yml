@@ -40,15 +40,15 @@ collections:
   about:
     output: true
     permalink: /about/:path/
+  resources:
+    output: true
+    permalink: /resources/:path/
   howto:
     output: true
     permalink: /howto/:path/
   people:
     output: true
     permalink: /people/:path/
-  events:
-    output: true
-    permalink: /events/:path/
   teaching:
     output: true
     permalink: /teaching/:path/
@@ -69,6 +69,7 @@ General:
   people: People
   events: 'Seminars & Events'
   teaching: 'Lectures and Courses'
+  resources: 'Software & Services'
   howto: 'Examples & Guides'
   positions: 'Open Positions'
 
@@ -96,6 +97,8 @@ cloud_tags:
   - code
   - conferences
   - events
+  - databases
+  - tools
   
 # additional Jekyll instructions
 
