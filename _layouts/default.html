@@ -53,10 +53,6 @@
       {%- assign cat_label = this_category[1] -%}
       {%- assign cat_key = this_category[0] -%}
       {%- assign cat_page = cat_key | append: '.html' -%}
-      {%- assign cat_visibility = 'none' -%}
-      {%- if page.category contains cat_key or this_name[0] == cat_key -%}
-        {%- assign cat_visibility = 'block' -%}
-      {%- endif -%}
 
   <h4 class="catlink"><a href="{{ 'categories' | relative_url }}/{{cat_page}}">{{ cat_label }}</a></h4>
         
@@ -73,20 +69,31 @@
   * first featured posts
   * those are subtracted from the nav_itemno count ...
 {%- endcomment -%}
+
         {%- for post in cat_posts -%}{%- if post.tags contains '.featured' -%}
-
-    <div class="sublink" style="display: {{cat_visibility}};">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          {%- assign post_link = post.url | relative_url -%}
+          {%- assign post_label = post.title -%}
+          {%- if post.excerpt_link contains 'http://' or post.excerpt_link contains 'https://' -%}
+            {%- assign post_link = post.excerpt_link -%}
+            {%- assign post_label = post_label | append: ' &#8599;' -%}
+          {%- endif -%}
+    <div class="sublink">
+      <a href="{{ post_link }}">{{ post_label }}</a>
     </div>
-
-        {%- assign nav_itemno = nav_itemno | minus: 1 -%}{%- endif -%}{%- endfor -%}
+          {%- assign nav_itemno = nav_itemno | minus: 1 -%}
+        {%- endif -%}{%- endfor -%}
         {%- for post in cat_posts limit: nav_itemno -%}{%- unless post.tags contains '.featured' or post.tags contains '.prepend' or post.tags contains '.append' -%}
 {%- comment -%}
   * others than the featured posts
 {%- endcomment -%}
-
-    <div class="sublink" style="display: {{cat_visibility}};">
-      <a href="{{ post.url  | relative_url }}">{{ post.title }}</a>
+          {%- assign post_link = post.url | relative_url -%}
+          {%- assign post_label = post.title -%}
+          {%- if post.excerpt_link contains 'http://' or post.excerpt_link contains 'https://' -%}
+            {%- assign post_link = post.excerpt_link -%}
+            {%- assign post_label = post_label | append: " &#8599;" -%}
+          {%- endif -%}
+    <div class="sublink">
+      <a href="{{ post_link }}">{{ post_label }}</a>
     </div>
  
         {%- endunless -%}{%- endfor -%}
@@ -95,7 +102,7 @@
 {%- endcomment -%}
         {%- if cat_posts.size > nav_itemno -%}
 
-    <div class="sublink" style="display: {{cat_visibility}};">
+    <div class="sublink" >
       <a href="{{ 'categories' | relative_url }}/{{cat_page}}">all ...</a>
     </div>
 
@@ -214,7 +221,7 @@
 {%- endif -%}
 
 {%- comment -%}
-  * date and author based on front matter, if defined there
+  * date and author(s) based on front matter, if defined there
   * formatted as github link if @author style
 {%- endcomment -%}
 
@@ -226,10 +233,12 @@
       {%- if this_author contains "@" -%}
         {% assign this_g_author = this_author | remove: "@" %}
 <a href="https://github.com/{{this_g_author}}/" target="_blank">{{this_author}}</a>&nbsp;
-      {%- elsif page.author_link contains "http" %}
+      {%- else -%}
+        {% if page.author_link contains "http" %}
 <a href="{{page.author_link}}" target="_blank">{{this_author}}</a>&nbsp;
-      {% else %}
+        {% else %}
 {{this_author}}&nbsp;
+        {% endif %}
       {%- endif -%}
     {% endfor %}
   {%- endif -%}
@@ -248,7 +257,7 @@
 <footer>
 {%- for static_file in site.static_files -%}{%- if static_file.path contains 'site-specific/site-logo-main.png' -%}
   <a href="{{ site.site_parent_link }}">
-    <img style="margin-top:15px; float: left; z-index: -1;" src="{{ 'assets' | relative_url }}/img/site-specific/site-logo-main.png" />
+    <img style="margin-top:15px; float: left;" src="{{ 'assets' | relative_url }}/img/site-specific/site-logo-main.png" />
   </a>
 {%- endif -%}{%- endfor -%}
 </footer>
@@ -273,7 +282,7 @@
   <a href="{{github_link}}{{page.path}}" style="text-decoration: none; color: #ccc;"><img src="{{ 'assets/img/icons8-edit-file-26.png' | relative_url }}" alt="Edit on Github..."  style="position: absolute; bottom: 15px; right: 15px;" /></a>
   {%- endunless -%}
 {%- elsif site.source_path contains '/' -%}
-  {%- unless page.path contains 'categories/' or page.path contains 'tags/' -%}
+
 <!-- Code from https://clipboardjs.com -->
   <button style="position: absolute; bottom: 15px; right: 15px;" class="btn" data-clipboard-text="open {{site.source_path}}/{{ page.path }}">
     <img src="{{ 'assets/img/clippy.svg' | relative_url }}" width="15px" alt="Copy local path to clipboard for pasting into terminal - only works for site editors...">
@@ -289,7 +298,7 @@
   });
 </script>
 <!-- / clipboardjs -->
-  {%- endunless -%}
+
 {%- endif -%}
 
 {%- comment -%}
