@@ -1,0 +1,25 @@
+Aegerter	Christof Aegerter	UZH	http://www.physik.uzh.ch/groups/aegerter/team/aegerter.html
+Ahrens	Christian Ahrens	Agroscope	https://www.agroscope.admin.ch/agroscope/de/home/ueber-uns/standorte-kontakte/waedenswil.html
+Anisimova	Maria Anisimova	ZHAW	http://www.zhaw.ch/fileadmin/php_includes/popup/person-detail.php?kurzz=anis
+Baubec	Tuncay Baubec	UZH	http://www.baubeclab.org
+Baudis	Michael Baudis	UZH	http://www.imls.uzh.ch/research/baudis.html
+Beerenwinkel	Niko Beerenwinkel	ETHZ	http://www.cbg.ethz.ch
+Bodenmiller	Bernd Bodenmiller	UZH	http://www.imls.uzh.ch/research/bodenmiller.html
+Buehlmann	Peter Buehlmann	ETHZ	https://www.math.ethz.ch/sfs/the-institute/people.html?u=peterbu
+Buhmann	Joachim M. Buhmann	ETHZ	http://www.ise.inf.ethz.ch
+Caflisch	Amedeo Caflisch	UZH	http://www.biochem-caflisch.uzh.ch
+Ciaudo	Constance Ciaudo	ETHZ	http://www.mhs.biol.ethz.ch/research/ciaudo/
+Claassen	Manfred Claassen	ETHZ	http://www.imsb.ethz.ch/research/claassen.html
+Hahnloser	Richard Hahnloser	INI	https://www.ini.uzh.ch/en/institute/people?uname=rich
+Held	Leonhard Held	UZH	https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html
+Koumoutsakos	Petros Koumoutsakos	ETHZ	http://www.cse-lab.ethz.ch/
+Pelkmans	Lucas Pelkmans	UZH	http://www.pelkmanslab.org
+Raetsch	Gunnar Raetsch	ETHZ	http://bmi.inf.ethz.ch
+Rehrauer	Hubert Rehrauer	FGCZ	http://www.fgcz.ethz.ch/people/hrehrauer
+Robinson	Mark Robinson	UZH	http://www.imls.uzh.ch/research/robinson.html
+Schlapbach	Ralph Schlapbach	FGCZ	http://www.fgcz.uzh.ch
+Shimizu	Kentaro K. Shimizu	UZH	http://www.ieu.uzh.ch/staff/professors/shimizu.html
+Stelling	Joerg Stelling	ETHZ	http://www.csb.ethz.ch
+Stoop	Ruedi Stoop	INI	http://stoop.ini.uzh.ch/
+Mering	Christian von Mering	UZH	http://www.imls.uzh.ch/research/vonmering.html
+Wagner	Andreas Wagner	UZH	http://www.bioc.uzh.ch/wagner
