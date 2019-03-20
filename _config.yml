@@ -9,6 +9,8 @@ google_analytics: UA-572981-2
 plugins:
  - jekyll-seo-tag
 keywords:
+  - Zurich
+  - Zürich
   - genomics
   - cancer
   - bioinformatics
@@ -16,10 +18,11 @@ keywords:
   - UZH
   - ETHZ
   - SIB
-  - Zurich
+  - ZHAW
   - teaching
   - lectures
   - seminars
+  - 'computational biology'
 site_domain_name: info.compbiozurich.org
 url: 'http://info.compbiozurich.org'
 baseurl: ""
@@ -104,6 +107,8 @@ cloud_tags:
   - events
   - databases
   - tools
+  - website
+  - Jekyll
   
 # additional Jekyll instructions
 
