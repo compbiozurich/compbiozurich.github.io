@@ -7,7 +7,6 @@ excerpt_separator: <!--more-->
 pdf_file_name: 2019-04-16__izaskun_mallona_dmmd.pdf
 www_link:
 www_links_formatted:
-pdf_file_name:
 category:
   - events
 tags:
