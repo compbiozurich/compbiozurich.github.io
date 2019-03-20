@@ -35,6 +35,10 @@ include:        # usually only pages in / and /_posts are "seen" => processed
 # Collections are used to organise pages into logical groups; these do not need 
 # to have a relation to the "categories", though this is highly recommended
 # Collection directories reside in "/collections_dir/_(collection name)".
+#
+# The special "_posts" collection is created automatically. Pages in this 
+# collection have to be named with an ISO date prefix, followed by a minus sign:
+#   2019-04-03-anything-after_that,is__fine-though_no_spaces.md
 
 collections_dir: pages  # optional; here, all collections are inside "/pages"
 collections:
@@ -114,4 +118,3 @@ emptyArray: []          # dummy element for array initialisation
 
 include:
   - .htaccess
-#markdown: kramdown
