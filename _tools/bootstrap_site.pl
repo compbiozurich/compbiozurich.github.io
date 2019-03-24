@@ -29,6 +29,11 @@ mkdir $type_path;
 foreach (@items) { copy($template, $type_path.'/'.$_.'.md') }
 foreach (@items) { print $type_path.'/'.$_.'.md'."\n" }
 
+$template       =   $base_path.'/_templates/_tags_year_sorted.md';
+@items          =   @{ $config->{tags_year_sorted} };
+foreach (@items) { copy($template, $type_path.'/'.$_.'.md') }
+foreach (@items) { print $type_path.'/'.$_.'.md'."\n" }
+
 #categories
 $template       =   $base_path.'/_templates/_categories.md';
 $type_path      =   $base_path.'/categories';
