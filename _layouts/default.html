@@ -74,7 +74,7 @@
         {%- for post in cat_posts -%}{%- if post.tags contains '.featured' -%}
           {%- assign post_link = post.url | relative_url -%}
           {%- assign post_label = post.title -%}
-          {%- if post.excerpt_link contains 'http://' or post.excerpt_link contains 'https://' -%}
+          {%- if post.excerpt_link contains 'https://' or post.excerpt_link contains 'https://' -%}
             {%- assign post_link = post.excerpt_link -%}
             {%- assign post_label = post_label | append: ' &#8599;' -%}
           {%- endif -%}
@@ -89,7 +89,7 @@
 {%- endcomment -%}
           {%- assign post_link = post.url | relative_url -%}
           {%- assign post_label = post.title -%}
-          {%- if post.excerpt_link contains 'http://' or post.excerpt_link contains 'https://' -%}
+          {%- if post.excerpt_link contains 'https://' or post.excerpt_link contains 'https://' -%}
             {%- assign post_link = post.excerpt_link -%}
             {%- assign post_label = post_label | append: " &#8599;" -%}
           {%- endif -%}

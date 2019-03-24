@@ -3,7 +3,7 @@ title: "Constance Ciaudo"
 layout: default
 date: 2013-04-01
 excerpt_separator: <!--more-->
-excerpt_link: 'http://www.mhs.biol.ethz.ch/research/ciaudo.html'
+excerpt_link: 'https://www.mhs.biol.ethz.ch/research/ciaudo.html'
 www_link:
 www_links_formatted:
 image_file: 'Ciaudo.png'

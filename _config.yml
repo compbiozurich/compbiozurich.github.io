@@ -86,11 +86,11 @@ categories_year_sorted:
   - events
 
 related_sites:
-  'SIB': 'http://sib.swiss'
-  'LSZGS': 'http://lszgs.ch'
+  'SIB': 'https://sib.swiss'
+  'LSZGS': 'https://lszgs.ch'
 
 github_projects:
-  compbiozurich: 'http://github.com/compbiozurich/'
+  compbiozurich: 'https://github.com/compbiozurich/'
 
 cloud_tags:
   - LSZGS

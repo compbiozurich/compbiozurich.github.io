@@ -51,7 +51,7 @@ jekyll serve --incremental
 ... to run a server. Which should then answer with (more stuff) and
 
 ```bash
-Server address: http://127.0.0.1:4000
+Server address: https://127.0.0.1:4000
 ```
 
 #### Notes
