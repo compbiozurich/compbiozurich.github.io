@@ -23,10 +23,10 @@ keywords:
   - lectures
   - seminars
   - 'computational biology'
-site_domain_name: info.compbiozurich.org
-url: 'http://info.compbiozurich.org'
+site_domain_name: compbiozurich.org
+url: 'https://compbiozurich.org'
 baseurl: ""
-site_parent_link: 'http://compbiozurich.org'
+site_parent_link: 'https://compbiozurich.org'
 tweetfeed: "https://twitter.com/compbiozurich?ref_src=twsrc%5Etfw"
 
 # instructions for processing specific directories
