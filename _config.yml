@@ -78,11 +78,16 @@ General:
   events: 'Seminars & Events'
   teaching: 'Lectures and Courses'
   resources: 'Software & Services'
-  howto: 'Examples & Guides'
+  howto: 'FAQ & Guides'
   positions: 'Open Positions'
 
 categories_year_sorted:
   - news
+  - events
+  
+tags_year_sorted:
+  - seminars
+  - conferences
   - events
 
 related_sites:
@@ -98,7 +103,9 @@ cloud_tags:
   - ETHZ
   - SIB
   - ZHAW
+  - LSZGS
   - Zurich
+  - FAQ
   - teaching
   - lectures
   - seminars

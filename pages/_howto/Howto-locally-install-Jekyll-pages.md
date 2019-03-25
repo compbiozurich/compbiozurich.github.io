@@ -1,5 +1,5 @@
 ---
-title:  "Howto: Local Jekyll site creation"
+title:  "Website - Non-Github Hosting"
 permalink: /howto/jekyllinstallation/
 layout: default
 date:   2019-03-14
@@ -11,6 +11,8 @@ category:
 tags:
   - Jekyll
   - documentation
+  - website
+  - FAQ
 ---
 
 ## Local Jekyll based website generation
