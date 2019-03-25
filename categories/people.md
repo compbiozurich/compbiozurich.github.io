@@ -19,7 +19,7 @@ layout: default
   {%- endif -%}
 {%- endfor -%}
 
-{%- assign cat_posts = cat_posts | sort: 'date' | reverse -%}
+{%- assign cat_posts = cat_posts | sort: 'title' -%}
 
 {%- comment -%}
   * special posts for prepending content to the listing pages
