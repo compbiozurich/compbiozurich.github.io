@@ -3,7 +3,7 @@ title: "Amedeo Caflisch"
 layout: default
 date: 1996-07-01
 excerpt_separator: <!--more-->
-excerpt_link: 'http://www.biochem-caflisch.uzh.ch'
+excerpt_link: 'https://www.biochem-caflisch.uzh.ch'
 www_link:
 www_links_formatted:
 image_file: 'Caflisch.png'

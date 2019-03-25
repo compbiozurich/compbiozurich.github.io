@@ -5,7 +5,7 @@ permalink: '/index.html'
 date:   2018-08-22
 ---
 
-<h2><a href="http://compbiozurich.github.io">{{ page.title }}</a></h2>
+<h2><a href="https://compbiozurich.github.io">{{ page.title }}</a></h2>
 
 Computational biology aims to answer fundamental biological questions with computational approaches, and it develops methods to analyze, manage, and integrate massive amounts of heterogeneous data.
 
