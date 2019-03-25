@@ -1,5 +1,5 @@
 ---
-title: 'compbiozurich.org Now with Github Based Hosting'
+title: 'Relaunch - compbiozurich.org with Github Based Hosting'
 date: 2019-03-25
 layout: default
 author: "@mbaudis"
@@ -20,7 +20,7 @@ tags: # please adjust; see tags -n _config.yml (or extend them there, too)
 ## {{ page.title }}
 
 As of 2019-03-25, the _compbiozurich.org_ webste is being hosted as a Github project.
-This move will allow an "open contributions" structure, in which members of Zurich's Bioinformatics & Computetional Biology community can participate in content creation.
+This move will allow an "open contributions" structure, in which members of Zurich's Bioinformatics & Computational Biology community can participate in content creation.
 Typical examples of such user-driven updates could be:
 
 * seminar announcements
