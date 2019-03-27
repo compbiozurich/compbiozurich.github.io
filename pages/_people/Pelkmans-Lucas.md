@@ -1,13 +1,13 @@
 ---
 title: "Lucas Pelkmans"
 layout: default
-date: 2006-07-01
+date: 2010-07-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.imls.uzh.ch/en/research/vonmering/people/christian-von-mering.html'
+excerpt_link: 'https://www.imls.uzh.ch/en/research/pelkmans.html'
 www_link: # a simple web address related to the post, e.g. https://www.ga4gh.org
 www_links_formatted:  # one or multiple complete links
 #  - '<a href="https://www.biorxiv.org" target="_blank">[biorXiv]</a>'
-image_file: 'Mering.png'
+image_file: 'Pelkmans.jpg'
 category:
   - people
 tags: # please delete unneeded options
@@ -22,7 +22,7 @@ tags: # please delete unneeded options
 
 ## {{ page.title }}
 
-* Professor of Bioinformatics
+* Professor of Biology
 * Institute of Molecular Life Sciences 
 * University of Zurich
 
