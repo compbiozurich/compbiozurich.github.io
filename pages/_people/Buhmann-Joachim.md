@@ -1,15 +1,14 @@
 ---
-title: "Maria Anisimova"
+title: "Joachim M. Buhmann"
 layout: default
-date: 2014-07-01
+date: 2003-07-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.zhaw.ch/de/ueber-uns/person/anis/'
-image_file: 'Anisimova.jpg'
+excerpt_link: 'http://www.ise.inf.ethz.ch/people/person-detail.html?persid=113456'
+image_file: 'Buhmann.jpg'
 category:
   - people
 tags:
-  - ZHAW
-  - SIB
+  - ETHZ
 ---
 
 {% for static_file in site.static_files %}
@@ -20,8 +19,8 @@ tags:
 
 ## {{ page.title }}
 
-* ZHAW Life Sciences und Facility Management
-* Fachstelle Computational Genomics
+* Professor for Computer Science  
+* ETH Zurich 
 
 <!--more-->
 

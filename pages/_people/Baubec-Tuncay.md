@@ -4,12 +4,10 @@ layout: default
 date: 2016-05-01
 excerpt_separator: <!--more-->
 excerpt_link: 'https://www.baubeclab.org'
-www_link:
-www_links_formatted:
 image_file: 'Baubec.png'
 category:
   - people
-tags: # please delete unneeded options
+tags:
   - UZH
 ---
 

@@ -4,12 +4,10 @@ layout: default
 date: 2000-07-01
 excerpt_separator: <!--more-->
 excerpt_link: 'https://www.cse-lab.ethz.ch/member/petros-koumoutsakos/'
-www_link:
-www_links_formatted:
 image_file: 'Koumoutsakos.jpg'
 category:
   - people
-tags: # please delete unneeded options
+tags:
   - ETHZ
 ---
 

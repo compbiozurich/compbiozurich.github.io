@@ -4,14 +4,12 @@ layout: default
 date: 2006-07-01
 excerpt_separator: <!--more-->
 excerpt_link: 'https://www.imls.uzh.ch/en/research/vonmering/people/christian-von-mering.html'
-www_link: # a simple web address related to the post, e.g. https://www.ga4gh.org
-www_links_formatted:  # one or multiple complete links
-#  - '<a href="https://www.biorxiv.org" target="_blank">[biorXiv]</a>'
 image_file: 'Mering.png'
 category:
   - people
 tags: # please delete unneeded options
   - UZH
+  - SIB
 ---
 
 {% for static_file in site.static_files %}

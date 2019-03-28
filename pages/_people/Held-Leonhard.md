@@ -1,15 +1,14 @@
 ---
-title: "Maria Anisimova"
+title: "Leonhard Held"
 layout: default
-date: 2014-07-01
+date: 2006-09-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.zhaw.ch/de/ueber-uns/person/anis/'
-image_file: 'Anisimova.jpg'
+excerpt_link: 'https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html'
+image_file: 'Held.jpg'
 category:
   - people
 tags:
-  - ZHAW
-  - SIB
+  - UZH
 ---
 
 {% for static_file in site.static_files %}
@@ -20,12 +19,9 @@ tags:
 
 ## {{ page.title }}
 
-* ZHAW Life Sciences und Facility Management
-* Fachstelle Computational Genomics
+* Professor & Chair
+* Epidemiology, Biostatistics and Prevention Institute
+* University of Zürich
 
 <!--more-->
-
-
-
-
 

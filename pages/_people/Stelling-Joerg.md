@@ -1,15 +1,14 @@
 ---
-title: "Maria Anisimova"
+title: "Jörg Stelling"
 layout: default
-date: 2014-07-01
+date: 2005-07-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.zhaw.ch/de/ueber-uns/person/anis/'
-image_file: 'Anisimova.jpg'
+excerpt_link: 'http://www.csb.ethz.ch/group/members/person-detail.MTI1MjYy.TGlzdC8xMDg2LC0xNDY2OTQ0MDU5.html'
+image_file: 'Stelling.jpg'
 category:
   - people
 tags:
-  - ZHAW
-  - SIB
+  - ETHZ
 ---
 
 {% for static_file in site.static_files %}
@@ -20,8 +19,8 @@ tags:
 
 ## {{ page.title }}
 
-* ZHAW Life Sciences und Facility Management
-* Fachstelle Computational Genomics
+* Professor for Computational Systems Biology  
+* ETH Zurich 
 
 <!--more-->
 

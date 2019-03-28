@@ -4,12 +4,10 @@ layout: default
 date: 2013-01-01
 excerpt_separator: <!--more-->
 excerpt_link: 'http://www.imsb.ethz.ch/research/claassen.html'
-www_link:
-www_links_formatted:
 image_file: 'Claassen.jpg'
 category:
   - people
-tags: # please delete unneeded options
+tags:
   - ETHZ
 ---
 

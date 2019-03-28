@@ -4,12 +4,10 @@ layout: default
 date: 2010-07-01
 excerpt_separator: <!--more-->
 excerpt_link: 'https://www.imls.uzh.ch/en/research/pelkmans.html'
-www_link:
-www_links_formatted:
 image_file: 'Pelkmans.jpg'
 category:
   - people
-tags: # please delete unneeded options
+tags:
   - UZH
 ---
 

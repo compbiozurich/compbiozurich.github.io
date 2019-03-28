@@ -4,13 +4,12 @@ layout: default
 date: 2011-09-01
 excerpt_separator: <!--more-->
 excerpt_link: 'https://robinsonlabuzh.github.io'
-www_link:
-www_links_formatted:
 image_file: 'Robinson.png'
 category:
   - people
-tags: # please delete unneeded options
+tags:
   - UZH
+  - SIB
 ---
 
 {% for static_file in site.static_files %}

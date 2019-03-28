@@ -1,14 +1,15 @@
 ---
-title: "Maria Anisimova"
+title: "Ralph Schlapbach"
 layout: default
-date: 2014-07-01
+date: 2007-07-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.zhaw.ch/de/ueber-uns/person/anis/'
-image_file: 'Anisimova.jpg'
+excerpt_link: 'http://www.fgcz.ch/the-center/people/schlapbach.html'
+image_file: 'Schlapbach.jpg'
 category:
   - people
 tags:
-  - ZHAW
+  - FGZC
+  - ETHZ
   - SIB
 ---
 
@@ -20,12 +21,7 @@ tags:
 
 ## {{ page.title }}
 
-* ZHAW Life Sciences und Facility Management
-* Fachstelle Computational Genomics
+* Managing Director
+* FGZC
 
 <!--more-->
-
-
-
-
-

@@ -1,15 +1,15 @@
 ---
-title: "Maria Anisimova"
+title: "Richard Hahnloser"
 layout: default
-date: 2014-07-01
+date: 2010-05-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.zhaw.ch/de/ueber-uns/person/anis/'
-image_file: 'Anisimova.jpg'
+excerpt_link: 'https://www.ini.uzh.ch/en/research/groups/zfinch'
+image_file: 'Hahnloser.png'
 category:
   - people
 tags:
-  - ZHAW
-  - SIB
+  - UZH
+  - INI
 ---
 
 {% for static_file in site.static_files %}
@@ -20,12 +20,9 @@ tags:
 
 ## {{ page.title }}
 
-* ZHAW Life Sciences und Facility Management
-* Fachstelle Computational Genomics
+* Professor
+* Institute of Neuroinformatics
+* University of Zürich
 
 <!--more-->
-
-
-
-
 

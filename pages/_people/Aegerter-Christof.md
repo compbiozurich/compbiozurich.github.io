@@ -1,15 +1,14 @@
 ---
-title: "Maria Anisimova"
+title: "Christof Aegerter"
 layout: default
-date: 2014-07-01
+date: 2008-07-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.zhaw.ch/de/ueber-uns/person/anis/'
-image_file: 'Anisimova.jpg'
+excerpt_link: 'https://www.physik.uzh.ch/en/groups/aegerter/team.html'
+image_file: 'Aegerter.png'
 category:
   - people
 tags:
-  - ZHAW
-  - SIB
+  - UZH
 ---
 
 {% for static_file in site.static_files %}
@@ -20,12 +19,10 @@ tags:
 
 ## {{ page.title }}
 
-* ZHAW Life Sciences und Facility Management
-* Fachstelle Computational Genomics
+* Professor of Physics
+* Disordered and Biological Soft Matter
+* Physics Department
+* University of Zürich
 
 <!--more-->
-
-
-
-
 

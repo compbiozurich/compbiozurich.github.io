@@ -4,14 +4,12 @@ layout: default
 date: 2006-01-01
 excerpt_separator: <!--more-->
 excerpt_link: 'https://www.ieu.uzh.ch/wagner/people.html'
-www_link: # a simple web address related to the post, e.g. https://www.ga4gh.org
-www_links_formatted:  # one or multiple complete links
-#  - '<a href="https://www.biorxiv.org" target="_blank">[biorXiv]</a>'
 image_file: 'Wagner.png'
 category:
   - people
-tags: # please delete unneeded options
+tags:
   - UZH
+  - SIB
 ---
 
 {% for static_file in site.static_files %}

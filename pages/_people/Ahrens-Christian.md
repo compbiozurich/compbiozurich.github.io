@@ -1,14 +1,14 @@
 ---
-title: "Maria Anisimova"
+title: "Christian Ahrens"
 layout: default
-date: 2014-07-01
+date: 2016-07-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.zhaw.ch/de/ueber-uns/person/anis/'
-image_file: 'Anisimova.jpg'
+excerpt_link: 'https://www.sib.swiss/christian-ahrens-group'
+image_file: 'Ahrens.jpg'
 category:
   - people
 tags:
-  - ZHAW
+  - Agroscope
   - SIB
 ---
 
@@ -20,12 +20,8 @@ tags:
 
 ## {{ page.title }}
 
-* ZHAW Life Sciences und Facility Management
-* Fachstelle Computational Genomics
+* Bioinformatics and Proteogenomics Group
+* Agroscope, Wädenswil
 
 <!--more-->
-
-
-
-
 

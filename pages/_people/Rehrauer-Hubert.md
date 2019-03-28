@@ -4,13 +4,12 @@ layout: default
 date: 2007-07-01
 excerpt_separator: <!--more-->
 excerpt_link: 'http://www.fgcz.ch/the-center/people/rehrauer.html'
-www_link:
-www_links_formatted:
 image_file: 'Rehrauer.jpg'
 category:
   - people
-tags: # please delete unneeded options
+tags:
   - FGZC
+  - SIB
 ---
 
 {% for static_file in site.static_files %}

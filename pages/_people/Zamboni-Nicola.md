@@ -4,12 +4,10 @@ layout: default
 date: 2005-07-01
 excerpt_separator: <!--more-->
 excerpt_link: 'http://www.imsb.ethz.ch/research/zamboni.html'
-www_link:
-www_links_formatted:
 image_file: 'Zamboni.jpg'
 category:
   - people
-tags: # please delete unneeded options
+tags:
   - ETHZ
 ---
 

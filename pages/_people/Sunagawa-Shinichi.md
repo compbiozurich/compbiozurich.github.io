@@ -4,13 +4,12 @@ layout: default
 date: 2016-05-01
 excerpt_separator: <!--more-->
 excerpt_link: 'https://www.micro.biol.ethz.ch/people/lab-leaders/ssunagaw.html'
-www_link:
-www_links_formatted:
 image_file: 'Sunagawa.png'
 category:
   - people
-tags: # please delete unneeded options
+tags:
   - ETHZ
+  - SIB
 ---
 
 {% for static_file in site.static_files %}
