@@ -11,7 +11,7 @@ Mering	Wagner	student
 Shimizu	Wagner	research
 Shimizu	Wagner	student
 Mering	Shimizu	tutor	Tue
-Mering	Schlapbach	research	
+Mering	Schlapbach	research
 Buhmann	Koumoutsakos	tutor
 Beerenwinkel	Stelling	tutor
 Stelling	Wagner	research
@@ -23,9 +23,6 @@ Ahrens	Schlapbach	research
 Ahrens	Rehrauer	research
 Ahrens	Mering	research
 Ahrens	Buehlmann	research
-Gonnet	Wagner	research
-Gonnet	Beerenwinkel	research
-Gonnet	Stelling	research
 Pelkmans	Beerenwinkel	research
 Pelkmans	Buehlmann	research
 Pelkmans	Mering	research
@@ -38,4 +35,4 @@ Ciaudo	Mering	research
 Ciaudo	Rehrauer	research
 Anisimova	Gonnet	research
 Raetsch	Baudis	research
-Sunagawa	Baudis	teaching
+Sunagawa  Baudis  teaching

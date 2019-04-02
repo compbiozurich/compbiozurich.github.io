@@ -20,6 +20,6 @@ Robinson	Mark Robinson	UZH	http://www.imls.uzh.ch/research/robinson.html
 Schlapbach	Ralph Schlapbach	FGCZ	http://www.fgcz.uzh.ch
 Shimizu	Kentaro K. Shimizu	UZH	http://www.ieu.uzh.ch/staff/professors/shimizu.html
 Stelling	Joerg Stelling	ETHZ	http://www.csb.ethz.ch
-Sunagawa	Shinichi Sunagawa	ETHZ	http://www.micro.biol.ethz.ch/research/sunagawa.html
+Sunagawa  Shinichi Sunagawa ETHZ  http://www.micro.biol.ethz.ch/research/sunagawa.html
 Mering	Christian von Mering	UZH	http://www.imls.uzh.ch/research/vonmering.html
 Wagner	Andreas Wagner	UZH	http://www.bioc.uzh.ch/wagner
