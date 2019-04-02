@@ -3,6 +3,7 @@ title: "Christof Aegerter"
 layout: default
 date: 2008-07-01
 excerpt_separator: <!--more-->
+permalink: /people/Christof-Aegerter.html
 excerpt_link: 'https://www.physik.uzh.ch/en/groups/aegerter/team.html'
 image_file: 'Aegerter.png'
 category:

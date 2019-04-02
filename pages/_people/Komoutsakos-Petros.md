@@ -3,7 +3,7 @@ title: "Petros Koumoutsakos"
 layout: default
 date: 2000-07-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.cse-lab.ethz.ch/member/petros-koumoutsakos/'
+excerpt_link: 'http://www.cse-lab.ethz.ch/member/petros-koumoutsakos/'
 image_file: 'Koumoutsakos.jpg'
 category:
   - people

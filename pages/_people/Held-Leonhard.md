@@ -3,7 +3,7 @@ title: "Leonhard Held"
 layout: default
 date: 2006-09-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html'
+excerpt_link: 'http://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html'
 image_file: 'Held.jpg'
 category:
   - people

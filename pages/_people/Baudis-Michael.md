@@ -1,7 +1,7 @@
 ---
 title:  "Michael Baudis"
 permalink: /people/Michael-Baudis.html
-excerpt_link: 'https://info.baudisgroup.org/group/Michael_Baudis/'
+excerpt_link: 'http://info.baudisgroup.org/group/Michael_Baudis/'
 excerpt_separator: <!--more-->
 layout: default
 date:   2007-08-01

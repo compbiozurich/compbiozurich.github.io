@@ -3,7 +3,7 @@ title: "Gunnar R&auml;tsch"
 layout: default
 date: 2016-05-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://bmi.inf.ethz.ch/people/person/gunnar-raetsch/'
+excerpt_link: 'http://bmi.inf.ethz.ch/people/person/gunnar-raetsch/'
 image_file: 'Raetsch.png'
 category:
   - people

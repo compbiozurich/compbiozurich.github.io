@@ -3,6 +3,7 @@ title: "Christian Ahrens"
 layout: default
 date: 2016-07-01
 excerpt_separator: <!--more-->
+permalink: /people/Christian-Ahrens.html
 excerpt_link: 'https://www.sib.swiss/christian-ahrens-group'
 image_file: 'Ahrens.jpg'
 category:

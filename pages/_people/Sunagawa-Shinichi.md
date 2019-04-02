@@ -3,7 +3,7 @@ title: "Shinichi Sunagawa"
 layout: default
 date: 2016-05-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.micro.biol.ethz.ch/people/lab-leaders/ssunagaw.html'
+excerpt_link: 'http://www.micro.biol.ethz.ch/research/sunagawa.html'
 image_file: 'Sunagawa.png'
 category:
   - people

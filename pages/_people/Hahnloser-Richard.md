@@ -3,7 +3,7 @@ title: "Richard Hahnloser"
 layout: default
 date: 2010-05-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.ini.uzh.ch/en/research/groups/zfinch'
+excerpt_link: 'http://www.ini.uzh.ch/en/research/groups/zfinch'
 image_file: 'Hahnloser.png'
 category:
   - people
