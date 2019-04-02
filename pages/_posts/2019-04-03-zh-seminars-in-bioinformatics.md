@@ -14,11 +14,11 @@ tags:
 ---
 
 ## {{ page.title }}
-### 
+### __seminar-title__
 
 * Wednesday, 2019-04-03
 * 12:15 in Y-55L-12, UZH Irchel campus
 
 <!--more-->
 
-*Abstract* 
+*Abstract* __seminar-abstract__
