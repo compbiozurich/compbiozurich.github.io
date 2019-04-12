@@ -2,7 +2,7 @@
 title: 'ZH Seminars Bioinformatics - Bo Gao'
 date: 2019-04-10
 layout: default
-author: '@mbaudis'
+author: '@KyleGao'
 excerpt_separator: <!--more-->
 www_link:
 www_links_formatted:
