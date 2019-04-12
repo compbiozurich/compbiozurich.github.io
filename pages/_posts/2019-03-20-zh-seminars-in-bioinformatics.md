@@ -11,6 +11,7 @@ category:
   - events
 tags:
   - seminars
+  - BIO612
 ---
 
 ## {{ page.title }}
