@@ -1,6 +1,6 @@
 ---
 title: 'ZH Seminars Bioinformatics - Damian Szklarczyk'
-date: 2019-04-24
+date: 2019-05-22
 layout: default
 author: 'Damian'
 excerpt_separator: <!--more-->
@@ -18,7 +18,7 @@ tags:
 
 ### Analysis of date-tagged protein-protein associations derived from scientific literature.
 
-* Wednesday, 2019-04-24
+* Wednesday, 2019-05-22
 * 12:15 in Y-55L-12, UZH Irchel campus
 
 <!--more-->
