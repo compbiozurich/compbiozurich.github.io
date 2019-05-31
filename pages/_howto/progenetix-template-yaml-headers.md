@@ -4,7 +4,7 @@ permalink: "/howto/yamlheader/"
 layout: default
 date:   2019-03-14
 author: "@mbaudis"
-excerpt_link: "https://baudisgroup.github.io/progenetix-site-template/howto/yamlheader/"
+excerpt_link: "https://progenetix.github.io/progenetix-site-template/howto/yamlheader/"
 excerpt_separator: <!--more-->
 category:
   - howto
@@ -73,7 +73,7 @@ tags:
     - when placed somewhere on a page, the `excerpt_separator` (as a standard here the ` <!--more-->` HTML comment) will limit the amount of content displayed in the excerpt on the listing page
 * `excerpt_link`
     - an optional link to different page when clicking the excerpt; i.e. not the page itself but the link target will be shown
-    - this can be used as in this page here, where the excerpt of the page will always link to the page maintained in the `baudisgroup.github.io/progenetix-site-template/` repository
+    - this can be used as in this page here, where the excerpt of the page will always link to the page maintained in the `progenetix.github.io/progenetix-site-template/` repository
 * `www_link`
     - a simple web address related to the post, e.g. https://www.ga4gh.org
     - will be added at the bottom of the page

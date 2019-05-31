@@ -14,21 +14,28 @@
 </head>
 
 <body>
-  <div id="headband">
+
+<div id="headband">
 {%- for static_file in site.static_files -%}{%- if static_file.path contains 'site-specific/site-logo-topleft.png' -%}
     <img src="{{ 'assets' | relative_url }}/img/site-specific/site-logo-topleft.png" id="logo_topleft" />
 {%- endif -%}{%- endfor -%}
 {%- for static_file in site.static_files -%}{%- if static_file.path contains 'site-specific/site-logo-topright.png' -%}
     <img src="{{ 'assets' | relative_url }}/img/site-specific/site-logo-topright.png" id="logo_topright" />
 {%- endif -%}{%- endfor -%}
-  </div>
-  <div class="wrapper" style="margin-top: 20px">
-    <header id="header" style="background-color: #fff; padding-bottom: 15px;">
+</div>
 
+<div class="container" style="margin-top: 20px">
+
+<header>
+
+  <div id="sitelogo">
 <a href="{{ '/' | relative_url }}">
-<h2>{{ site.label }}</h2>
-  <div style="font-size: 0.9em; margin-top: -10px; margin-bottom: 15px;">{{ site.tagline }}</div>
+		<h2>{{ site.label }}</h2>
+  	<div style="font-size: 0.9em; margin-top: -10px; margin-bottom: 15px;">{{ site.tagline }}</div>
 </a>
+	</div>
+
+  <div id="catlinks">
 
 {%- comment -%}
   * categories from _config.yaml
@@ -49,73 +56,95 @@
   <h5>{{block_label_type[0]}}</h5>
 
     {%- endunless -%}   
+
+{%- comment -%}
+  * begin looping through categories
+  * categories with 0 posts are not listed (counting cat_posts)
+{%- endcomment -%}
+
     {%- for this_category in site[block_key] -%}
       {%- assign cat_label = this_category[1] -%}
       {%- assign cat_key = this_category[0] -%}
       {%- assign cat_page = cat_key | append: '.html' -%}
+      {%- assign cat_posts = site.documents | where: 'category', cat_key | sort: 'date' | reverse -%}
 
-  <h4 class="catlink"><a href="{{ 'categories' | relative_url }}/{{cat_page}}">{{ cat_label }}</a></h4>
+			{%- if cat_posts.size >= 1 -%}
+
+  <h4><a href="{{ 'categories' | relative_url }}/{{cat_page}}">{{ cat_label }}</a></h4>
         
 {%- comment -%}
   * posts are listed if same category as current page
+  * this is only done if it is a temporally sorted category
   * the "this_name" fix is for the category collection pages - e.g. /howto.md
     which are identical in content (i.e. no "category" in front matter) & only
     differ in their name (=> category)
 {%- endcomment -%}
 
-      {%- assign this_name = page.name | split: "." -%}
-      {%- if page.category contains cat_key or this_name[0] == cat_key -%}
-        {%- assign cat_posts = site.documents | where: 'category', cat_key | sort: 'date' | reverse -%}
+				{%- if site.categories_year_sorted contains cat_key -%}
+					{%- assign this_name = page.name | split: "." -%}
+					{%- if page.categories contains cat_key or this_name[0] == cat_key -%}
+
 {%- comment -%}
   * first featured posts
   * those are subtracted from the nav_itemno count ...
 {%- endcomment -%}
 
-        {%- for post in cat_posts -%}{%- if post.tags contains '.featured' -%}
-          {%- assign post_link = post.url | relative_url -%}
-          {%- assign post_label = post.title -%}
-          {%- if post.excerpt_link contains 'https://' or post.excerpt_link contains 'https://' -%}
-            {%- assign post_link = post.excerpt_link -%}
-            {%- assign post_label = post_label | append: ' &#8599;' -%}
-          {%- endif -%}
-    <div class="sublink">
+						{%- for post in cat_posts -%}{%- if post.tags contains '.featured' -%}
+							{%- assign post_link = post.url | relative_url -%}
+							{%- assign post_label = post.title -%}
+							{%- if post.excerpt_link contains 'http://' or post.excerpt_link contains 'https://' -%}
+								{%- assign post_link = post.excerpt_link -%}
+								{%- assign post_label = post_label | append: ' &#8599;' -%}
+							{%- endif -%}
+
+    <h4 class="sublink">
       <a href="{{ post_link }}">{{ post_label }}</a>
-    </div>
-          {%- assign nav_itemno = nav_itemno | minus: 1 -%}
-        {%- endif -%}{%- endfor -%}
-        {%- for post in cat_posts limit: nav_itemno -%}{%- unless post.tags contains '.featured' or post.tags contains '.prepend' or post.tags contains '.append' -%}
+    </h4>
+							{%- assign nav_itemno = nav_itemno | minus: 1 -%}
+						{%- endif -%}{%- endfor -%}
+						{%- for post in cat_posts limit: nav_itemno -%}{%- unless post.tags contains '.featured' or post.tags contains '.prepend' or post.tags contains '.append' -%}
+
 {%- comment -%}
   * others than the featured posts
 {%- endcomment -%}
-          {%- assign post_link = post.url | relative_url -%}
-          {%- assign post_label = post.title -%}
-          {%- if post.excerpt_link contains 'https://' or post.excerpt_link contains 'https://' -%}
-            {%- assign post_link = post.excerpt_link -%}
-            {%- assign post_label = post_label | append: " &#8599;" -%}
-          {%- endif -%}
-    <div class="sublink">
+
+							{%- assign post_link = post.url | relative_url -%}
+							{%- assign post_label = post.title -%}
+							{%- if post.excerpt_link contains 'http://' or post.excerpt_link contains 'https://' -%}
+								{%- assign post_link = post.excerpt_link -%}
+								{%- assign post_label = post_label | append: ' &#8599;' -%}
+							{%- endif -%}
+    <h4 class="sublink">
       <a href="{{ post_link }}">{{ post_label }}</a>
-    </div>
+    </h4>
  
-        {%- endunless -%}{%- endfor -%}
+						{%- endunless -%}{%- endfor -%}
+						
 {%- comment -%}
   * link to the category collecting page, if more than nav_itemno
 {%- endcomment -%}
-        {%- if cat_posts.size > nav_itemno -%}
 
-    <div class="sublink" >
+						{%- if cat_posts.size > nav_itemno -%}
+
+    <h4 class="sublink" >
       <a href="{{ 'categories' | relative_url }}/{{cat_page}}">all ...</a>
-    </div>
+    </h4>
 
-        {%- endif -%}
+						{%- endif -%}
+					{%- endif -%}
+				{%- endif -%}
       {%- endif -%}
     {%- endfor -%}
   {%- endif -%}
+
+  </div>
 
 {%- comment -%}
   * / categories from _config.yaml
   * begin related_sites from _config.yml
 {%- endcomment -%}
+
+  <div id="outlinks">
 
   {%- assign nav_cat_blocks_cat = block_label_type[1] -%}
   {%- if site[nav_cat_blocks_cat] -%}
@@ -130,9 +159,9 @@
         {%- assign link_link = this_link[1] -%}
           {%- unless site.site_domain_name == link_link -%}
  
-    <div class="sublink">
+    <h4 class="sublink">
       <a href="{{ link_link }}">{{ link_label }}</a>
-    </div>
+    </h4>
 
         {%- endunless -%}
       {%- endfor -%}
@@ -146,9 +175,11 @@
   * begin of tags
 {%- endcomment -%}
 
-  <h5>Tags</h5>
+	</div>
 
-  <div style="text-align:center;">
+  <div id="tagcloud">
+
+  <h5>Tags</h5>
 
 {%- assign tags = site.emptyArray -%}
 {%- for this_post in site.documents -%}
@@ -228,8 +259,9 @@
 {%- endcomment -%}
 
 {%- if page.date or page.author -%}
+
   <div class="pagestamp">
-  <hr />
+
   {%- if page.author -%}
     {%- for this_author in page.author -%}
       {%- if this_author contains "@" -%}
@@ -254,9 +286,10 @@
 {%- comment -%}
   * / page content
   * begin footer
-{%- endcomment -%}
+{% endcomment %}
 
 <footer>
+
 {%- if page.name contains 'news' or page.category contains 'news' or page.category contains 'events' -%}
   {% if site.tweetfeed contains 'twitter' %}  
   <div id="tweetfeed" style="display: block; margin-top: 25px;">
@@ -266,17 +299,20 @@
   {% endif %}
 {%- endif -%}
 
-{%- for static_file in site.static_files -%}{%- if static_file.path contains 'site-specific/site-logo-main.png' -%}
+{%- for static_file in site.static_files -%}
+	{% if static_file.path contains 'site-specific/site-logo-main.png' %}
   <a href="{{ site.site_parent_link }}">
-    <img style="margin-top:15px; float: left;" src="{{ 'assets' | relative_url }}/img/site-specific/site-logo-main.png" />
+    <img style="margin-top:15px; margin-left: auto; margin-right: auto;" src="{{ 'assets' | relative_url }}/img/site-specific/site-logo-main.png" />
   </a>
-{%- endif -%}{%- endfor -%}
+	{% endif %}
+{%- endfor -%}
+
 </footer>
 
 {%- comment -%}
   * / footer
-  * next </div> closes the page wrapper
-{%- endcomment -%}
+  * next </div> closes the page container
+{% endcomment %}
 
 </div>
 

@@ -4,7 +4,7 @@ permalink: "/howto/add-pages/"
 layout: default
 date:   2019-03-25
 author: "@mbaudis"
-excerpt_link: "https://baudisgroup.github.io/progenetix-site-template/howto/add-pages/"
+excerpt_link: "https://progenetix.github.io/progenetix-site-template/howto/add-pages/"
 excerpt_separator: <!--more-->
 category:
   - howto

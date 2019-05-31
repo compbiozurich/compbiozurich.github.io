@@ -6,16 +6,55 @@
 
 use File::Basename;
 use File::Copy;
+use LWP::Simple;
 use YAML::XS qw(LoadFile DumpFile);
 use Data::Dumper;
 
 binmode STDOUT, ":utf8";
+
+my %args        =   @ARGV;
+
+$args{-master}	||=	'progenetix/progenetix-site-template';
 
 my @cat_blocks  =   qw(General Products);
 
 my $here_path   =   File::Basename::dirname( eval { ( caller() )[1] } );
 my $base_path   =   $here_path.'/..';
 our $config     =   LoadFile($base_path.'/_config.yml') or die "¡No _config.yml file in this path!";
+
+print $base_path."\n";
+
+# updating the layout and css files from the master repo
+# be sure to add css modifications to "site_style.css", since "style.css"
+# gets overwritten
+if ($base_path !~ /$args{-master}/) {
+
+	my $base_url	=		'https://raw.githubusercontent.com/'.$args{-master}.'/master';
+	my @master_f	=		('_layouts/default.html', 'assets/css/style.css');
+	
+	foreach (@master_f) {
+		my $url			=		$base_url.'/'.$_;
+		my $file		=		$base_path.'/'.$_;
+		print <<END;
+
+################################################################################
+
+updating $_ from $args{-master}
+
+$url => $file
+
+Please hit ENTER to proceed, or type "n" to skip:	
+END
+		my $resp = <STDIN>;
+		if ($resp =~ /^n/i) {
+			print "skipped $_\n\n";
+			next;
+		}
+		getstore($url, $file);
+		print "updated $_\n\n";
+
+
+}}
 
 my @items;
 my $template    =   $base_path.'/_templates/_tags.md';

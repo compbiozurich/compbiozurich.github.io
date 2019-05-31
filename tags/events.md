@@ -10,7 +10,7 @@ layout: default
 
 {%- assign today = site.time | date: '%Y%m%d' -%}
 {%- assign page_tag = this_tag | downcase -%}
-{%- assign posts_all = site.documents | sort: 'title' -%}
+{%- assign posts_all = site.documents | sort: 'date' | reverse -%}
 
 {%- for post in posts_all -%}
   {% if post.tags %}
@@ -23,6 +23,15 @@ layout: default
     {%- for tag in post_tags -%}
       {% assign tag_lower = tag | downcase %}
       {% if tag_lower == page_tag %}
+        {% assign post_day = post.date | date: '%Y%m%d' %}
+        {% assign post_year = post.date | date: '%Y' %}
+        {% if post_day > today %}
+          {% assign post_year = 'Upcoming' %}
+        {% endif %}
+        {% if current_year != post_year %}
+          {% assign current_year = post_year %}
+<h2 id="y{{post.date | date: "%Y"}}" style="margin-top: 20px;">{{ current_year }}</h2>
+        {% endif %}
 <div class="excerpt">
         {% if post_day > today %}
   <h3 style="color: red">{{ post.date | date: "%Y-%m-%d" }}</h3>

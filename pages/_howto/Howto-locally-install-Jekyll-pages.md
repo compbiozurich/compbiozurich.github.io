@@ -4,7 +4,7 @@ permalink: /howto/jekyllinstallation/
 layout: default
 date:   2019-03-14
 author: "@mbaudis"
-excerpt_link: https://baudisgroup.github.io/progenetix-site-template/howto/jekyllinstallation/
+excerpt_link: https://progenetix.github.io/progenetix-site-template/howto/jekyllinstallation/
 excerpt_separator: <!--more-->
 category:
   - howto
