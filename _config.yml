@@ -35,16 +35,19 @@ include:        # usually only pages in / and /_posts are "seen" => processed
   - categories  # contains landing pages for each category
   - tags        # contains landing pages for each tag
 
-# Collections are used to organise pages into logical groups; these do not need 
+# Collections are used to organise pages into logical groups; these do not need
 # to have a relation to the "categories", though this is highly recommended
 # Collection directories reside in "/collections_dir/_(collection name)".
 #
-# The special "_posts" collection is created automatically. Pages in this 
+# The special "_posts" collection is created automatically. Pages in this
 # collection have to be named with an ISO date prefix, followed by a minus sign:
 #   2019-04-03-anything-after_that,is__fine-though_no_spaces.md
 
 collections_dir: pages  # optional; here, all collections are inside "/pages"
 collections:
+  doc:
+    output: true
+    permalink: /doc/:path/
   about:
     output: true
     permalink: /about/:path/
@@ -63,8 +66,8 @@ collections:
   positions:
     output: true
     permalink: /positions/:path/
-    
-# navigation blocks can be used to separate different categories and add e.g. 
+
+# navigation blocks can be used to separate different categories and add e.g.
 # external link block(s), in combination with a properly modified layout
 
 nav_cat_blocks: # comma-separated "label,type,label_visibility"
@@ -81,11 +84,11 @@ General:
   howto: 'FAQ & Guides'
   positions: 'Open Positions'
 
-categories_year_sorted:
+categories-date-sorted:
   - news
   - events
-  
-tags_year_sorted:
+
+tags-date-sorted:
   - seminars
   - conferences
   - events
@@ -117,7 +120,7 @@ cloud_tags:
   - tools
   - website
   - Jekyll
-  
+
 # additional Jekyll instructions
 
 plugins:

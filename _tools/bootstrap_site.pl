@@ -1,6 +1,19 @@
 #!/usr/bin/perl
 
-=pod
+=podmd
+The bootstrap_site is a utility for creating the structure of __Progenetix 
+Jekyll Website Template__ based websites. The current functions are:
+
+* create list pages for all categories defined in `_config.yml`, separate for
+standard (alphabetically sorted) and reverse date sorted categories
+* as for categories, do the same for tags
+* check/add collections directories
+
+Additional options:
+
+* with the argument `-update y`, users will be prompted if they want to download
+the newest `style.css` and `layout.css` files from the "Progenetix :: Template"
+repository - this will overwrite the existing files!
 
 =cut
 
@@ -15,6 +28,7 @@ binmode STDOUT, ":utf8";
 my %args        =   @ARGV;
 
 $args{-master}	||=	'progenetix/progenetix-site-template';
+$args{-update}	||=	'n';
 
 my @cat_blocks  =   qw(General Products);
 
@@ -31,11 +45,15 @@ if ($base_path !~ /$args{-master}/) {
 
 	my $base_url	=		'https://raw.githubusercontent.com/'.$args{-master}.'/master';
 	my @master_f	=		('_layouts/default.html', 'assets/css/style.css');
-	
-	foreach (@master_f) {
-		my $url			=		$base_url.'/'.$_;
-		my $file		=		$base_path.'/'.$_;
-		print <<END;
+
+	if ($args{-update} =~ /y/i)	 {
+
+		foreach (@master_f) {
+
+			my $url			=		$base_url.'/'.$_;
+			my $file		=		$base_path.'/'.$_;
+			if ($args{-prompt} =~ /y/i) {
+				print <<END;
 
 ################################################################################
 
@@ -43,56 +61,78 @@ updating $_ from $args{-master}
 
 $url => $file
 
-Please hit ENTER to proceed, or type "n" to skip:	
+Please hit ENTER to proceed, or type "n" to skip:
 END
-		my $resp = <STDIN>;
-		if ($resp =~ /^n/i) {
-			print "skipped $_\n\n";
-			next;
-		}
-		getstore($url, $file);
-		print "updated $_\n\n";
+				my $resp = <STDIN>;
+				if ($resp =~ /^n/i) {
+					print "skipped $_\n\n";
+					next;
+				}
+			}
+			getstore($url, $file);
+			print "updated $_\n\n";
 
+}}}
 
-}}
+=podmd
+For `categories` and `tags` annotated in the `_config.yml` file, 3 listing pages
+will be generated:
 
-my @items;
-my $template    =   $base_path.'/_templates/_tags.md';
-my $type_path   =   $base_path.'/tags';
+* (tag/category).md
+    - the standard landing page, which will be either date or alphabetically
+    sorted, depending on the label in the config (default alphabetic)
+* (tag/category)-date-sorted.md, (tag/category)-alpha-sorted.md
+    - separate date or alpha sorted landing pages, to switch to
 
-#tags
-$template       =   $base_path.'/_templates/_tags.md';
-$type_path      =   $base_path.'/tags';
-@items          =   @{ $config->{cloud_tags} };
-mkdir $type_path;
-foreach (@items) { copy($template, $type_path.'/'.$_.'.md') }
-foreach (@items) { print $type_path.'/'.$_.'.md'."\n" }
+=cut
 
-$template       =   $base_path.'/_templates/_tags_year_sorted.md';
-@items          =   @{ $config->{tags_year_sorted} };
-foreach (@items) { copy($template, $type_path.'/'.$_.'.md') }
-foreach (@items) { print $type_path.'/'.$_.'.md'."\n" }
+my $scopes			=		{
+	categories		=>	[],
+	tags					=>	$config->{cloud_tags}
+};
 
-#categories
-$template       =   $base_path.'/_templates/_categories.md';
-$type_path      =   $base_path.'/categories';
-mkdir $type_path;
-@items          =   ();
 foreach $cat_block (keys %{ $config->{nav_cat_blocks} }) {
   if ($config->{nav_cat_blocks}->{$cat_block} =~ /\,categories\,/) {
     push(
-     @items,
+     @{ $scopes->{categories} },
      keys %{ $config->{$cat_block} },
     );
   }
 }
-foreach (@items) { copy($template, $type_path.'/'.$_.'.md') }
-foreach (@items) { print $type_path.'/'.$_.'.md'."\n" }
 
-$template       =   $base_path.'/_templates/_categories_year_sorted.md';
-@items          =   @{ $config->{categories_year_sorted} };
-foreach (@items) { copy($template, $type_path.'/'.$_.'.md') }
-foreach (@items) { print $type_path.'/'.$_.'.md'."\n" }
+foreach my $scope (keys %$scopes) {
+
+	my $type_path =   $base_path.'/'.$scope;
+	mkdir $type_path;
+	
+	my $templates	=		$base_path.'/_templates/_';
+	
+	foreach my $item (@{ $scopes->{$scope} }) {
+
+		foreach my $sort ("-date-sorted", "-alpha-sorted") {
+			copy(
+				$templates.$scope.$sort.'.md',
+				$type_path.'/'.$item.$sort.'.md'
+			);
+		}
+		
+		if (grep{ $item =~ /^$_$/i } @{ $config->{$scope.'-date-sorted'} } ) {
+			copy(
+				$templates.$scope.'-date-sorted'.'.md',
+				$type_path.'/'.$item.'.md'
+			);
+		} else {
+			copy(
+				$templates.$scope.'-alpha-sorted'.'.md',
+				$type_path.'/'.$item.'.md'
+			);
+		}
+	}
+}
+
+=podmd
+
+=cut
 
 mkdir $base_path.'/'.$config->{collections_dir};
 foreach my $coll (keys %{ $config->{collections} }) {
@@ -100,3 +140,7 @@ foreach my $coll (keys %{ $config->{collections} }) {
   print $base_path.'/'.$config->{collections_dir}.'/_'.$coll."\n";
 }
 
+if (-f $here_path.'/podmd.pl') {
+	my $doccmd		=		'perl '.$here_path.'/podmd.pl';
+	`$doccmd`;
+}

@@ -17,8 +17,9 @@ body { background-color: #fff; padding: 15px; font: 14px/1.5 "Noto Sans", "Helve
 h1,h2,h3 { margin-top: 16px; margin-bottom: 12px; }
 h4,h5,h6 { margin-top: 12px; margin-bottom: 8px; }
 
-p, ul, ol, table, pre, dl { margin: 0 0 20px; }
-
+p, ul, ol, table, pre, dl { margin: 0 0 1em; }
+li > ul { margin: 0; }
+li > ol { margin: 0; }
 h1, h2, h3 { line-height: 1.1; }
 
 h1 { color: #222; font-size: 28px; }
@@ -61,6 +62,43 @@ header h5  {
   width: 36px;
 }
 
+#nav_r {
+	position: absolute;
+	top: 72px;
+	right: 15px;
+	width: 42px;
+	display: block;
+	clear: none;
+}
+
+#pageediticn {
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+}
+
+#listpage_headline_wrapper {
+	width: 100%;
+}
+
+#listpage_headline_wrapper:after {
+  clear: both;
+}
+
+#listpage_sortmarker {
+	width: 10%;
+	padding-top: 10px;
+	float: right;
+	font-size: 0.8em;
+	text-align: right;
+}
+
+#listpage_headline {
+	width: 85%;
+	float: left;
+	clear: none;
+}
+
 a { text-decoration: none; color: var(--site-color); }
 a:hover, a:focus {  text-decoration: underline ; }
 a small { font-size: 11px; margin-top: -0.3em; display: block; }
@@ -85,8 +123,9 @@ pre { display: block; padding: 8px 15px; white-space: pre-wrap; tab-size: 2; bac
 
 table { width: 100%; border-collapse: collapse; }
 
+/* tr:nth-child(even) { background-color: #f3f3f3; } */
 th,td { text-align: left; padding: 5px 10px; border-bottom: 1px solid #e5e5e5; }
-th { color: #444; }
+th { color: #444; background-color: #f3f3f3; }
 td ul { padding: 0px; list-style: inside; }
 td li { margin-left: 0px; padding: 0px; }
 
@@ -101,11 +140,6 @@ img { max-width: 100%; }
 .tiny a  { color: #cde;  }
 .tiny a:hover { color: #cdf; }
 
-section p {
-  margin-top: 0px;
-  margin-bottom: 4px;
-}
-
 .pagestamp {
   margin-top: 25px;
   color: #ccc;
@@ -118,6 +152,17 @@ section p {
 }
 
 hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
+
+section {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
+
+section p {
+  margin-top: 0px;
+  margin-bottom: 4px;
+}
 
 /* special definitions */
 
@@ -133,7 +178,11 @@ section div.excerpt {
   border: 1px solid #e5e5e5;
 }
 
-section div.excerpt > a {
+section div.stale {
+  color: #999;
+}
+
+section div.excerpt > a:first-of-type {
   display:block;
   text-decoration: none;
   color: #727272;

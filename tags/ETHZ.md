@@ -3,10 +3,17 @@ layout: default
 ---
 
 {%- assign this_name = page.name | split: "." -%}
-{%- assign this_tag = this_name[0] | downcase -%}
-{%- assign this_pagetitle = this_tag  | capitalize | replace: '_', ' ' -%}
+{%- assign this_tag = this_name[0] | replace: '-alpha-sorted', '' -%}
+{%- assign this_pagetitle = this_tag | replace: '_', ' ' -%}
 
-<h2 class="page_title">Pages tagged "{{ this_pagetitle  }}"</h2>
+<div id="listpage_headline_wrapper">
+	<div id="listpage_sortmarker">
+		<a href="{{this_tag}}-date-sorted.html">[date &darr;]</a>
+	</div>
+	<div id="listpage_headline">
+		<h2 class="page_title">Pages tagged "{{ this_pagetitle  }}"</h2>
+	</div>
+</div>
 
 {%- assign today = site.time | date: '%Y%m%d' -%}
 {%- assign page_tag = this_tag | downcase -%}

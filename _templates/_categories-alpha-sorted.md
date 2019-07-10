@@ -3,10 +3,17 @@ layout: default
 ---
 
 {%- assign this_name = page.name | split: "." -%}
-{%- assign this_category = this_name[0] -%}
+{%- assign this_category = this_name[0] | replace: '-alpha-sorted', '' -%}
 {%- assign this_pagetitle = this_category  | capitalize | replace: '_', ' ' -%}
 
-<h2 class="page_title">{{ this_pagetitle }}</h2>
+<div id="listpage_headline_wrapper">
+	<div id="listpage_sortmarker">
+		<a href="{{this_category}}-date-sorted.html">[date &darr;]</a>
+	</div>
+	<div id="listpage_headline">
+		<h2 class="page_title">{{ this_pagetitle }}</h2>
+	</div>
+</div>
 
 {%- comment -%}
   * collecting the pages

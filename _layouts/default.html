@@ -80,7 +80,7 @@
     differ in their name (=> category)
 {%- endcomment -%}
 
-				{%- if site.categories_year_sorted contains cat_key -%}
+				{%- if site.categories-date-sorted contains cat_key -%}
 					{%- assign this_name = page.name | split: "." -%}
 					{%- if page.categories contains cat_key or this_name[0] == cat_key -%}
 

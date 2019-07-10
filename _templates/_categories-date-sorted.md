@@ -3,10 +3,17 @@ layout: default
 ---
 
 {%- assign this_name = page.name | split: "." -%}
-{%- assign this_category = this_name[0] -%}
+{%- assign this_category = this_name[0] | replace: '-date-sorted', '' -%}
 {%- assign this_pagetitle = this_category  | capitalize | replace: '_', ' ' -%}
 
-<h2 class="page_title">{{ this_pagetitle }}</h2>
+<div id="listpage_headline_wrapper">
+	<div id="listpage_sortmarker">
+		<a href="{{this_category}}-alpha-sorted.html">[A &rarr; Z]</a>
+	</div>
+	<div id="listpage_headline">
+		<h2 class="page_title">{{ this_pagetitle }}</h2>
+	</div>
+</div>
 
 {%- comment -%}
   * collecting the pages
@@ -54,9 +61,9 @@ layout: default
       {%- assign post_year = 'Upcoming' -%}
     {%- endif %}
     {%- if current_year != post_year -%}
-      {%- assign current_year = post_year -%}
+      {% assign current_year = post_year %}
 <h2 id="y{{post.date | date: "%Y"}}" style="margin-top: 20px;">{{ current_year }}</h2>
-    {%- endif -%}
+    {% endif %}
 <div class="excerpt">
     {%- if post_day > today -%}
   <h3 style="color: red">{{ post.date | date: "%Y-%m-%d" }}</h3>

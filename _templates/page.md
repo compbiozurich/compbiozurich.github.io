@@ -14,7 +14,7 @@ category: # please adjust
 #  - minutes
 tags: # please adjust; see tags -n _config.yml (or extend them there, too)
 #  - press
-#  - FAQ
+#  - faq
 #  - contacts
 ---
 
