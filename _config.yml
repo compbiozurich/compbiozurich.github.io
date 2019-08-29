@@ -10,7 +10,6 @@ plugins:
  - jekyll-seo-tag
 keywords:
   - Zurich
-  - Zürich
   - genomics
   - cancer
   - bioinformatics
@@ -19,6 +18,7 @@ keywords:
   - ETHZ
   - SIB
   - ZHAW
+  - HIFO
   - teaching
   - lectures
   - seminars
