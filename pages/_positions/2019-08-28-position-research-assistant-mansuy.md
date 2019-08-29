@@ -2,7 +2,9 @@
 title: 'Part time research assistant (student) in bioinformatics'
 date: 2019-08-28
 layout: default
-author: # quoted "@Github" shortname recommended
+author: 
+  - '@dktanwar'
+  - '@mbaudis' # quoted "@Github" shortname recommended
 excerpt_separator: <!--more-->
 excerpt_link: # an optional link to different page when clicking the excerpt
 www_link: https://www.hifo.uzh.ch/en/research/mansuy.html
