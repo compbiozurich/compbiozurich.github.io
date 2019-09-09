@@ -10,6 +10,7 @@ category:
 tags:
   - UZH
   - ETHZ
+  - HIFO
 ---
 
 {% for static_file in site.static_files %}
