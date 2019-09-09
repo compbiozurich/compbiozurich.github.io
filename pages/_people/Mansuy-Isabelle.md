@@ -4,12 +4,12 @@ layout: default
 date: 2019-09-09
 excerpt_separator: <!--more-->
 excerpt_link: 'https://www.hifo.uzh.ch/en/research/mansuy.html'
-image_file: 'Mansuy.jpg'
+image_file: 'Mansuy.png'
 category:
   - people
 tags:
   - UZH
-  - SIB
+  - ETHZ
 ---
 
 {% for static_file in site.static_files %}
