@@ -1,13 +1,13 @@
 ---
-title: "Lucas Pelkmans"
+title: "Christian von Mering"
 layout: default
-date: 2006-07-01
+date: 2007-04-01
 excerpt_separator: <!--more-->
-excerpt_link: 'https://www.imls.uzh.ch/en/research/vonmering/people/christian-von-mering.html'
+excerpt_link: 'https://www.imls.uzh.ch/en/research/vonmering.html'
 image_file: 'Mering.png'
 category:
   - people
-tags: # please delete unneeded options
+tags:
   - UZH
   - SIB
 ---
@@ -20,8 +20,9 @@ tags: # please delete unneeded options
 
 ## {{ page.title }}
 
-* Professor of Bioinformatics
-* Institute of Molecular Life Sciences 
+* Professor of Statistical Genomics
+* Institute of Molecular Life Sciences
+* IMLS Director of the Institute
 * University of Zurich
 
 <!--more-->
