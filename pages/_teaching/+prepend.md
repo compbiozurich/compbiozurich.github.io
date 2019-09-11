@@ -9,7 +9,7 @@ tags:
 
 ### Ph.D. Level
 
-Zurich's research groups in Computational Biology are host to a highly diverse group of international Ph.D. students. Entrance into the Ph.D. program is provided by the <a href="https://www.lifescience-graduateschool.ch/">Zurich Life Science Graduate School</a> via highly competitive Ph.D. programs that are administered jointly by the ETH Zurich and the University of Zurich. These programs aim to attract the most promising young scientists from across the world to Zurich. For questions about Ph.D. studies please contact the <a href="https://www.lifescience-graduateschool.ch/">Graduate School</a> or individual group leaders directly.
+Zurich's research groups in Computational Biology are host to a highly diverse group of international Ph.D. students. Entrance into the Ph.D. program is provided by the <a href="https://www.lifescience-graduateschool.uzh.ch/">Zurich Life Science Graduate School</a> via highly competitive Ph.D. programs that are administered jointly by the ETH Zurich and the University of Zurich. These programs aim to attract the most promising young scientists from across the world to Zurich. For questions about Ph.D. studies please contact the <a href="https://www.lifescience-graduateschool.uzh.ch/">Graduate School</a> or individual group leaders directly.
 
 ### Masters Level 
 
