@@ -2,3 +2,4 @@ _site/*
 _site
 *.lock
 pages/_teaching/.DS_Store
+.DS_Store
