@@ -26,7 +26,7 @@ end_podmd*/
 
 	var width							=		$("section").width();
 	var imgh							=		500;
-	var query							=		"https://progenetix.org/cgi-bin/collabplots.cgi?nodes=https://raw.githubusercontent.com/compbiozurich/compbiozurich.github.io/master/assets/collab/people.tab&nodesort=random&connections=https://raw.githubusercontent.com/compbiozurich/compbiozurich.github.io/master/assets/collab/connections.tab&plot_bgcolor_hex=%23ffffff&fontcol=%23000000&circradius=50&legendw=60&legendpos=top&legendsort=label+length&fontpx=11&legendfpx=12&imgtype=SVG&transparent=opaque&Submit=Submit&embed=1";
+	var query							=		"https://progenetix.org/cgi-bin/collabplots.cgi?nodes=https://raw.githubusercontent.com/compbiozurich/compbiozurich.github.io/master/collab/people.tab&nodesort=random&connections=https://raw.githubusercontent.com/compbiozurich/compbiozurich.github.io/master/collab/connections.tab&plot_bgcolor_hex=%23ffffff&fontcol=%23000000&circradius=50&legendw=60&legendpos=top&legendsort=label+length&fontpx=11&legendfpx=12&imgtype=SVG&transparent=opaque&Submit=Submit&embed=1";
 	query 								= 	query+"&imgh="+imgh+"&imgw="+width;
 
 	$("#collab_svg").attr("data",query);
