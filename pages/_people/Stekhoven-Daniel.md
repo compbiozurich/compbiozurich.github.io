@@ -1,5 +1,5 @@
 ---
-title: "Daniel Stekhoven"
+title: "Daniel J. Stekhoven"
 layout: default
 date: 2014-09-01
 excerpt_separator: <!--more-->
@@ -22,7 +22,8 @@ tags:
 ## {{ page.title }}
 
 * NEXUS Personalized Health Technologies
-* Head, Clinical Bioinformatics
+* Head Clinical Bioinformatics
+* Swiss Institute of Bioinformatics *SIB*
 
 <!--more-->
 
