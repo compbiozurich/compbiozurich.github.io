@@ -50,15 +50,9 @@ collections:
   doc:
     output: true
     permalink: /doc/:path/
-  about:
-    output: true
-    permalink: /about/:path/
   resources:
     output: true
     permalink: /resources/:path/
-  howto:
-    output: true
-    permalink: /howto/:path/
   people:
     output: true
     permalink: /people/:path/
@@ -112,6 +106,7 @@ cloud_tags:
   - LSZGS
   - Zurich
   - FAQ
+  - NEXUS
   - BIO612
   - teaching
   - lectures
