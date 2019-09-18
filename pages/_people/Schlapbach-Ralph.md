@@ -8,7 +8,7 @@ image_file: 'Schlapbach.jpg'
 category:
   - people
 tags:
-  - FGZC
+  - FGCZ
   - ETHZ
   - SIB
 ---
