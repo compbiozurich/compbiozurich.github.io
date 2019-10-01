@@ -16,8 +16,7 @@ tags:
 
 ## {{ page.title }}
 ##### Sydney Cytometry Facility, The University of Sydney and Centenary Institute
-### High-dimensional flow mass cytometry with Imaging Mass Cytometry in WNV and 
-ZIKV encephalitis
+### High-dimensional flow mass cytometry with Imaging Mass Cytometry in WNV and ZIKV encephalitis
 
 * Wednesday, 2019-10-02
 * 12:15 in Y-55L-12, UZH Irchel campus

@@ -15,7 +15,7 @@ tags:
 ---
 
 ## {{ page.title }}
-### On the discovery of population-specific state transitions<br>from single-cell RNA sequencing data
+### On the discovery of population-specific state transitions from single-cell RNA sequencing data
 
 * Wednesday, 2019-06-05
 * 12:15 in Y-55L-12, UZH Irchel campus
