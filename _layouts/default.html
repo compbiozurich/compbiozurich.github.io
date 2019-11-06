@@ -341,7 +341,9 @@
 	{%- if site.github.repository_url contains '/' -%}
     {%- assign github_link = site.github.repository_url | append: '/edit/master/' -%}
     {%- if page.path contains '/' -%}
-      {%- assign github_link = github_link | append: site.collections_dir  | append: '/' -%}
+      {%- unless page.path contains site.collections_dir -%}
+        {%- assign github_link = github_link | append: site.collections_dir  | append: '/' -%}
+      {%- endunless -%}
     {%- endif -%}
   <a href="{{github_link}}{{page.path}}" style="text-decoration: none; color: #ccc;"><img src="{{ 'assets/img/icons8-edit-file-26.png' | relative_url }}" alt="Edit on Github..." id="pageediticn" /></a>
 	{%- elsif site.source_path contains '/' -%}
