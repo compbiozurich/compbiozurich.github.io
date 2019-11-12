@@ -16,7 +16,7 @@ tags:
 
 ## {{ page.title }}
 
-* Wednesday, {{page.date}}
+* Wednesday, {{page.date | date: "%Y-%m-%d" }}
 * 12:15 in Y-55L-12, UZH Irchel campus
 
 <!--more-->
