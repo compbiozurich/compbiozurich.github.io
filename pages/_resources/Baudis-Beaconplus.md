@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 permalink: '/resources/beaconplus.html'
 www_link:
 www_links_formatted:
-image_file: 'logo_beacon.png'
+image_file:
 category:
   - resources
 tags: # please delete unneeded options
@@ -14,15 +14,9 @@ tags: # please delete unneeded options
   - tools
 ---
 
-{% for static_file in site.static_files %}
-  {% if static_file.path contains page.image_file %}
-<img style="float: right; max-width: 40px;" src="{{ static_file.path | relative_url}}" />
-  {% endif %}
-{% endfor %}
-
 ## {{page.title}}
 
-The Beacon protocol defines an open standard for genomics data discovery, developed by members of the Global Alliance for Genomics & Health. Since 2016, the Beacon protocols is being developed through the [ELIXIR Beacon project](https://beacon-project.io) as a GA4GH driver project.
+<img style="float: right; max-width: 40px;" src="/assets/img/logo_beacon.png" />The Beacon protocol defines an open standard for genomics data discovery, developed by members of the Global Alliance for Genomics & Health. Since 2016, the Beacon protocols is being developed through the [ELIXIR Beacon project](https://beacon-project.io) as a GA4GH driver project.
 
 <!--more-->
 
