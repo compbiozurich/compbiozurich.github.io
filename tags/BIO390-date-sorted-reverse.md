@@ -3,12 +3,12 @@ layout: default
 ---
 
 {%- assign this_name = page.name | split: "." -%}
-{%- assign this_tag = this_name[0] | replace: '-date-sorted', '' -%}
+{%- assign this_tag = this_name[0] | replace: '-date-sorted-reverse', '' -%}
 {%- assign this_pagetitle = this_tag  | capitalize | replace: '_', ' ' -%}
 
 <div id="listpage_headline_wrapper">
 	<div id="listpage_sortmarker">
- 		<a href="{{this_tag}}-date-sorted-reverse.html">[date&nbsp;&uarr;]</a>
+ 		<a href="{{this_tag}}-date-sorted.html">[date&nbsp;&darr;]</a>
 		<a href="{{this_tag}}-alpha-sorted.html">[A&nbsp;&rarr;&nbsp;Z]</a>
 		<a href="{{this_tag}}-alpha-sorted-reverse.html">[Z&nbsp;&rarr;&nbsp;A]</a>
 	</div>
@@ -19,7 +19,7 @@ layout: default
 
 {%- assign today = site.time | date: '%Y%m%d' -%}
 {%- assign page_tag = this_tag | downcase -%}
-{%- assign posts_all = site.documents | sort: 'date' | reverse -%}
+{%- assign posts_all = site.documents | sort: 'date' -%}
 
 {%- for post in posts_all -%}
   {%- if post.tags -%}

@@ -88,6 +88,10 @@ tags-date-sorted:
   - seminars
   - conferences
   - events
+  - BIO612
+  - BIO390
+  - BIO392
+  - positions
 
 related_sites:
   'SIB': 'https://sib.swiss'
@@ -107,6 +111,8 @@ cloud_tags:
   - Zurich
   - FAQ
   - NEXUS
+  - BIO390
+  - BIO392
   - BIO612
   - teaching
   - lectures
