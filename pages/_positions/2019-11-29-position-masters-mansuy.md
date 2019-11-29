@@ -19,7 +19,7 @@ The project is at the interface between computation and biology and aims to gain
 Programming in R/Python and knowledge of UNIX-like platform is required. Knowledge of Git and some experience in analyzing NGS data is advantageous. Applicants with research experience are particularly encouraged to apply. The position is available now. Applicants from biology, bioinformatics, mathematics, computer science, physics or any relevant interdisciplinary background are welcome. Applicants with research experience are particularly encouraged to apply. The student will join a team of bioinformaticians and biologists who work together on the generation and analyses of experimental data.
 
 
-Applications including a CV and a letter of motivation should be sent to Deepak Tanwar by email ([mailto:tanwar@hifo.uzh.ch]tanwar@hifo.uzh.ch). Further details on the project can be obtained from Deepak Tanwar by email or phone (+41 (0) 44 635 33 49).
+Applications including a CV and a letter of motivation should be sent to Deepak Tanwar by email (<a href="mailto:tanwar@hifo.uzh.ch">tanwar@hifo.uzh.ch</a>). Further details on the project can be obtained from Deepak Tanwar by email or phone (+41 (0) 44 635 33 49).
 
 
 <div class="pagestamp">
