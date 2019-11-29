@@ -1,5 +1,5 @@
 ---
-title: "Master´s position in Bioinformatics UZH/ETH, Zürich"
+title: "Masters position in Bioinformatics UZH/ETH, Zürich"
 date: 2019-11-29
 layout: default
 author: dktanwar
