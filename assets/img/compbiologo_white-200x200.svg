@@ -3,9 +3,8 @@ xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
 height="200px"
 width="200px"
-style="background-color: #ffffff; font-family: helvetica, sans-serif; "
+style="font-family: helvetica, sans-serif; "
 >
-<rect x="0" y="0" width="200" height="200" style="fill: #ffffff;" />
 	<a xlink:href="http://www.cbg.ethz.ch" target="_blank">
 	<path
 		d="M 165.00 100.00 A 65 65 0 0 1 163.90 111.91 L 169.80 113.01 A 71 71 0 0 0 171.00 100.00
