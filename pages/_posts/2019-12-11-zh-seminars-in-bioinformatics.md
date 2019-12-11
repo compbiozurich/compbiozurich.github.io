@@ -16,8 +16,8 @@ tags:
 
 ## {{ page.title }}
 #### Washington University School of Medicine, St. Louis
-### Knowledge standards drive clinical interpretation of genomic variants in cancers
-##### [[slides](/pdf/2019-12-11___Alex-Wagner__Knowledge-standards-drive-clinical-interpretation-of-genomic-variants-in-cancers__slides.pdf)]
+### Knowledge standards drive clinical interpretation of genomic variants in 
+cancers [[slides](/pdf/2019-12-11___Alex-Wagner__Knowledge-standards-drive-clinical-interpretation-of-genomic-variants-in-cancers__slides.pdf)]
 
 * Wednesday, {{page.date | date: "%Y-%m-%d" }}
 * 12:15 in Y-55L-12, UZH Irchel campus (room subject to change)
