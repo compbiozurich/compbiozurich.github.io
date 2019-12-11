@@ -5,7 +5,7 @@ date: 2019-09-17
 author: "@mbaudis"
 excerpt_separator: <!--more-->
 permalink: '/teaching/UZH-BIO390.html'
-www_link: '/UZH-BIO390/'
+www_link: 'https://compbiozurich.org/UZH-BIO390/'
 www_links_formatted:
 image_file:
 category:
@@ -16,12 +16,12 @@ tags:
   - lectures
 ---
 
-## {{page.title}} [↗︎](/UZH-BIO390/)
+## {{page.title}} [↗︎](https://compbiozurich.org/UZH-BIO390/)
 
 The "BIO390" lecture series at the University of Zurich runs through the Autumn semester,
 with once per week 2h lectures, in each ow which a different aspect of bioinformatics is
 being presented by a specialist in the respective field. Please visit the
-[website](/UZH-BIO390/) for further information.
+[website](https://compbiozurich.org/UZH-BIO390/) for further information.
 
 <!--more-->
 
