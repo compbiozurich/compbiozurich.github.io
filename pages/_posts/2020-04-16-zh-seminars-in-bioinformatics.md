@@ -5,6 +5,7 @@ author: '@mbaudis'
 excerpt_separator: <!--more-->
 www_link:
 www_links_formatted:
+  - '[<a href="https://internal.baudisgroup.org/pdf/2020-04-16___Marija-Dmitrijeva__Horizontal-Gene-Transfer-and-Species-Interactions__ZH-Sem-Bioinfo-slides.pdf">presentation slides (UZH internal)</a>]'
 pdf_file_name:
 category:
   - events
