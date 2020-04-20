@@ -1,16 +1,15 @@
 ---
-title:  "Michael Baudis"
-permalink: /people/Michael-Baudis.html
-excerpt_link: 'https://info.baudisgroup.org/group/Michael_Baudis/'
+title:  "Cara Magnabosco"
+permalink: /people/Cara-Magnabosco.html
+excerpt_link: 'https://erdw.ethz.ch/en/people/profile.cara-magnabosco.html'
 excerpt_separator: <!--more-->
 layout: default
-date:   2007-08-01
-image_file: 'Baudis.png'
+date:   2020-04-20
+image_file: 'Magnabosco.jpg'
 category:
  - people
 tags:
-  - UZH
-  - SIB
+  - ETHZ
 ---
 
 {% for static_file in site.static_files %}
@@ -19,10 +18,10 @@ tags:
   {% endif %}
 {% endfor %}
 
+
 ## {{ page.title }}
 
-- Professor of Bioinformatics
-- Institute of Molecular Life Sciences
-- University of Zurich & Swiss Institute of Bioinformatics **SIB**
+* Assistant Professor of Geobiology  
+* ETHZ Department of Earth Sciences  
 
 <!--more-->

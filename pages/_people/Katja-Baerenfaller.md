@@ -9,6 +9,7 @@ category:
   - people
 tags:
   - teachers
+  - SIAF
 ---
 
 {% for static_file in site.static_files %}
