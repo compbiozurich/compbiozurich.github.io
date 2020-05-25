@@ -11,6 +11,7 @@ category:
 tags:
   - seminars
   - BIO612
+  - news
 ---
 
 ## ZH Seminars Bioinformatics

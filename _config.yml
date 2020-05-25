@@ -73,9 +73,9 @@ nav_cat_blocks: # comma-separated "label,type,label_visibility"
   github_projects: 'Github Projects,github_projects,show'
 
 General:
+  events: 'Seminars & Events'
   news: News
   people: People
-  events: 'Seminars & Events'
   teaching: 'Lectures and Courses'
   resources: 'Software & Services'
   howto: 'FAQ & Guides'
@@ -122,6 +122,7 @@ cloud_tags:
   - conferences
   - events
   - databases
+  - news
   - tools
   - website
   - positions

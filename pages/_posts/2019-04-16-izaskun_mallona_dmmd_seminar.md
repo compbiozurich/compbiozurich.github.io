@@ -11,6 +11,7 @@ category:
   - events
 tags:
   - seminars
+  - news
 ---
 
 ## {{ page.title }}

@@ -13,6 +13,7 @@ category:
 tags:
   - seminars
   - BIO612
+  - news
 ---
 
 ## {{ page.title }}
