@@ -15,8 +15,7 @@ tags:
 ---
 
 ## {{ page.title }}
-### distinct: a method for differential analyses via hierarchical permutation tests, with
-applications to single-cell data
+### distinct: a method for differential analyses via hierarchical permutation tests, with applications to single-cell data
 
 * Thursday, {{page.date | date: "%Y-%m-%d" }}
 * 12:15 (ZOOM Call)
