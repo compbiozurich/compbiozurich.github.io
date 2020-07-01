@@ -1,5 +1,5 @@
 ---
-title: 'ZH Sem Bioinfo - Moritz Sch&aaul;fer'
+title: 'ZH Sem Bioinfo - Moritz Schäfer'
 layout: default
 author: '@mbaudis'
 date: 2020-07-02
