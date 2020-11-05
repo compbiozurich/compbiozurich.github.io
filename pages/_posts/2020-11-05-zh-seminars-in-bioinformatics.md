@@ -2,6 +2,7 @@
 title: 'ZH Sem Bioinfo - João Rodrigues'
 layout: default
 author: '@mbaudis'
+date: 2020-11-05
 excerpt_separator: <!--more-->
 www_link:
 www_links_formatted:

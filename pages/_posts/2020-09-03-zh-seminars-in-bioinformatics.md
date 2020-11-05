@@ -1,6 +1,7 @@
 ---
 title: 'ZH Sem Bioinfo - Stephan Schmeing'
 layout: default
+date: 2020-09-03
 author: '@mbaudis'
 excerpt_separator: <!--more-->
 www_link:
