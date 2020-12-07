@@ -4,6 +4,8 @@ layout: default
 date: 2019-09-17
 author: "@mbaudis"
 excerpt_separator: <!--more-->
+permalink: /people/Michael-Baudis.html
+excerpt_link: /UZH-BIO390/
 permalink: '/teaching/UZH-BIO390.html'
 www_link: 'https://compbiozurich.org/UZH-BIO390/'
 www_links_formatted:
