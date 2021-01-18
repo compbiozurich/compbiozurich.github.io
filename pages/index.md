@@ -2,7 +2,7 @@
 title: "Bioinformatics and Computational Biology in the Zurich Area"
 layout: default
 permalink: '/index.html'
-date:   2019-10-11
+date:   2021-01-18
 ---
 
 <h2><a href="https://compbiozurich.github.io">{{ page.title }}</a></h2>
