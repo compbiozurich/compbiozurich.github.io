@@ -35,9 +35,6 @@ end_podmd*/
 
 </script>
 
-
-### Latest News    
-
 {% comment %}
 	Some news ...
 {% endcomment %}
