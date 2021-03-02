@@ -1,7 +1,9 @@
 ---
 title: 'ZH Sem Bioinfo - Anthony Sonrel'
 layout: default
-author: '@mbaudis'
+authors:
+  - '@mbaudis'
+  - '@ansonrel'
 excerpt_separator: <!--more-->
 www_link:
 www_links_formatted:
