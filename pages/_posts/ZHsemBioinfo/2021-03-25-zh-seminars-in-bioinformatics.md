@@ -24,4 +24,4 @@ tags:
 
 <!--more-->
 
-*Abstract* 
+*Abstract*
