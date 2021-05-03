@@ -4,7 +4,7 @@ layout: default
 authors:
   - '@mbaudis'
 excerpt_separator: <!--more-->
-excerpt_link: https://info.baudisgroup.org/presentations/2021-05-06-zh-seminars-in-bioinformatics/
+excerpt_link:
 www_link:
 www_links_formatted:
 pdf_file_name:
