@@ -3,7 +3,7 @@ title: 'ZH Sem Bioinfo - Rahel Paloots'
 layout: default
 author: '@mbaudis'
 excerpt_separator: <!--more-->
-www_link:
+www_link: https://progenetix.org/progenetix-cohorts/cell-lines/
 www_links_formatted:
 pdf_file_name:
 category:
@@ -16,7 +16,8 @@ tags:
 
 ## {{ page.title }}
 
-### Introducing Progenetix Beacon- a comprehensive cancer cell line variant knowledge resource 
+### Introducing Progenetix Cell Line Beacon
+#### A comprehensive cancer cell line variant knowledge resource
 
 * Thursday, {{page.date | date: "%Y-%m-%d" }}
 * 12:15 om  ZOOM Call
