@@ -15,6 +15,7 @@ tags:
   - teaching
   - UZH
   - lectures
+  - BIO392
 ---
 
 ## {{page.title}} [↗︎](https://compbiozurich.org/UZH-BIO392/)

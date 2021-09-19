@@ -16,6 +16,7 @@ tags:
   - teaching
   - UZH
   - lectures
+  - BIO390
 ---
 
 ## {{page.title}} [↗︎](https://compbiozurich.org/UZH-BIO390/)

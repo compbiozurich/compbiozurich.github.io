@@ -34,9 +34,6 @@ layout: default
       {%- if tag_lower == page_tag -%}
         {%- assign post_day = post.date | date: '%Y%m%d' -%}
         {%- assign post_year = post.date | date: '%Y' -%}
-        {%- if post_day > today -%}
-          {%- assign post_year = 'Upcoming' -%}
-        {%- endif -%}
         {% if current_year != post_year %}
           {% assign current_year = post_year %}
 <h2 id="y{{post.date | date: "%Y"}}" style="margin-top: 20px;">{{ current_year }}</h2>
