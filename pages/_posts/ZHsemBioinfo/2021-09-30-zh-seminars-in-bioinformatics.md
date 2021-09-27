@@ -1,5 +1,5 @@
 ---
-title: 'ZH Sem Bioinfo - Marija Dimitrijeva'
+title: 'ZH Sem Bioinfo - Marija Dmitrijeva'
 layout: default
 author: '@mbaudis'
 excerpt_separator: <!--more-->
