@@ -22,7 +22,7 @@ tags:
 * 12:15 UZH Irchel Y55-l-06/08 and ZOOM Call
 
 
-![Progenetix logo](https://progenetix.org/img/progenetix-logo-black.png){: style="float: right; width: 200px; margin-top: -120px;"}**Abstract** Enormous amounts of biomedical data have been and are being produced at an unprecedented rate by researchers all over the world. However, in order to enable reuse, there is an urgent need to understand the structure of datasets, the experimental conditions under which they were produced and the information that other investigators may need to make sense of the data.
+![Progenetix logo](https://progenetix.org/img/progenetix-logo-black.png){: style="float: right; width: 200px; margin-top: -80px;"}**Abstract** Enormous amounts of biomedical data have been and are being produced at an unprecedented rate by researchers all over the world. However, in order to enable reuse, there is an urgent need to understand the structure of datasets, the experimental conditions under which they were produced and the information that other investigators may need to make sense of the data.
 
 <!--more-->
 
