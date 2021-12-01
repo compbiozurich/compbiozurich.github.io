@@ -1,7 +1,7 @@
 ---
 title: 'ZH Sem Bioinfo - Tülay Karakulak'
 layout: default
-author: '@mbaudis'
+author: '@KarakulakTulay'
 excerpt_separator: <!--more-->
 www_link:
 www_links_formatted:
