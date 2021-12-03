@@ -16,7 +16,7 @@ tags:
 
 ## {{ page.title }}
 
-### TBD
+### mVIRs: A tool to identify and locate inducible prophages in microbial genomes using NGS data
 
 * Thursday, {{page.date | date: "%Y-%m-%d" }}
 * 12:15 UZH Irchel Y55-l-06/08 and ZOOM Call
