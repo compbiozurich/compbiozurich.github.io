@@ -3,7 +3,7 @@ title: 'ZH Sem Bioinfo - Hans-Joachim Ruschewey'
 layout: default
 author: '@mbaudis'
 excerpt_separator: <!--more-->
-www_link: https://micro.biol.ethz.ch/people/person-detail.html?persid=232713
+www_link: https://orcid.org/0000-0001-7473-6086
 www_links_formatted:
 pdf_file_name:
 category:
