@@ -1,15 +1,15 @@
 ---
-title: "Bioinformatics and Computational Biology in the Zurich Area"
+title: "Bioinformatics, Biomedical Data Science and Computational Biology in the Zurich Area"
 layout: default
 permalink: '/index.html'
-date:   2021-01-18
+date:   2022-01-04
 ---
 
 <h2><a href="https://compbiozurich.github.io">{{ page.title }}</a></h2>
 
 Computational biology aims to answer fundamental biological questions with computational approaches, and it develops methods to analyze, manage, and integrate massive amounts of heterogeneous data.
 
-Multiple research groups at the University of Zurich (UZH) and the ETH Zurich (ETHZ) carry out research in computational biology and bioinformatics methods. Their activities span fields as diverse as statistical and functional genomics, evolutionary biology, biostatistics, medical informatics, and neurobiology. These research groups are affiliated with various institutes and form a loose confederation of scientists that is held together by common research interests and collaborations, as well as by shared teaching activities. This website provides an overview of some of the related research and teaching activities in the Zurich area.
+Multiple research groups at the University of Zurich (UZH), the ETH Zurich (ETHZ) and other larger Zürich area institutions (PSI, ZHAW ...) carry out research in computational biology, biomedical data science and bioinformatics methods. Activities span fields as diverse as statistical and functional genomics, evolutionary biology, biostatistics, medical informatics, and neurobiology. The individual research groups form a loose confederation of scientists that is held together by common research interests and collaborations, as well as by shared teaching activities. This website provides an overview of some of the related research and teaching activities in the Zurich area.
 
 <object id="collab_svg" style="width: 100%" type="image/svg+xml" data="">Loading ...</object>
 
