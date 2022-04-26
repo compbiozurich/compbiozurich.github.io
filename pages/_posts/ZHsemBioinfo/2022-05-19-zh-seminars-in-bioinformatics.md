@@ -1,5 +1,5 @@
 ---
-title: 'ZH Sem Bioinfo - Inbar Leaf'
+title: 'ZH Sem Bioinfo - Elyas Heidari'
 layout: default
 author: '@mbaudis'
 excerpt_separator: <!--more-->
