@@ -15,6 +15,7 @@ tags:
 ---
 
 ## {{ page.title }}
+### Supervised spatial inference of dissociated single-cell data with _SageNet_
 
 * Thursday, {{page.date | date: "%Y-%m-%d" }}
 * 12:15 UZH Irchel Y55-l-06/08 and ZOOM Call
