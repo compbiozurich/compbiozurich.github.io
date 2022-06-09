@@ -16,18 +16,11 @@ Multiple research groups at the University of Zurich (UZH), the ETH Zurich (ETHZ
 <script>
 $(document).ready(function() {
 
-/*podmd
-The collaboration plot is embedded with the width corresponding to the current document's
-main text area ("section").
-
-TODO: Dynamic scaling or separate legend (i.e. floating).
-
-end_podmd*/
-
-	var width							=		$("section").width();
-	var imgh							=		500;
-	var query							=		"https://progenetix.org/cgi-bin/collabplots.cgi?nodes=https://raw.githubusercontent.com/compbiozurich/compbiozurich.github.io/master/collab/people.tab&nodesort=random&connections=https://raw.githubusercontent.com/compbiozurich/compbiozurich.github.io/master/collab/connections.tab&plot_bgcolor_hex=%23ffffff&fontcol=%23000000&circradius=50&legendw=60&legendpos=top&legendsort=label+length&fontpx=11&legendfpx=12&imgtype=SVG&transparent=opaque&Submit=Submit&embed=1";
-	query 								= 	query+"&imgh="+imgh+"&imgw="+width;
+	var width = $("section").width();
+	var imgh = 500;
+  var peopleURL = "https://raw.githubusercontent.com/compbiozurich/compbiozurich.github.io/master/collab/people.tab"
+  var connURL = "https://raw.githubusercontent.com/compbiozurich/compbiozurich.github.io/master/collab/connections.tab"
+	var query = "https://progenetix.org/cgi-bin/pgxConnections/cgi/collabPlots.cgi?nodes="+peopleURL+"&nodesort=random&connections="+connURL+"&plot_bgcolor_hex=%23ffffff&fontcol=%23000000&circradius=50&legendw=60&legendpos=top&legendsort=label+length&fontpx=11&legendfpx=12&imgtype=SVG&transparent=opaque"+"&imgh="+imgh+"&imgw="+width;
 
 	$("#collab_svg").attr("data",query);
 
