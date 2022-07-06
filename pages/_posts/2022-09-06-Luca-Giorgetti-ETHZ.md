@@ -11,6 +11,7 @@ category:
   - seminars
 tags:
   - seminars
+  - news
 ---
 
 ## Towards a quantitative understanding of long-range transcriptional regulation
