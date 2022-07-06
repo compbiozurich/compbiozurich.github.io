@@ -16,7 +16,7 @@ tags:
 ## Towards a quantitative understanding of long-range transcriptional regulation
 ### Luca Giorgetti, FMI Basel
 
-ISMB/ECCB 2019 is the largest and most high profile annual meeting of scientists working in computational biology. This year's conference will be on July 21-25 in Basel.
+* recently published [Nature paper](https://www.nature.com/articles/s41586-022-04570-y) on “Nonlinear control of transcription through enhancer–promoter interactions”
 
 <!--more-->
 
