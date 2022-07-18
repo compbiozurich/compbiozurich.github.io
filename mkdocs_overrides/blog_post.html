@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ page.title }}</h1>
+<p>
+  <b>{{ page.meta.description }}</b>
+</p>
+  {{ page.content }}
+  {% if page.meta.pdf_file_name or page.meta.links %}
+<h4>Links</h4>
+  
+<ul>
+    {% if page.meta.pdf_file_name %}
+      {% set pdfLab = "PDF" %}
+      {% if ".pdf" in page.meta.pdf_file_name %}
+  <li>Download {{ pdfLab }}&nbsp;<a href="/pdf/{{page.meta.pdf_file_name}}"><span  class="twemoji">{% include ".icons/fontawesome/regular/file-pdf.svg" %}</span></a></li>
+      {% endif %}
+    {% endif %}
+    {% if page.meta.links %}
+      {% if page.meta.links|length > 0 %}
+        {% for link in page.meta.links %}
+          {% if link.startswith('<a') %}
+  <li>{{ link }}</li>
+          {% elif link.startswith('[') %}
+            {% set label = link.split('](', 1)[0] | replace('[', '') %}
+            {% set target = link.split('](', 1)[1] | replace(')', '') %}
+  <li><a href="{{ target }}">[{{label}}]</a></li>
+          {% else %}
+  <li><a href="{{ link }}">[LINK]</a></li>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+</ul>
+  {% include "partials/date_separator.html" %}
+{% endblock %}

@@ -1,0 +1,10 @@
+---
+template: blog_post.html
+title: Phylogeny and Metabolic Potential of SAR324
+description: 'Zurich Seminars in Bioinformatics - Lukas Malfertheiner'
+date: 2020-12-10
+---
+
+* 12:15 om  ZOOM Call
+
+The bacterial SAR324 cluster is ubiquitous in the ocean, especially around hydrothermal vents and in the deep sea, where it can account for up to 20% of the whole bacterial community. According to a new taxonomy generated using multiple universal protein-coding genes instead of the previously used 16s rRNA single gene marker, the former Deltaproteobacteria cluster SAR324 is since 2018 classified as its own phylum. Yet, very little is known about the phylogeny, metabolic potential and the influence of SAR324 on the different environments where they live. We downloaded all publicly available SAR324 genomes (65) from the genome taxonomy database, and also constructed 18 new genomes out of different oceanic metagenomic samples, including from under the Ross Ice Shelf in the Antarctica.<!--more--> After discarding low quality and ident genomes we calculated phylogenetic trees and assigned group names to six clusters within SAR324. Thereafter we annotated the metagenomic assembled genomes to get an overview of their metabolism. This represents the first pangenomic analyses of this globally-abundant phylum. The results show that SAR324 has a very versatile and broad metabolic potential, including many heterotrophic, but also autotrophic pathways. While one, surface seawater associated clade seems to use proteorhodopsin to gain energy from solar radiation, some deep-sea genomes contain the complete Calvin cycle gene repertoire to fix carbon while gaining energy from inorganic chemical reactions. This, in addition to other intriguing genes and pathways for both oxic (e.g. dimethylsulfoniopropionate degradation) and anoxic (e.g. dissimilatory sulfate reduction, anaerobic benzoate degradation) conditions can help explain, in an unprecedented manner, the ubiquitous presence of SAR324 in aquatic habitats.

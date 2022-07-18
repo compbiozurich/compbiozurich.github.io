@@ -1,0 +1,10 @@
+<aside class="blog-post-aside">
+    <span>
+      {% if page.meta.date %}
+      <span class="twemoji">
+        {% include ".icons/octicons/calendar-24.svg" %}
+      </span>
+      {{ page.meta.date.strftime("%B %d, %Y") }}
+      {% endif %}
+    </span>
+</aside>

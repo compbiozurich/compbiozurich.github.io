@@ -1,0 +1,18 @@
+<h3 class="title_news">{{ page.title }}</h3>
+{% if page.meta.description is defined %}
+<h5>{{ page.meta.description }}</h5>
+{% endif %}
+<!-- Use a hidden p tag to provide a preview -->
+{{ page.content.split(config.extra.excerpt_separator, 1)[0] }}
+<!-- The page may have a forwarding link in the meta block ... -->
+{% if page.meta.excerpt_link is defined %}
+<a href="{{ page.meta.excerpt_link }}">
+  External Page <span class="twemoji">{% include ".icons/octicons/link-24.svg" %}</span>
+</a>
+{% else %}
+<a href="/{{ page.url }}#more">
+  Contact Details <span class="twemoji">{% include ".icons/octicons/kebab-horizontal-24.svg" %}</span>
+</a>
+<div class="contact_spacer">
+</div>
+{% endif %}

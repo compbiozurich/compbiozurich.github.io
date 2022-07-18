@@ -1,0 +1,17 @@
+---
+template: blog_post.html
+title: Polyploid crop genome assembly by optical genome mapping and homeolog specific genomics analysis
+description: 'ZH Seminars Bioinformatics - Masaomi Hatakeyama'
+date: 2019-04-03
+authors:
+  - '@mbaudis'
+---
+
+
+* Wednesday, 2019-04-03
+* 12:15 in Y-55L-12, UZH Irchel campus
+
+*Abstract* I will show the latest update of Finger millet genome assembly
+scaffolded by Bionano Saphyr at chromosomal length scale. I will
+introduce yet another polyploid analysing tool called EAGLE-RC and
+show some results on the resequencing data.
