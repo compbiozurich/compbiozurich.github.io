@@ -1,7 +1,3 @@
----
-template: news_list.html
----
-
 # Bioinformatics, Biomedical Data Science and Computational Biology in the Zurich Area
 
 Computational biology aims to answer fundamental biological questions with computational approaches, and it develops methods to analyze, manage, and integrate massive amounts of heterogeneous data.
@@ -10,5 +6,3 @@ Multiple research groups at the University of Zurich (UZH), the ETH Zurich (ETHZ
 
 
 <img style="width: 100%" src="https://progenetix.org/cgi-bin/pgxConnections/cgi/collabPlots.cgi?nodes=https://raw.githubusercontent.com/compbiozurich/compbiozurich.github.io/master/collab/people.tab&nodesort=random&connections=https://raw.githubusercontent.com/compbiozurich/compbiozurich.github.io/master/collab/connections.tab&plot_bgcolor_hex=%23ffffff&fontcol=%23000000&circradius=50&legendw=60&legendpos=top&legendsort=label+length&fontpx=11&legendfpx=12&imgtype=SVG&transparent=opaque&imgh=500&imgw=720" />
-
-## News & Events

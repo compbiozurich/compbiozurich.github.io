@@ -29,5 +29,5 @@ Seminars - especially from the **Zurich Seminars in Bioinformatics** series - ar
 * [Life Sciences Zürich Graduate School](https://www.lifescience-graduateschool.uzh.ch/en.html)
 * [Master Computational Biology and Bioinformatics](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computational-biology-and-bioinformatics.html) - program of the ETHZ together
 with UZH and Uni Basel
-* [PhD Programme in Data Science](https://phd-data-science.ch) by ZHAW &
+* [PhD Programme in Data Science](https://phd-data-science.ch) by ZHAW & UZH
 
