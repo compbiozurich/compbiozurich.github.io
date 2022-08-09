@@ -18,5 +18,3 @@ The handling and analysis of biological data using computational methods has bec
 * Course language is English
 
 
-## Lectures
-
