@@ -1,21 +1,14 @@
 ---
-title: 'Michael Baudis - What is Bioinformatics?'
-layout: default
-author:
+template: blog_post.html
+title: 'What is Bioinformatics? Introduction and Resources'
+date: 2021-09-21
+authors:
   - "@mbaudis"
-excerpt_separator: <!--more-->
-pdf_file_name: 2021-09-21___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-day-01.pdf
-www_link:
+pdf_file_name: 
 links:
-categories:
-  - lectures
-tags:
-  - "2021"
-  - material
-  - days
+  - '<a href="2021-09-21___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-day-01.pdf">[2021 lecture slides]</a> (PDF)'
 ---
 
-## What is Bioinformatics? Introduction and Resources
 #### Michael Baudis
 
 The first day of the "Introduction to Bioinformatics" lecture series starts with a general introduction into the field and a description of the lecture topics, timeline and procedures.

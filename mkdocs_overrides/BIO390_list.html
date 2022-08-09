@@ -6,8 +6,6 @@
 
   {% set today = build_date_utc.strftime('%Y%m%d') | int %}
 
-  {{ today }}
-
   {% set future_posts = [] %}
   {% set news_posts = [] %}
   {% for this_file in pages %}
@@ -15,7 +13,7 @@
     {% if this_page.meta is defined %}
       {% if this_page.meta.date is defined %}
         {% if "/UZH-BIO390/" in this_page.url %}
-          {% set page_date = this_page.meta.date | replace('-', '') | int %}
+          {% set page_date = this_page.meta.date.strftime('%Y%m%d') | int %}
           {% if page_date > today %}
             {{ future_posts.append( this_page ) or "" }}
           {% else %}
@@ -26,50 +24,26 @@
     {% endif %}
   {% endfor %}
 
+<!--
+First, upcoming events are processed with the "oldes" (i.e. closest in the
+future) first if any exist
+-->
+
   {% if future_posts|length > 0 %}
-
   <h2>Upcoming Lectures</h2>
-
     {% for page in (future_posts |sort(attribute="meta.date", reverse=False))[:config.extra.blog_list_length] %}
-
-      {% include "partials/date_separator.html" %}
-
-<h3 class="title_news">{{ page.title }}</h3>
-      {% if page.meta.description is defined %}
-<h5 class="title_news">{{ page.meta.description }}</h5>
-      {% endif %}
-<!-- Use a hidden p tag to provide a preview -->
-      {{ page.content.split(config.extra.excerpt_separator, 1)[0] }}
-<a href="{{ page.url|url }}">
-  <span class="twemoji">
-      {% include ".icons/octicons/arrow-right-24.svg" %}
-  </span>
-  Continue reading
-</a>
-
+      {% include "partials/blog_preview.html" %}
     {% endfor %}
-
   {% endif %}
+
+<!--
+Then, previous events are processed with the latest first
+-->
 
   <h2>Previous Events</h2>
 
   {% for page in (news_posts|sort(attribute="meta.date", reverse=True))[:config.extra.blog_list_length] %}
-
-    {% include "partials/date_separator.html" %}
-
-<h3 class="title_news">{{ page.title }}</h3>
-    {% if page.meta.description is defined %}
-<h5 class="title_news">{{ page.meta.description }}</h5>
-    {% endif %}
-<!-- Use a hidden p tag to provide a preview -->
-    {{ page.content.split(config.extra.excerpt_separator, 1)[0] }}
-<a href="{{ page.url|url }}">
-  <span class="twemoji">
-    {% include ".icons/octicons/arrow-right-24.svg" %}
-  </span>
-  Continue reading
-</a>
-
+    {% include "partials/blog_preview.html" %}
   {% endfor %}
 
 {% endblock %}
