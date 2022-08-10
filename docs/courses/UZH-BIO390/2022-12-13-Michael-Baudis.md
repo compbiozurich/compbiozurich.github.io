@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'Genomic Data Risks & Opportunities'
 authors:
   - "@mbaudis"

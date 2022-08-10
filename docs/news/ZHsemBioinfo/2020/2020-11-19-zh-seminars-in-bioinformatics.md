@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Doublet identification and characterization in single-cell data
 description: 'Zurich Seminars in Bioinformatics - Pierre-Luc Germain'
 authors:

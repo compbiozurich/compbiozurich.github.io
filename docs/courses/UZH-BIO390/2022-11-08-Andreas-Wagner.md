@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'Biological Networks'
 date: 2022-11-08
 authors:

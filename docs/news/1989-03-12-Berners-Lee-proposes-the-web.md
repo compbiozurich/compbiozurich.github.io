@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Berners-Lee proposes the Web"
 date: 1989-03-12
 layout: default

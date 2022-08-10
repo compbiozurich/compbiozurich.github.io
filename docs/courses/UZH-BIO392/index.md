@@ -1,5 +1,6 @@
 ---
-template: BIO392_list.html
+template: post_list.html
+path_element: "/UZH-BIO392/"
 ---
 
 # BIO392 - Bioinformatics of Sequence Variation
@@ -13,6 +14,4 @@ template: BIO392_list.html
 
 * Course language is English
 
-
-## Lectures
 

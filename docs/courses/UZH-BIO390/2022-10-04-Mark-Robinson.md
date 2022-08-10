@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Statistical Bioinformatics
 date: 2022-10-04
 authors:

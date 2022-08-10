@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Maria Anisimova"
 date: 2014-07-01
 links:

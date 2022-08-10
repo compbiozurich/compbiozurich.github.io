@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Interval statistics reveal frequently altered gene copies across cancers
 description: 'ZH Seminars Bioinformatics - Qingyao Huang'
 date: 2019-12-04

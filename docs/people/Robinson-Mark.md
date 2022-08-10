@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Mark Robinson"
 date: 2011-09-01
 links:

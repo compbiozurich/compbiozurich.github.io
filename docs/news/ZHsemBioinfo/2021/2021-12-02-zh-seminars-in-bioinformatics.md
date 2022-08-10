@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'CanIsoNet beta-version: A Database to Study the Functional Impact of Isoform Switching Events in Cancer'
 description: 'Zurich Seminars in Bioinformatics - Tülay Karakulak'
 date: 2021-12-02

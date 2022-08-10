@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Introducing Progenetix Cell Line Beacon - A comprehensive cancer cell line variant knowledge resource
 description: 'Zurich Seminars in Bioinformatics - Rahel Paloots'
 date: 2021-06-17

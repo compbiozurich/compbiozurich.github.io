@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'Building a Genomics Resource'
 author: '@mbaudis'
 pdf_file_name:

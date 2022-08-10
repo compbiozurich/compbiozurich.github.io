@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Supervised spatial inference of dissociated single-cell data with _SageNet_
 description: 'Zurich Seminars in Bioinformatics - Elyas Heidari'
 date: 2022-05-19

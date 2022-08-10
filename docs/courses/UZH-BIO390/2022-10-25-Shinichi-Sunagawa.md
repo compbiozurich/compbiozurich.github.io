@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'Metagenomics'
 date: 2022-10-25
 authors:

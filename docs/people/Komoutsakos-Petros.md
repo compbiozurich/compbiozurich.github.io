@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Petros Koumoutsakos"
 date: 2000-07-01
 links:

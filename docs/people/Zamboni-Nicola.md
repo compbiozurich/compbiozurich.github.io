@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Nicola Zamboni"
 date: 2005-07-01
 links:

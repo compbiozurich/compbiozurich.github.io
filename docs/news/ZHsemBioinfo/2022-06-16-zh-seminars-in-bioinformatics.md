@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Novel Minimal HDV-like Ribozymes
 description: 'Zurich Seminars in Bioinformatics - Lukas Malfertheiner'
 date: 2022-06-16

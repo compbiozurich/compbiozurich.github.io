@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Machine Learning for Biological Use Cases
 date: 2022-10-11
 authors:

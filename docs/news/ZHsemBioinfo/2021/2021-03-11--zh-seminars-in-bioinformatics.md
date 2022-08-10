@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Degradation of human mRNA transcripts over time as an indicator of the time since deposition (TsD) in biological crime scene traces
 description: 'Zurich Seminars in Bioinformatics - Giancarlo Russo'
 date: 2021-03-11

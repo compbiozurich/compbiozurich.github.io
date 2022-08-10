@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Amedeo Caflisch"
 date: 1996-07-01
 links:

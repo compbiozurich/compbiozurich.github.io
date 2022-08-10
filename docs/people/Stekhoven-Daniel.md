@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Daniel J. Stekhoven"
 date: 2014-09-01
 links:

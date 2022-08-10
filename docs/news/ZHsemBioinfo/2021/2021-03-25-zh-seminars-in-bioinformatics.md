@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Discovering copy number variation across multiple cancer types
 description: 'Zurich Seminars in Bioinformatics - Qingyao Huang'
 date: 2021-03-25

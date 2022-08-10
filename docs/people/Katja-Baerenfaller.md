@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Katja Baerenfaller, PhD"
 date: 2019-12-10
 links:

@@ -1,5 +1,6 @@
 ---
-template: BIO390_list.html
+template: post_list.html
+path_element: "/UZH-BIO390/"
 ---
 
 # BIO390 - Introduction to Bioinformatics

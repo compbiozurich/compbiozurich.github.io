@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'Text Mining and Search Strategies'
 date: 2022-11-15
 authors:

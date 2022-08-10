@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Biological Sequence Informatics
 date: 2022-09-27 
 authors:

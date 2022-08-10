@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'From Biomolecular Networks to Pathways: Tools for the Interpretation of Genome-Wide Experiments'
 description: 'Zurich Seminars in Bioinformatics - Annika Gable'
 date: 2021-01-21

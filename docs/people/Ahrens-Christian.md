@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Christian Ahrens"
 date: 2016-07-01
 links:

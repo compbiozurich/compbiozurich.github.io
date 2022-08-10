@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Regulatory Genomics and Epigenomics
 date: 2022-10-18
 authors:

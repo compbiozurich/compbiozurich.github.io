@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Christian von Mering"
 date: 2007-04-01
 links:

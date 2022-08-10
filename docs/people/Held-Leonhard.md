@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Leonhard Held"
 date: 2006-09-01
 links:

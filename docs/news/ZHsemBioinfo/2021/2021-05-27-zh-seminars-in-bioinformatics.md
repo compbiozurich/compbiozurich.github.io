@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: A computational framework to analyse phenotypic heterogeneity in spatial single cell data
 description: 'Zurich Seminars in Bioinformatics - Adriano Martinelli'
 date: 2021-05-27

@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'mVIRs: A tool to identify and locate inducible prophages in microbial genomes using NGS data'
 description: 'Zurich Seminars in Bioinformatics - Mirjam Zünd'
 date: 2021-12-09

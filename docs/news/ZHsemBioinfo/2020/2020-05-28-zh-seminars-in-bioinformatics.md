@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: aGOtool.org web-tool for protein-centric functional enrichment
 description: 'ZH Seminars Bioinformatics - David Lyon'
 date: 2020-05-28

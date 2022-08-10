@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 description: 'ZH Seminars Bioinformatics - Bo Gao'
 date: 2019-04-17
 author: '@KyleGao'
