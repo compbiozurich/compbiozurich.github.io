@@ -6,7 +6,7 @@ authors:
 date: 2022-12-20
 pdf_file_name: 
 links:
-  - '<a href="/UZH-BIO390/doc/learning-goals.html">[Approximate Learning goals]</a>'
+  - '<a href="/courses/UZH-BIO390/learning-goals/">[Approximate Learning goals]</a>'
 ---
 
 The exam will be on the last day of the course *on site*:
@@ -16,6 +16,6 @@ The exam will be on the last day of the course *on site*:
 * multiple (single + multiple) choice w/ one or two open questions
 * no material, phones etc.
 * student ID for entrance
-* please refer to the [learning goals](/UZH-BIO390/doc/learning-goals.html) for guidance
+* please refer to the [learning goals](/courses/UZH-BIO390/learning-goals/) for guidance
     - ¡topics may be edited throughout the course!
     - these just provide some __non-exclusive__ guidance

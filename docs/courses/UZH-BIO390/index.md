@@ -18,4 +18,7 @@ The handling and analysis of biological data using computational methods has bec
 * OLAT [lecture recordings](https://lms.uzh.ch/auth/RepositoryEntry/17064820858/CourseNode/104195425228088)
 * Course language is English
 
+Some [very approximate learning goals](/courses/UZH-BIO390/learning-goals/) may provide
+you with additional guidance - but plese be aware that those may not be particularly adjusted
+to a given course edition.  
 

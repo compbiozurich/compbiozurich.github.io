@@ -16,6 +16,7 @@ The first day of the "Introduction to Bioinformatics" lecture series starts with
 
 Topics covered in the lecture are e.g.:
 
+<!--more-->
 * a term definition for _bioinformatics_
 * the relation of hypothesis driven and data driven science, with respect to bioinformatics
 * categories of bioinformatics tools and data
@@ -26,7 +27,6 @@ Topics covered in the lecture are e.g.:
 * file Formats, ontologies & APIs ass areas/topics (w/o details)
 * "not-bioinformatics"
 
-<!--more-->
 
 At the end of the lecture, a - very - brief introduction into the relevance of different aspects of bioinformatics for human genome variation is being given.
 
