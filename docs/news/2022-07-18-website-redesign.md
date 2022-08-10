@@ -1,6 +1,6 @@
 ---
 template: post.html
-title: "CombbioZurich Website Redesign"
+title: "CompbioZurich Website Redesign"
 description: Re-implementing the Site with Mkdocs
 date: 2022-07-18
 authors:
