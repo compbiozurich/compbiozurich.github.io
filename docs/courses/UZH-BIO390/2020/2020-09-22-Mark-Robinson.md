@@ -1,10 +1,9 @@
 ---
 title: 'Mark Robinson - Statistical Bioinformatics'
-layout: default
-author:
+template: post.html
+authors:
   - "@mbaudis"
 excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name:
 links:  # one or more formatted html links
   - '<a href="/UZH-BIO390/course-material/2020-09-22___Mark-Robinson__Statistics-Bioinformatics__UZH-BIO390-HS20-lecture-02.pdf" target="_blank">[lecture slides]</a>'

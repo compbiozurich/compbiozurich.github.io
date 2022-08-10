@@ -1,10 +1,9 @@
 ---
 title: 'Katja Baerenfaller - Proteomics'
-layout: default
-author:
+template: post.html
+authors:
   - ""
 excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name:     # name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
   - '<a href="/UZH-BIO390/course-material/2020-10-13___Katja-Baerenfaller__Proteomics__BIO390-HS20-lecture-05.pdf">[2020 Lecture Slides]</a>'

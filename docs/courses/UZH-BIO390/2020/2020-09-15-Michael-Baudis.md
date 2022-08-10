@@ -1,7 +1,7 @@
 ---
 title: 'Michael Baudis - What is Bioinformatics?'
-layout: default
-author:
+template: post.html
+authors:
   - "@mbaudis"
 excerpt_separator: <!--more-->
 pdf_file_name:

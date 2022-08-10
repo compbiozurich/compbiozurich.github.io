@@ -1,23 +1,15 @@
 ---
-title: 'Shinichi Sunagawa - Metagenomics'
-layout: default
-author:
+title: 'Metagenomics'
+template: post.html
+authors:
   - "@SuShiAtGit"
-excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
+date: 2021-10-26
 pdf_file_name:
 links:
   - '<a href="/UZH-BIO390/course-material/2021-10-26___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS21-Exercises.xlsx" target="_blank">[2021 exercises spreadsheet]</a> (.xslx)'
   - '<a href="/UZH-BIO390/course-material/2021-10-26___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS21-lecture-06.pdf" target="_blank">[2021 lecture slides]</a> (.pdf)'
-categories:
-  - lectures
-tags:
-  - "2021"
-  - material
-  - days
 ---
 
-## Metagenomics
 #### Shinichi Sunagawa (ETHZ)
 
 **Abstract:**

@@ -1,21 +1,13 @@
 ---
-title: 'Fabio Rinaldi - Biomedical Text Mining'
-layout: default
-author:
+title:  Biomedical Text Mining
+template: post.html
+authors:
   - "@mbaudis"
-excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
+date: 2021-11-16
 pdf_file_name: 2021-11-16___Fabio-Rinaldi__Biomedical-Text-Mining__UZH-BIO390-HS21-lecture-09.pdf
 links:
-categories:
-  - lectures
-tags:
-  - "2021"
-  - material
-  - days
 ---
 
-## Text Mining
 #### Fabio Rinaldi
 
 ##### What is text mining?

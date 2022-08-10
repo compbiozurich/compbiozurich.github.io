@@ -1,23 +1,15 @@
 ---
-title: 'Katja Baerenfaller - Proteomics'
-layout: default
-author:
+title: Proteomics
+template: post.html
+authors:
   - ""
-excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
+date: 2021-11-02
 pdf_file_name:     # name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
   - '<a href="/UZH-BIO390/course-material/2021-11-02___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS21-lecture-07.pdf">[2021 Lecture Slides]</a>'
-categories:
-  - lectures
-tags:
-  - "2021"
-  - material
-  - days
 ---
 
-## Proteomics
-#### Katja Baerenfaller
+#### Katja Baerenfaller (SIAF)
 
 In proteomics one of the important bioinformatics tasks is to generate lists of reliably identified peptides and proteins in mass spectrometry-based experiments. For this, amino acid sequences are assigned to measured tandem mass spectra. The quality of the peptide spectrum assignments are scored and criteria are applied that allow to distinguish the good from the bad hits and to estimate the quality of the dataset.
 

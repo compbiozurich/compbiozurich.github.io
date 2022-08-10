@@ -1,10 +1,9 @@
 ---
 title: 'Exam'
-layout: default
-author:
+template: post.html
+authors:
   - "@mbaudis"
 excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
   - '<a href="/UZH-BIO390/">[UZH-BIO390]</a>'

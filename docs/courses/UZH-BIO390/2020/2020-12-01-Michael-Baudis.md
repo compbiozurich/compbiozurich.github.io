@@ -1,7 +1,7 @@
 ---
 title: 'Michael Baudis - Building a Genomics Resource'
-layout: default
-author: '@mbaudis'
+template: post.html
+authors: '@mbaudis'
 excerpt_separator: <!--more-->
 www_link: http://progenetix.org
 pdf_file_name:

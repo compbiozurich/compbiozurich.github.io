@@ -1,10 +1,9 @@
 ---
 title: 'Alex H. Wagner- Clinical Interpretation Knowledgebases and Learning Bioinformatics'
-layout: default
-author:
+template: post.html
+authors:
   - ""
 excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
   - '<a href="/UZH-BIO390/course-material/2019-12-11___Alex-H-Wagner__Clinical-Knowledgebases-and-Learning__UZH-BIO390-HS19-lecture-13A.pdf">[slides "Knowledgebases and Learning"]</a>'

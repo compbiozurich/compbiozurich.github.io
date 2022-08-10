@@ -1,7 +1,7 @@
 ---
 template: post.html
 title: 'Building a Genomics Resource'
-author: '@mbaudis'
+authors: '@mbaudis'
 pdf_file_name:
 links:  # one or more formatted html links
   - '<a href="/UZH-BIO390/course-material/2021-11-30___Michael-Baudis__Building-a-Genomics-Resource__UZH-BIO390-HS21-lecture-11.pdf">[2021 lecture slides]</a>'

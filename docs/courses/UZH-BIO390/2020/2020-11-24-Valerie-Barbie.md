@@ -1,10 +1,9 @@
 ---
 title: 'Valerie Barbie - Clinical Bioinformatics'
-layout: default
-author:
+template: post.html
+authors:
   - ""
 excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 links:
   - '<a href="/UZH-BIO390/course-material/2020-11-24___Valerie-Barbie__Clinical-Bioinformatics__UZH-BIO390-HS20-lecture-11.pdf" target="_blank">[2020 lecture slides]</a>'

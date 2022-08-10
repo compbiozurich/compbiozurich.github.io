@@ -1,10 +1,9 @@
 ---
 title: 'Amedeo Caflisch - Molecular Dynamics'
-layout: default
-author:
+template: post.html
+authors:
   - ""
 excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 2019-11-05___Amedeo-Caflisch__Molecular_Dynamics__UZH-BIO390-HS19-lecture-07			# name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
   - '<a href="/UZH-BIO390/">[UZH-BIO390]</a>'

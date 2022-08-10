@@ -1,7 +1,7 @@
 ---
 title: 'Michael Baudis - Introducing Bioinformatics'
-layout: default
-author:
+template: post.html
+authors:
   - "@mbaudis"
 excerpt_separator: <!--more-->
 pdf_file_name: 2019-09-17___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-HS19-lecture-01.pdf

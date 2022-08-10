@@ -1,22 +1,15 @@
 ---
-title: 'Valerie Barbie - Clinical Bioinformatics'
-layout: default
-author:
-  - ""
-excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
+title: 'Clinical Bioinformatics'
+template: post.html
+authors:
+  - "@mbaudis"
+date: 2019-11-26
 pdf_file_name: 2019-11-26___Valerie-Barbie__Clinical-Bioinformatics__UZH-BIO390-HS19-lecture-10.pdf				# name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
   - '<a href="/UZH-BIO390/">[UZH-BIO390]</a>'
   - '<a href="/UZH-BIO390/categories/people.html">[Course Lecturers]</a>'
-categories:
-  - lectures
-tags:
-  - material
-  - days
 ---
 
-## Clinical Bioinformatics
 #### Valerie Barbie
 
 Medical practice is undergoing a revolution around personalized health: this major change is driven by the continuous development of cost-effective high-throughput technologies that produce gigantic quantities of data in numerous areas, from imaging to genomics, and of the corresponding tools required to process these data.

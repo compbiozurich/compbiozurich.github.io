@@ -3,7 +3,6 @@ template: post.html
 title: '2021 Exam'
 authors:
   - "@mbaudis"
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
   - '<a href="/UZH-BIO390/doc/learning-goals.html">[Learning goals]</a>'

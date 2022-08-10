@@ -1,10 +1,9 @@
 ---
 title: 'Christian von Mering - Biological Sequence Informatics'
-layout: default
-author:
+template: post.html
+authors:
   - ""
 # excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name:
 links:  # one or more formatted html links
   - '<a href="/UZH-BIO390/course-material/2019-09-29___Christian-von-Mering__Biological-Sequence-Informatics__UZH-BIO390-HS20-lecture-03.pdf" target="_blank">[lecture slides]</a>'

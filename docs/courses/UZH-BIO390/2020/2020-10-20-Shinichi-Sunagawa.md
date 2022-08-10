@@ -1,10 +1,9 @@
 ---
 title: 'Shinichi Sunagawa - Metagenomics'
-layout: default
-author:
+template: post.html
+authors:
   - "@SuShiAtGit"
 excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name:
 links:
   - '<a href="/UZH-BIO390/course-material/2020-10-20___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS20-lecture-06.pdf" target="_blank">[2020 lecture slides]</a>'

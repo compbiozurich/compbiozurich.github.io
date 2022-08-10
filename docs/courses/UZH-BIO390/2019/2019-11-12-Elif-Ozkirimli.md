@@ -1,10 +1,9 @@
 ---
 title: 'Elif Ozkirimli - Protein Structure and Interactions'
-layout: default
-author:
+template: post.html
+authors:
   - "@ElifOzkirimli"
 excerpt_separator: <!--more-->
-www_link: 						# web address, e.g. https://www.ga4gh.org; auto-linked
 pdf_file_name: 			  # name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
   - '<a href="/UZH-BIO390/course-material/2019-11-12___Elif-Ozkirimli__Protein-Protein-Interactions__UZH-BIO90-HS19-lecture08.pdf">[Lecture slides - PDF]</a>'
