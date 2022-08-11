@@ -1,4 +1,4 @@
-<h2><a href="https://compbiozurich.github.io">{{ page.title }}</a></h2>
+<h2><a href="https://compbiozurich.github.io">compbiozurich</a></h2>
 
 This is the repository for the [compbiozurich.org](https://compbiozurich.org) website. Please see there for further information.
 
