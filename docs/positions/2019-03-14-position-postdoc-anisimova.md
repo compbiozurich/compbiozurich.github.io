@@ -1,21 +1,12 @@
 ---
 title: 'PhD / Postdoc in Computational Phylogenetics'
 date: 2019-03-14
-layout: default
-author: # quoted "@Github" shortname recommended
-excerpt_separator: <!--more-->
-excerpt_link: # an optional link to different page when clicking the excerpt
-www_link: 'https://www.zhaw.ch/de/ueber-uns/person/anis/'
+template: post.html
 links:
+  - 'https://www.zhaw.ch/de/ueber-uns/person/anis/'
   - '<a href="mailto:maria.anisimova@zhaw.ch">[maria.anisimova@zhaw.ch]</a>'
-pdf_file_name: # the name of a PDF (no path) somewhere in "assets", which will be auto-linked
-category: # please adjust
-  - positions
-tags:
-  - ZHAW
 ---
 
-## {{ page.title }}
 With the advent of new generation sequencing (NGS) bioinformatic methods must keep pace to provide robust scalable solutions to analyse large sets of molecular sequences. The evolutionary history of molecules is described by a tree structure called phylogeny, which is inferred from genomic sequences. Phylogenies are used for testing biological hypotheses with applications ranging from medicine to ecology. Phylogeny inference usually relies on an inferred alignment of homologous sequences, which – in turn – relies on a guide-tree reflecting their ancestral relationships. The goal is to address this apparent circularity so to improve the reliability of phylogenetic analyses. Ideally alignment and tree should be
 inferred jointly.
 

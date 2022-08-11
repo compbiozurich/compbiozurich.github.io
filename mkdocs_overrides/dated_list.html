@@ -20,9 +20,6 @@ The list page will process individual pages which:
     {% set path_element = page.meta.path_element %}
   {% endif %}
 
-  {% set today = build_date_utc.strftime('%Y%m%d') | int %}
-
-  {% set future_posts = [] %}
   {% set news_posts = [] %}
   
   {% for this_file in pages %}
@@ -30,34 +27,12 @@ The list page will process individual pages which:
     {% if this_page.meta is defined %}
       {% if this_page.meta.date is defined and this_page.meta.template is defined %}   
         {% if path_element in this_page.url and "post" in this_page.meta.template %}
-          {% set page_date = this_page.meta.date.strftime('%Y%m%d') | int %}
-          {% if page_date > today %}
-            {{ future_posts.append( this_page ) or "" }}
-          {% else %}
-            {{ news_posts.append( this_page ) or "" }}
-          {% endif %}
+          {{ news_posts.append( this_page ) or "" }}
         {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
 
-<!--
-First, upcoming events are processed with the "oldes" (i.e. closest in the
-future) first if any exist
--->
-
-  {% if future_posts|length > 0 %}
-  <h2>Upcoming</h2>
-    {% for post_page in (future_posts |sort(attribute="meta.date", reverse=False))[:config.extra.blog_list_length] %}
-      {% include "partials/post_preview.html" %}
-    {% endfor %}
-  {% endif %}
-
-<!--
-Then, previous events are processed with the latest first
--->
-
-  <h2>Previous</h2>
 
   {% for post_page in (news_posts|sort(attribute="meta.date", reverse=True))[:config.extra.blog_list_length] %}
     {% include "partials/post_preview.html" %}
