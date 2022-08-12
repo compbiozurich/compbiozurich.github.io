@@ -51,7 +51,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
       options:
         custom_icons:
-          - mkdocs_overrides/.icons
+          - extras/.icons
 
 ###############################################################################
 
@@ -74,7 +74,7 @@ theme:
     - navigation.tracking
     - navigation.sections
     - toc.integrate
-  custom_dir: mkdocs_overrides
+  custom_dir: extras
       
 plugins:
     - search
