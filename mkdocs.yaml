@@ -73,7 +73,7 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
-    - toc.integrate
+    # - toc.integrate
   custom_dir: extras
       
 plugins:
