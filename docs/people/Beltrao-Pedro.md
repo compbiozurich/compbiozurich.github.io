@@ -2,7 +2,7 @@
 template: post.html
 title:  "Pedro Beltrao"
 links:
-  - 'https://imsb.ethz.ch/research/beltrao.html'
+  - https://imsb.ethz.ch/research/beltrao.html
 date:   2022-07-01
 image_file:
 ---
