@@ -1,6 +1,8 @@
----
-template: alpha_list.html
----
+Template:	alpha_list.html
+Note:		The template will add the posts from the directory with the same
+			name as this file (w/o extension).
+
+<!--content-->
 
 # Bioinformatics Tools & Resources
 

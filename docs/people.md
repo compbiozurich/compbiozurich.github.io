@@ -1,6 +1,8 @@
----
-template: people_list.html
----
+Template: 	people_list.html
+Note:		The template will add the posts from the directory with the same
+			name as this file (w/o extension).
+
+<!--content-->
 
 # Zürich Area Groups in Bioinformatics, Data Science and Computational Biology
 

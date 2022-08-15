@@ -1,5 +1,3 @@
----
-template: post_list.html
----
+Template: post_list.html
 
 # News, Events, Seminars ...

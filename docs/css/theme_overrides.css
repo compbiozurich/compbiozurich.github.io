@@ -28,22 +28,34 @@ ab47bd
     background-position: right; 
 }
 
+.md-typeset h1 {
+    line-height:  1;
+    margin: 0px;
+}
+
 h2 {
     color:  var(--md-accent-font-color);
     border-top:  var(--md-accent-font-color) thin solid;
     border-bottom:  var(--md-accent-font-color) thin solid;
 }
 
+.blog-post-preview {
+    border-left:  var(--md-accent-font-color) thin solid;
+    padding-left:  10px;
+    margin-top:  10px;
+    margin-bottom: 24px;
+    font-size: 0.9em;
+}
+
 aside.blog-post-aside {
-    border-top:  var(--md-accent-font-color) thin solid;
-    margin-top:  24px;
-    padding-top:  12px;
+    /*border-top:  var(--md-accent-font-color) thin solid;*/
+    /*margin-top:  24px;*/
+    /*padding-top:  12px;*/
 }
 
 div.contact_spacer {
     display:  block;
     height:  20px;
-
 }
 
 h3.title_news {

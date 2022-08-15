@@ -4,10 +4,10 @@
 The list page will process individual pages which:
 
 * have a match of the list page's `page.meta.path_element` in their url
-    - alternatively the last path element of the calling page will be used
+    - alternatively the name of the calling page will be used (e.g. "news" if
+      called from "news.md")
     - this is accessed through `page.url.split('/')[-2]` since the `-1` would
       be the page file name or empty (index page)
-* have "post.html" in their `meta.template`
 
 --------------------------------------------------------------------------------
 
@@ -15,7 +15,6 @@ The list page will process individual pages which:
 
   {{ page.content }}
   {% set path_element = page.url.split('/')[-2] %}
-  {{path_element}}
   {% if page.meta.path_element is defined %}
     {% set path_element = page.meta.path_element %}
   {% endif %}
