@@ -1,6 +1,7 @@
 ---
 template: post.html
 title: 'Text Mining and Search Strategies'
+description: BIO390 UZH HS22 - Introduction to Bioinformatics
 date: 2022-11-15
 authors:
   - "@mbaudis"

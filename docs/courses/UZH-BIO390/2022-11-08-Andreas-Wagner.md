@@ -1,6 +1,7 @@
 ---
 template: post.html
 title: 'Biological Networks'
+description: BIO390 UZH HS22 - Introduction to Bioinformatics
 date: 2022-11-08
 authors:
   - "@mbaudis"

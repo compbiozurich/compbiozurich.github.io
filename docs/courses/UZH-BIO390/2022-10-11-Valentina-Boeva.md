@@ -1,6 +1,7 @@
 ---
 template: post.html
 title: Machine Learning for Biological Use Cases
+description: BIO390 UZH HS22 - Introduction to Bioinformatics
 date: 2022-10-11
 authors:
 pdf_file_name: 

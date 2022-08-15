@@ -1,6 +1,7 @@
 ---
 template: post.html
 title: 'Metagenomics'
+description: BIO390 UZH HS22 - Introduction to Bioinformatics
 date: 2022-10-25
 authors:
   - "@SuShiAtGit"

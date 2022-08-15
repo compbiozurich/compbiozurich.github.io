@@ -1,6 +1,7 @@
 ---
 title: Proteomics
 template: post.html
+description: BIO390 UZH HS22 - Introduction to Bioinformatics
 authors:
   - "@mbaudis"
 date: 2022-11-01

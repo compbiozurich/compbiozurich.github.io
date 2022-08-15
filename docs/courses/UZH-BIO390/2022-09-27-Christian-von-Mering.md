@@ -1,6 +1,7 @@
 ---
 template: post.html
 title: Biological Sequence Informatics
+description: BIO390 UZH HS22 - Introduction to Bioinformatics
 date: 2022-09-27 
 authors:
 pdf_file_name: 

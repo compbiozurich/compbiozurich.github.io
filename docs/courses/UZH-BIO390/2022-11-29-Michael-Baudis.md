@@ -1,6 +1,7 @@
 ---
 template: post.html
 title: 'Building a Genomics Resource'
+description: BIO390 UZH HS22 - Introduction to Bioinformatics
 authors: '@mbaudis'
 pdf_file_name:
 links:  # one or more formatted html links

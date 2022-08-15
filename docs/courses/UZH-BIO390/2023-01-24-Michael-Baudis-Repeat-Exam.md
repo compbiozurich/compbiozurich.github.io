@@ -1,6 +1,7 @@
 ---
 template: post.html
 title: 'BIO390 Repeat Exam'
+description: BIO390 UZH HS22 - Introduction to Bioinformatics
 authors:
   - "@mbaudis"
 date: 2023-01-24

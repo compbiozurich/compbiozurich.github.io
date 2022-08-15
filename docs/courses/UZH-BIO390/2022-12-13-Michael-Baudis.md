@@ -1,6 +1,7 @@
 ---
 template: post.html
 title: 'Genomic Data Risks & Opportunities'
+description: BIO390 UZH HS22 - Introduction to Bioinformatics
 authors:
   - "@mbaudis"
 date: 2022-12-13
