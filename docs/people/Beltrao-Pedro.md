@@ -2,7 +2,7 @@
 template: post.html
 title:  "Pedro Beltrao"
 links:
-  - 'https://krauthammerlab.ch'
+  - 'https://imsb.ethz.ch/research/beltrao.html'
 date:   2022-07-01
 image_file:
 ---
