@@ -7,8 +7,8 @@ authors:
   - "@mbaudis"
 pdf_file_name:
 links:  # one or more formatted html links
-  - https://bit.ly/3wjyHpf
-  - '<a href="/pdf/2021-11-23___Ahmad-Aghaebrahimian__Semantic-web__UZH-BIO390-HS21-lecture-10.pdf>[2021 slides]</a>'
+  - '<a href="https://bit.ly/3wjyHpf">SPARQL example</a>'
+  - '<a href="/pdf/2021-11-23___Ahmad-Aghaebrahimian__Semantic-web__UZH-BIO390-HS21-lecture-10.pdf">[2021 slides]</a>'
 ---
 
 #### Ahmad Aghaebrahimian (ZHAW)
