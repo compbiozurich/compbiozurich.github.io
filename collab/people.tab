@@ -1,37 +1,34 @@
-Aegerter	Christof Aegerter	UZH	http://www.physik.uzh.ch/groups/aegerter/team/aegerter.html
-Aghaebrahimian	Ahmad Aghaebrahimian	ZHAW	https://www.zhaw.ch/en/about-us/person/agha/
-Ahrens	Christian Ahrens	Agroscope	http://www.agroscope.admin.ch/agroscope/de/home/ueber-uns/standorte-kontakte/waedenswil.html
-Anisimova	Maria Anisimova	ZHAW	http://www.zhaw.ch/fileadmin/php_includes/popup/person-detail.php?kurzz=anis
-# Baubec	Tuncay Baubec	UZH	http://www.baubeclab.org
-Baerenfaller	Katja Baerenfaller	SIAF	https://www.siaf.uzh.ch/molecular_allergology_katja.html
-Baudis	Michael Baudis	UZH	http://www.imls.uzh.ch/research/baudis.html
-Beerenwinkel	Niko Beerenwinkel	ETHZ	http://www.cbg.ethz.ch
-Beltrao	Pedro Beltrao	ETHZ	https://imsb.ethz.ch/research/beltrao.html
-Bodenmiller	Bernd Bodenmiller	UZH	https://www.dqbm.uzh.ch/en/research/groups/bodenmiller.html
-Boeva	Valentina Boeva	ETHZ	https://inf.ethz.ch/people/person-detail.boeva.html
-Buhmann	Joachim M. Buhmann	ETHZ	http://www.ise.inf.ethz.ch
-Caflisch	Amedeo Caflisch	UZH	http://www.biochem-caflisch.uzh.ch
-Ciaudo	Constance Ciaudo	ETHZ	http://www.mhs.biol.ethz.ch/research/ciaudo/
-# Claassen	Manfred Claassen	ETHZ	http://www.imsb.ethz.ch/research/claassen.html
-# Hahnloser	Richard Hahnloser	INI	http://www.ini.uzh.ch/en/institute/people?uname=rich
-Held	Leonhard Held	UZH	http://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html
-Kahraman	Abdullah Kahraman	USZ	https://www.sib.swiss/directory?cn=abdullah%20kahraman
-Koumoutsakos	Petros Koumoutsakos	ETHZ	http://www.cse-lab.ethz.ch/
-Mallona	Izaskun Mallona	UZH	https://www.dmmd.uzh.ch/en/research/baubec/groupmembers/imallona.html
-Krauthammer	Michael Krauthammer	USZ	https://krauthammerlab.ch
-Marino	Jacopo Marino	PSI	https://www.psi.ch/en/lbr/people/jacopo-marino
-Mansuy	Isabelle Mansuy	HIFO	https://www.hifo.uzh.ch/en/research/mansuy.html
-Mering	Christian von Mering	UZH	http://www.imls.uzh.ch/research/vonmering.html
-# Ozkirimli	Elif Ozkirimli	UZH	https://compbiozurich.org/people/Elif-Ozkirimli-Olmez/
-Pelkmans	Lucas Pelkmans	UZH	http://www.pelkmanslab.org
-Raetsch	Gunnar Raetsch	ETHZ	http://bmi.inf.ethz.ch
-Rehrauer	Hubert Rehrauer	FGCZ	http://www.fgcz.ethz.ch/people/hrehrauer
-Robinson	Mark Robinson	UZH	http://www.imls.uzh.ch/research/robinson.html
-Schlapbach	Ralph Schlapbach	FGCZ	http://www.fgcz.uzh.ch
-Shimizu	Kentaro K. Shimizu	UZH	http://www.ieu.uzh.ch/staff/professors/shimizu.html
-Stekhoven	Daniel Stekhoven	NEXUS	https://www.nexus.ethz.ch
-Stelling	Joerg Stelling	ETHZ	http://www.csb.ethz.ch
-Sunagawa	Shinichi Sunagawa	ETHZ	http://www.micro.biol.ethz.ch/research/sunagawa.html
-Wagner	Andreas Wagner	UZH	https://www.ieu.uzh.ch/wagner/
-Wollscheid	Bernd Wollscheid	ETHZ	http://wlab.ethz.ch/wollscheidlab/
-Zamboni	Nicola Zamboni	ETHZ	https://imsb.ethz.ch/research/zamboni.html
+group_label	group_lat	group_lon	item_size	item_label	item_link	markerType
+Agroscope	47.2441856021379	8.67600725592036	1	Christian Ahrens	http://www.agroscope.admin.ch/agroscope/de/home/ueber-uns/standorte-kontakte/waedenswil.html	
+ETHZ	47.3765559818427	8.54760654107573	1	Niko Beerenwinkel	http://www.cbg.ethz.ch	
+ETHZ	47.3765559818427	8.54760654107573	1	Pedro Beltrao	https://imsb.ethz.ch/research/beltrao.html	
+ETHZ	47.3765559818427	8.54760654107573	1	Valentina Boeva	https://inf.ethz.ch/people/person-detail.boeva.html	
+ETHZ	47.3765559818427	8.54760654107573	1	Joachim M. Buhmann	http://www.ise.inf.ethz.ch	
+ETHZ	47.3765559818427	8.54760654107573	1	Constance Ciaudo	http://www.mhs.biol.ethz.ch/research/ciaudo/	
+ETHZ	47.3765559818427	8.54760654107573	1	Petros Koumoutsakos	http://www.cse-lab.ethz.ch/	
+ETHZ	47.3765559818427	8.54760654107573	1	Gunnar Raetsch	http://bmi.inf.ethz.ch	
+ETHZ	47.3765559818427	8.54760654107573	1	Joerg Stelling	http://www.csb.ethz.ch	
+ETHZ	47.3765559818427	8.54760654107573	1	Shinichi Sunagawa	http://www.micro.biol.ethz.ch/research/sunagawa.html	
+ETHZ	47.3765559818427	8.54760654107573	1	Bernd Wollscheid	http://wlab.ethz.ch/wollscheidlab/	
+ETHZ	47.3765559818427	8.54760654107573	1	Nicola Zamboni	https://imsb.ethz.ch/research/zamboni.html	
+FGCZ	47.398426880242	8.55140555054918	1	Hubert Rehrauer	http://www.fgcz.ethz.ch/people/hrehrauer	
+FGCZ	47.398426880242	8.55140555054918	1	Ralph Schlapbach	http://www.fgcz.uzh.ch	
+HIFO	47.3982707403862	8.55043995528208	1	Isabelle Mansuy	https://www.hifo.uzh.ch/en/research/mansuy.html	
+NEXUS	47.4092061217363	8.51151812758271	1	Daniel Stekhoven	https://www.nexus.ethz.ch	
+PSI	47.53873861018920	8.22977926991391	1	Jacopo Marino	https://www.psi.ch/en/lbr/people/jacopo-marino	
+SIAF	46.8294704675205	9.85703564291529	1	Katja Baerenfaller	https://www.siaf.uzh.ch/molecular_allergology_katja.html	
+USZ	47.376768293675	8.54913457704783	1	Abdullah Kahraman	https://www.sib.swiss/directory?cn=abdullah%20kahraman	
+USZ	47.376768293675	8.54913457704783	1	Michael Krauthammer	https://krauthammerlab.ch	
+UZH	47.3983206928008	8.54841196493381	1	Christof Aegerter	http://www.physik.uzh.ch/groups/aegerter/team/aegerter.html	
+UZH	47.3983206928008	8.54841196493381	1	Michael Baudis	http://www.imls.uzh.ch/research/baudis.html	
+UZH	47.3983206928008	8.54841196493381	1	Bernd Bodenmiller	https://www.dqbm.uzh.ch/en/research/groups/bodenmiller.html	
+UZH	47.3983206928008	8.54841196493381	1	Amedeo Caflisch	http://www.biochem-caflisch.uzh.ch	
+UZH	47.3983206928008	8.54841196493381	1	Leonhard Held	http://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html	
+UZH	47.3983206928008	8.54841196493381	1	Izaskun Mallona	https://www.dmmd.uzh.ch/en/research/baubec/groupmembers/imallona.html	
+UZH	47.3983206928008	8.54841196493381	1	Christian von Mering	http://www.imls.uzh.ch/research/vonmering.html	
+UZH	47.3983206928008	8.54841196493381	1	Lucas Pelkmans	http://www.pelkmanslab.org	
+UZH	47.3983206928008	8.54841196493381	1	Mark Robinson	http://www.imls.uzh.ch/research/robinson.html	
+UZH	47.3983206928008	8.54841196493381	1	Kentaro K. Shimizu	http://www.ieu.uzh.ch/staff/professors/shimizu.html	
+UZH	47.3983206928008	8.54841196493381	1	Andreas Wagner	https://www.ieu.uzh.ch/wagner/	
+ZHAW	47.2199114984453	8.68754785989475	1	Ahmad Aghaebrahimian	https://www.zhaw.ch/en/about-us/person/agha/	
+ZHAW	47.2199114984453	8.68754785989475	1	Maria Anisimova	http://www.zhaw.ch/fileadmin/php_includes/popup/person-detail.php?kurzz=anis	
