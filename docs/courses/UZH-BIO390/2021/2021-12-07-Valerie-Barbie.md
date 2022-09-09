@@ -1,5 +1,5 @@
 ---
-title: 'Valerie Barbie - Clinical Bioinformatics'
+title: 'Clinical Bioinformatics'
 template: post.html
 authors:
   - "@mbaudis"
@@ -9,7 +9,6 @@ links:
   - '<a href="/UZH-BIO390/course-material/2021-12-07___Valerie-Barbie__Clinical-Bioinformatics__UZH-BIO390-HS21-lecture-12.pdf" target="_blank">[2021 lecture slides]</a>'
 ---
 
-## Clinical Bioinformatics
 #### Valerie Barbie
 
 Medical practice is undergoing a revolution around personalized health: this major change is driven by the continuous development of cost-effective high-throughput technologies that produce gigantic quantities of data in numerous areas, from imaging to genomics, and of the corresponding tools required to process these data.
