@@ -6,7 +6,7 @@ date: 2022-09-27
 authors:
 pdf_file_name: 
 links:
-  - '<a href="/UZH-BIO390/course-material/2020-09-29___Christian-von-Mering__Biological-Sequence-Informatics__UZH-BIO390-HS20-lecture-03.pdf" target="_blank">[2020 lecture slides]</a>'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2020-09-29___Christian-von-Mering__Biological-Sequence-Informatics__UZH-BIO390-HS20-lecture-03.pdf" target="_blank">[2020 lecture slides]</a>'
 ---
 
 #### Christian von Mering

@@ -7,7 +7,7 @@ authors:
 date: 2022-12-13
 pdf_file_name: 
 links:  # one or more formatted html links
-  - '<a href="/UZH-BIO390/course-material/2021-12-14___Michael-Baudis__Genomic-data-and-Privacy__UZH-BIO390-HS21-lecture-13.pdf">[2021 slides "Genomic Privacy"]</a>'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2021-12-14___Michael-Baudis__Genomic-data-and-Privacy__UZH-BIO390-HS21-lecture-13.pdf">[2021 slides "Genomic Privacy"]</a>'
 ---
 
 #### Michael Baudis

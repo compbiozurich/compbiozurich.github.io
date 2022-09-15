@@ -6,7 +6,7 @@ authors:
 date: 2022-12-06
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 links:
-  - '<a href="/UZH-BIO390/course-material/2021-12-07___Valerie-Barbie__Clinical-Bioinformatics__UZH-BIO390-HS21-lecture-12.pdf" target="_blank">[2021 lecture slides]</a>'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2021-12-07___Valerie-Barbie__Clinical-Bioinformatics__UZH-BIO390-HS21-lecture-12.pdf" target="_blank">[2021 lecture slides]</a>'
 ---
 
 #### Valerie Barbie

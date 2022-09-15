@@ -7,7 +7,7 @@ authors:
 date: 2022-11-01
 pdf_file_name:     # name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
-  - '<a href="/UZH-BIO390/course-material/2021-11-02___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS21-lecture-07.pdf">[2021 Lecture Slides]</a>'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2021-11-02___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS21-lecture-07.pdf">[2021 Lecture Slides]</a>'
 ---
 
 #### Katja Baerenfaller (SIAF)
