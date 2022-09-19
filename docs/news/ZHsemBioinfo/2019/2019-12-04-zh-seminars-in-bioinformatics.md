@@ -7,8 +7,7 @@ authors:
   - '@qingyao'
 ---
 
-
-* Wednesday, {{page.date | date: "%Y-%m-%d" }}
+* Wednesday, 2019-12-04
 * 12:15 in Y-55L-12, UZH Irchel campus
 
 

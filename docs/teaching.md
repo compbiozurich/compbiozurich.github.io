@@ -1,4 +1,6 @@
-# Lectures, Courses & Graduate Programs
+---
+title: Lectures, Courses & Graduate Programs
+---
 
 The academic institutions in the Zürich offer a wide range of programs related
 to varios areas of (life sciences) data science, informatics and statistics, for

@@ -11,12 +11,18 @@ this_year: 2022
 ###############################################################################
 
 nav:
-  - 'CompbioZurich': index.md
+  - 'General Information': index.md
   - News & Events: news
   - Bioinformatics Groups: people
-  - Lectures, Courses & Graduate Programs: teaching
-  - Tools & Resources: resources
-  - Positions: positions
+  - Lectures, Courses & Graduate Programs:
+    - Overview: teaching
+    - Courses & Lectures:
+      - UZH BIO390: courses/UZH-BIO390/
+      - UZH BIO392: courses/UZH-BIO392/
+    - Seminars: news
+  - Community Resources:
+    - Tools & Resources: resources
+    - Positions: positions
 
 ###############################################################################
 
@@ -25,9 +31,10 @@ plugins:
   - macros
 
 markdown_extensions:
-  - toc:
-      toc_depth: 2-3
-      permalink: true
+  - toc
+  # - toc:
+  #     toc_depth: 2-3
+  #     permalink: true
   - admonition
   - attr_list
   - footnotes
