@@ -17,6 +17,7 @@ One of the fastest growing areas of bioinformatics is in the analysis, warehousi
 * Course language is English
 * BIO392 HS 2022 in the [UZH OLAT](https://lms.uzh.ch/auth/RepositoryEntry/17250386425/CourseNode/85421310414617) system
 * BIO392 HS 2022 in the [UZH directory](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/details/2022/003/SM/50920456)
+* [compbiozurich/UZH-BIO392](https://github.com/compbiozurich/UZH-BIO392) course material Github repository
 
 
 ### Technical requirements
