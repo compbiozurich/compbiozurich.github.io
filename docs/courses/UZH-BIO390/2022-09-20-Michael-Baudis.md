@@ -7,7 +7,7 @@ authors:
   - "@mbaudis"
 pdf_file_name: 
 links:
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2021-09-21___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-day-01.pdf">[2021 lecture slides]</a> (PDF)'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2022-09-20___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-lecture-01.pdf">[2022 lecture slides]</a> (PDF)'
 ---
 
 #### Michael Baudis
