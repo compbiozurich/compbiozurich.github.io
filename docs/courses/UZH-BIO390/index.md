@@ -14,7 +14,7 @@ The handling and analysis of biological data using computational methods has bec
 * 1 x 2h / week
 * Tue 08:00-09:45
 * UZH Irchel campus, **Y03-G-85**
-* OLAT - but not much there...
+* [OLAT](https://lms.uzh.ch/auth/RepositoryEntry/17250386424/Infos/0) - but not much there...
 * KALTURA for [lecture recordings](https://uzh.mediaspace.cast.switch.ch/channel/22HS_BIO390___Introduction-to-Bioinformatics)
 * Course language is English
 
@@ -22,3 +22,5 @@ Some [very approximate learning goals](/courses/UZH-BIO390/learning-goals/) may 
 you with additional guidance - but plese be aware that those may not be particularly adjusted
 to a given course edition. 
 
+For entries of previous lectures please scroll down to the [`previous`](#previous)
+entries.

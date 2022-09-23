@@ -47,7 +47,7 @@ future) first if any exist
 -->
 
   {% if future_posts|length > 0 %}
-  <h2>Upcoming</h2>
+  <h2 id="upcoming">Upcoming <a class="headerlink" href="#upcoming">&para;</a></h2>
     {% for post_page in (future_posts |sort(attribute="meta.date", reverse=False))[:config.extra.blog_list_length] %}
       {% include "partials/post_preview.html" %}
     {% endfor %}
@@ -57,7 +57,7 @@ future) first if any exist
 Then, previous events are processed with the latest first
 -->
 
-  <h2>Previous</h2>
+  <h2 id="previous">Previous <a class="headerlink" href="#previous">&para;</a></h2>
 
   {% for post_page in (news_posts|sort(attribute="meta.date", reverse=True))[:config.extra.blog_list_length] %}
     {% include "partials/post_preview.html" %}
