@@ -1,7 +1,7 @@
 ---
 template: post.html
 title: 'Metagenomics'
-description: BIO390 UZH HS22 - Introduction to Bioinformatics
+description: BIO390 UZH HS22 - Introduction to Bioinformatics</br>08:00-09:45 @ UZH Irchel Y03-G-85
 date: 2022-10-25
 authors:
   - "@SuShiAtGit"

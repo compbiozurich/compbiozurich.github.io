@@ -1,7 +1,7 @@
 ---
 template: post.html
 title: 'BIO390 Exam'
-description: BIO390 UZH HS22 - Introduction to Bioinformatics
+description: BIO390 UZH HS22 - Introduction to Bioinformatics</br>08:15-09:45 @ UZH Irchel Y03-G-85
 authors:
   - "@mbaudis"
 date: 2022-12-20

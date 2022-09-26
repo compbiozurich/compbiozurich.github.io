@@ -1,7 +1,7 @@
 ---
 template: post.html
 title: 'What is Bioinformatics? Introduction and Resources'
-description: BIO390 UZH HS22 - Introduction to Bioinformatics
+description: BIO390 UZH HS22 - Introduction to Bioinformatics</br>08:00-09:45 @ UZH Irchel Y03-G-85
 date: 2022-09-20
 authors:
   - "@mbaudis"
@@ -82,7 +82,6 @@ different systems or parts of the same.
 in bioinformatics versus more data modeling and prediction (where prediction also
 needs data, but the with a stronger theoretical component; think prediction of
 protein structure or the behaviour of ecosystems).
-
 
 [^1]: Thanks to Katja W. in HS21 for starting some questions!
 [^2]: One shouldn't write in MS Word. Use Markdown, LaTex, OpenOffice ...
