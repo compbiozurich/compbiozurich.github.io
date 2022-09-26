@@ -7,17 +7,16 @@ authors:
   - "@mbaudis"
 pdf_file_name: 
 links:
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2022-09-20___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-lecture-01.pdf">[2022 lecture slides]</a> (PDF)'
+  - '[[2022 lecture slides] (PDF)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2022-09-20___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-lecture-01.pdf)'
+  - '[[2022 podcast recording]](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Day+01A+What+is+Bioinformatics/0_5hdrb7uk)'
 ---
 
 #### Michael Baudis
 
 The first day of the "Introduction to Bioinformatics" lecture series starts with a general introduction into the field and a description of the lecture topics, timeline and procedures.
 
+Topics covered in the lecture are e.g.:<!--more-->
 
-Topics covered in the lecture are e.g.:
-
-<!--more-->
 * a term definition for _bioinformatics_
 * the relation of hypothesis driven and data driven science, with respect to bioinformatics
 * categories of bioinformatics tools and data
@@ -28,8 +27,10 @@ Topics covered in the lecture are e.g.:
 * file Formats, ontologies & APIs ass areas/topics (w/o details)
 * "not-bioinformatics"
 
+The lecture also presents the upcoming topics of the series.
 
-At the end of the lecture, a - very - brief introduction into the relevance of different aspects of bioinformatics for human genome variation is being given.
+* [[2022 lecture slides] (PDF)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2022-09-20___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-lecture-01.pdf)
+* [[2022 podcast recording]](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Day+01A+What+is+Bioinformatics/0_5hdrb7uk)
 
 ### Q & A[^1]
 
@@ -84,5 +85,4 @@ protein structure or the behaviour of ecosystems).
 
 
 [^1]: Thanks to Katja W. in HS21 for starting some questions!
-
-[^2]: One shouldn't write in MS Word, IMO. Use LaTex, Markdown, OpenOffice ...
+[^2]: One shouldn't write in MS Word. Use Markdown, LaTex, OpenOffice ...
