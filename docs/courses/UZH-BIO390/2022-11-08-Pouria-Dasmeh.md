@@ -10,7 +10,7 @@ links:
   - '<a href="https://github.com/dasmeh/Biological_networks/blob/main/Bio390_Pouria_Dasmeh.pdf">[Slides lecture 2021]</a> (Pouria Dasmeh; PDF)'
 ---
 
-#### Andreas Wagner
+#### Pouria Dasmeh
 
 This part of the course BIO390 (Introduction to Bioinformatics) will review examples of biological networks their basic properties. 
 
