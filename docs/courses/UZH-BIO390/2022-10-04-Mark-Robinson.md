@@ -6,7 +6,7 @@ date: 2022-10-04
 authors:
 pdf_file_name: 
 links:
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2021-10-05___Mark-Robinson__Statistics-Bioinformatics__UZH-BIO390-HS21-lecture-03.pdf" target="_blank">[2021 lecture slides]</a>'
+  - '<a href="https://www.dropbox.com/s/3813dz5yl51huot/2022-10-04___Mark-Robinson__Statistics-Bioinformatics__UZH-BIO390-HS22-lecture-03.pdf?dl=0" target="_blank">[2022 lecture slides]</a>'
 ---
 
 #### Mark Robinson
