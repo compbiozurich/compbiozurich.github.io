@@ -6,7 +6,8 @@ date: 2022-10-04
 authors:
 pdf_file_name: 
 links:
-  - '<a href="https://www.dropbox.com/s/3813dz5yl51huot/2022-10-04___Mark-Robinson__Statistics-Bioinformatics__UZH-BIO390-HS22-lecture-03.pdf?dl=0" target="_blank">[2022 lecture slides]</a>'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2022-10-04___Mark-Robinson__Statistics-Bioinformatics__UZH-BIO390-HS22-lecture-03.pdf" target="_blank">[2022 lecture slides]</a>'
+  - '[lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+03A+Statistical+Bioinformatics/0_znn1q20h)'
 ---
 
 #### Mark Robinson
