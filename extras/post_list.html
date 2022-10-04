@@ -31,7 +31,7 @@ The list page will process individual pages which:
       {% if this_page.meta.date is defined and this_page.meta.template is defined %}   
         {% if path_element in this_page.url and "post" in this_page.meta.template %}
           {% set page_date = this_page.meta.date.strftime('%Y%m%d') | int %}
-          {% if page_date > today %}
+          {% if page_date >= today %}
             {{ future_posts.append( this_page ) or "" }}
           {% else %}
             {{ news_posts.append( this_page ) or "" }}
@@ -42,7 +42,7 @@ The list page will process individual pages which:
   {% endfor %}
 
 <!--
-First, upcoming events are processed with the "oldes" (i.e. closest in the
+First, upcoming events are processed with the "oldest" (i.e. closest in the
 future) first if any exist
 -->
 
