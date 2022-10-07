@@ -1,6 +1,6 @@
 ---
 template: post.html
-title: "A journey into the nucleus: ‘Lnc-ing’ paraspeckles, lncRNA, RNA processing and phase separation"
+title: "A journey into the nucleus: <b>Lnc-ing</b> paraspeckles, lncRNA, RNA processing and phase separation"
 description: NCCR RNA and Disease seminar
 date: 2022-10-11
 authors:
