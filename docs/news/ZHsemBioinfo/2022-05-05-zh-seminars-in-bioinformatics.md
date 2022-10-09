@@ -9,7 +9,6 @@ links:
   - http://progenetix.org
 ---
 
-
 * 12:15 UZH Irchel Y55-l-06/08 and ZOOM Call
 
 **Abstract** Genomic instability is common in human cancer. As a form of genomic instability, copy number variations (CNV) play an important role in cancer development. Elucidating the relationship between CNV and cancer evolvement can improve the understanding of the pathogenetic mechanism of cancer.
