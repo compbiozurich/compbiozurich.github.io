@@ -2,8 +2,8 @@
 template: post.html
 title:  "Michael Baudis"
 links:
-  - 'https://info.baudisgroup.org/group/Michael_Baudis/'
-date:   2007-08-01
+  - 'https://info.baudisgroup.org/group/Michael-Baudis/'
+date: 2007-08-01
 image_file: 'Baudis.png'
 ---
 
