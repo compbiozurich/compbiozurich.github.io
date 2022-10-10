@@ -6,7 +6,7 @@ date: 2022-10-11
 authors:
 pdf_file_name: 
 links:
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2020-10-27___Valentina-Boeva__Machine-Learning-for-Biological-Use-Cases__UZH-BIO390-HS20-lecture-07.pdf" target="_blank">[2020 lecture slides]</a>'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2022-10-11___Valentina-Boeva__Machine-Learning-for-Biological-Use-Cases__UZH-BIO390-HS22-lecture-04.pdf" target="_blank">[2022 lecture slides]</a>'
 ---
 
 #### Valentina Boeva (ETHZ)
