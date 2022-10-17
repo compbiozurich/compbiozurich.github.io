@@ -6,7 +6,7 @@ date: 2022-10-18
 authors:
 pdf_file_name: 
 links:
-  - '<a href="https://lms.uzh.ch/url/RepositoryEntry/16814276758/CourseNode/85421310449426/path%3D~~2020%2D11%5F03%5F%5F%5FIzaskun%2DMallona%5F%5FRegulatory%2DGenomics%5F%5FUZH%2DBIO390%2DHS20%2Dlecture%2D08%2Epdf/0">[2020 Lecture Slides]</a> (in OLAT)'
+  - '<a href="https://github.com/compbiozurich/UZH-BIO390/raw/master/course-material/2022-01-18___Izaskun-Mallona__Regulatory_Genomics_Epigenomics__UZH-BIO390-HS22-lecture-05.pdf">[2022 Lecture Slides]</a>'
 ---
 
 #### Izaskun Mallona
