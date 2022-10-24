@@ -7,7 +7,7 @@ authors:
   - "@SuShiAtGit"
 pdf_file_name:
 links:
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2021-10-25___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS22-lecture-06.pdf" target="_blank">[2021 lecture slides]</a> (.pdf)'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2022-10-25___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS22-lecture-06.pdf" target="_blank">[2021 lecture slides]</a> (.pdf)'
 ---
 
 #### Shinichi Sunagawa (ETHZ)
