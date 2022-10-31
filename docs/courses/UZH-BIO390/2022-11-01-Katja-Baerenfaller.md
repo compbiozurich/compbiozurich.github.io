@@ -7,10 +7,10 @@ authors:
 date: 2022-11-01
 pdf_file_name:     # name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2021-11-02___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS21-lecture-07.pdf">[2021 Lecture Slides]</a>'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2022-11-01___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS22-lecture-07.pdf">[2022 Lecture Slides]</a>'
 ---
 
-#### Katja Baerenfaller (SIAF)
+#### Katja Baerenfaller, Swiss Institute of Allergy and Asthma Research (SIAF) and University of Zurich
 
 In proteomics one of the important bioinformatics tasks is to generate lists of reliably identified peptides and proteins in mass spectrometry-based experiments. For this, amino acid sequences are assigned to measured tandem mass spectra. The quality of the peptide spectrum assignments are scored and criteria are applied that allow to distinguish the good from the bad hits and to estimate the quality of the dataset.
 
