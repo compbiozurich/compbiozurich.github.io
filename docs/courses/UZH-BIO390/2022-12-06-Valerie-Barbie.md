@@ -7,7 +7,7 @@ authors:
   - '@mbaudis'
 pdf_file_name:
 links:  # one or more formatted html links
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/master/course-material/2021-12-07___Valerie-Barbie__Clinical-Bioinformatics__UZH-BIO390-HS21-lecture-12.pdf" target="_blank">[2021 lecture slides]</a>'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2021-12-07___Valerie-Barbie__Clinical-Bioinformatics__UZH-BIO390-HS21-lecture-12.pdf" target="_blank">[2021 lecture slides]</a>'
 ---
 
 #### Valerie Barbie (Director SIB Clinical Bioinformatics)
