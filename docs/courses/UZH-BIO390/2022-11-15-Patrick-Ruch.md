@@ -7,7 +7,7 @@ authors:
   - "@mbaudis"
 pdf_file_name:
 links:  # one or more formatted html links
-  - '[[2020 lecture slides] (PDF)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2022-11-15___Patrick-Ruch__Text-Mining__UZH-BIO390-HS22-lecture-09.pdf)'
+  - '[[2022 lecture slides] (PDF)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2022-11-15___Patrick-Ruch__Text-Mining__UZH-BIO390-HS22-lecture-09.pdf)'
 ---
 
 #### Patrick Ruch (University of Geneva)
