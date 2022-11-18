@@ -8,7 +8,7 @@ authors:
 pdf_file_name:
 links:  # one or more formatted html links
   - '<a href="https://bit.ly/3wjyHpf">SPARQL example</a>'
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2021-11-23___Ahmad-Aghaebrahimian__Semantic-web__UZH-BIO390-HS21-lecture-10.pdf">[2021 slides]</a>'
+  - '[presentation slides (PDF)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2022-11-22___Ahmad-Aghaebrahimian__Semantic-web__UZH-BIO390-HS22-lecture-10.pdf)'
 ---
 
 #### Ahmad Aghaebrahimian (ZHAW)
