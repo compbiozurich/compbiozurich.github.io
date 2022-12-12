@@ -12,7 +12,7 @@ links:  # one or more formatted html links
 
 #### Michael Baudis
 
-The understanding of the impact of individual inherited and somatic genome variants on phenotypes and diseases requires a thorough understanding of the occurrence of such variants amongst populations in general and carriers of the phenotypes and diseases in particular. This information can only be provided through the inclusion of data from a multitude of genome resources in variant evaluation efforts, including such from outside (international) jurisdictions. However, opening such resources carries the inherent risk of breaching privacy, particularly through re-identification of individuals or their relatives and potentially through the exposure of individual genome-related personal information including  phenotypic and "performance" prediction and relative disease risk.
+The understanding of the impact of inherited and somatic genome variants on phenotypes and diseases requires a thorough understanding of such variants amongst populations in general and carriers of the phenotypes and diseases in particular. Such information can only be provided through the inclusion of data from a multitude of genome resources in variant evaluation efforts, including such from outside (international) jurisdictions. However, opening such resources carries the inherent risk of breaching privacy, particularly through re-identification of individuals or their relatives and potentially through the exposure of individual genome-related personal information including phenotypic and "performance" prediction and relative disease risk.
 
 <!--more-->
 
@@ -24,6 +24,4 @@ This part of the course will address some of the issues related to the sharing o
 
 ### Topics and Literature
 
-An extended literature collection for the topic is available through [this page](https://internal.baudisgroup.org/references/privacy-security-articles.html) (only accessible through UZH VPN).
-
-Please browse, read, make notes!
+An extended literature collection for the topic is available upon request ...
