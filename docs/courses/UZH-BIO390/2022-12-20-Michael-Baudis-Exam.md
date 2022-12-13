@@ -13,7 +13,7 @@ links:
 The exam will be on the last day of the course *on site*:
 
 * time: **08:15-09:45**
-* in the usual **Y03-G-85**
+* ¡¡¡ NEW: Room change to **Y15-G-20** !!!
 * multiple (single + multiple) choice w/ one or two open questions
 * no material, phones etc.
 * student ID for entrance
