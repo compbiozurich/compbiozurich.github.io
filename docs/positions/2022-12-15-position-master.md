@@ -1,4 +1,8 @@
-# Master's position in Bioinformatics
+---
+title: 'Master's position in Bioinformatics'
+date: 2022-12-15
+template: post.html
+---
  
 The [URPP Evolution in Action: From Genomes to Ecosystems](https://www.evolution.uzh.ch/en.html) is seeking Masters students for projects in bioinformatics. The URPP Evolution in Action involves multiple research groups in biology, and it 
 plays an important integrative role for the diverse biological disciplines at UZH.
