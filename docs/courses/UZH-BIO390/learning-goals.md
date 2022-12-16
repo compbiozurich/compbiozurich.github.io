@@ -85,8 +85,6 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * genomic variants (types, numbers)
 * genomic privacy and re-identification (concepts)
 * reference genome(s)
-* Beacon example
-* long range familial searches
 * main bottlenecks of molecular diagnostics in the clinical setting
 * goals of many personalized health initiatives
 * direct-to-consumer genetic testing -> what, how
@@ -125,6 +123,15 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * community (module) detection
 * cliques
 * motifs, graph representations of metabolic networks
+
+#### Genomic data & provacy
+
+* reasons for needing _many_ genomes
+* principle of re-identification attacks over the Beacon protocol
+* long range familial searches
+* opinions about risk vs. opportunities
+* technical and regulatory solutions against privacy breaches & data abuse
+
 
 <!--
 * Girvan-Newman algorithm
