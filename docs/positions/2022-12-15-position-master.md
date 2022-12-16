@@ -1,5 +1,5 @@
 ---
-title: 'Master's position in Bioinformatics'
+title: "Master's position in Bioinformatics"
 date: 2022-12-15
 template: post.html
 ---
