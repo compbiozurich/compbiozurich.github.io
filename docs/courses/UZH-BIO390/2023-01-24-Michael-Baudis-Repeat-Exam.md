@@ -10,7 +10,7 @@ pdf_file_name:
 
 The repeat exam will be on January 24, 2023:
 
-* time: **10:00-11:30**
+* time: **10:15-11:45**
 * multiple (single + multiple) choice w/ one or two open questions
 * no material, phones etc.
 * student ID for entrance
