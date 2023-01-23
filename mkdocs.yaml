@@ -99,6 +99,5 @@ extra:
 extra_css:
   - css/theme_overrides.css
 extra_javascript:
-  # - /js/jquery-min.js
   # - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
     
