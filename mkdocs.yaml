@@ -17,8 +17,8 @@ nav:
   - Lectures, Courses & Graduate Programs:
     - Overview: teaching
     - Courses & Lectures:
-      - UZH BIO390: courses/UZH-BIO390/
-      - UZH BIO392: courses/UZH-BIO392/
+      - UZH BIO390: teaching/UZH-BIO390/
+      - UZH BIO392: teaching/UZH-BIO392/
     - Seminars: news
   - Community Resources:
     - Tools & Resources: resources
