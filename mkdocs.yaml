@@ -6,7 +6,7 @@ repo_name: 'compbiozurich.github.io'
 
 repo_url: https://github.com/compbiozurich/compbiozurich.github.io
 
-this_year: 2022
+this_year: 2023
 
 ###############################################################################
 
@@ -98,6 +98,4 @@ extra:
       link: https://github.com/compbiozurich
 extra_css:
   - css/theme_overrides.css
-extra_javascript:
-  # - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
     
