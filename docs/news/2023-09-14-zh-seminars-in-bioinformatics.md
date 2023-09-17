@@ -1,6 +1,6 @@
 ---
 template: post.html
-title: "SuperCellCyto: enabling efficient analysis of large scale cytometry datasets"
+title: "SuperCellCyto: Enabling efficient analysis of large scale cytometry datasets"
 description: 'Zurich Seminars in Bioinformatics - Givanna Putri (WEHI)'
 date: 2023-09-14
 authors:
