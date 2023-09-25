@@ -1,0 +1,14 @@
+---
+template: post.html
+title: "TBA"
+description: 'Zurich Seminars in Bioinformatics - Anja Estermann'
+date: 2023-09-28
+authors:
+  - "@mbaudis"
+links:
+  - '[Robinson lab @ UZH](https://robinsonlabuzh.github.io)'
+---
+
+* 12:15 UZH Irchel Y55-l-06/08 and ZOOM Call
+
+**Abstract** ==TBD==
