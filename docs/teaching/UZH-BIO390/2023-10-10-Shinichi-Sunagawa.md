@@ -12,7 +12,6 @@ links:
 ---
 
 #### Shinichi Sunagawa (ETHZ)
-##### (... to be confirmed ...)
 
 **Abstract:**
 
