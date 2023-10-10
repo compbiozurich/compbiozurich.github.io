@@ -7,8 +7,8 @@ authors:
   - "@SuShiAtGit"
 pdf_file_name:
 links:
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2022-10-25___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS22-lecture-06.pdf" target="_blank">[2022 lecture slides]</a> (.pdf)'
-  - '[[Lecture Recording]](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+06A+Metagenomics/0_ywnuyc2c)'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2023-10-10___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS23-lecture-04.pdf" target="_blank">[2023 lecture slides]</a> (.pdf)'
+  - '[[2022 Lecture Recording]](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+06A+Metagenomics/0_ywnuyc2c)'
 ---
 
 #### Shinichi Sunagawa (ETHZ)
