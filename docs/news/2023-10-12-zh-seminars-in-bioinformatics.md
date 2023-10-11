@@ -1,6 +1,6 @@
 ---
 template: post.html
-title: "Frederik Philipona - TBA"
+title: "Frederik Philipona - Simulation of spatial transcriptomic data"
 description: 'Zurich Seminars in Bioinformatics'
 date: 2023-10-12
 authors:
@@ -11,4 +11,4 @@ links:
 
 * 12:15 UZH Irchel Y55-l-06/08 and ZOOM Call
 
-**Abstract** ==TBD==
+**Abstract** A parametric and interpretable method to simulate spatial transcriptomic data is proposed. The simulated data is used to compare domain recognition methods.
