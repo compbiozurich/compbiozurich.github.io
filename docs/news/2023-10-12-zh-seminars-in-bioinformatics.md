@@ -1,6 +1,6 @@
 ---
 template: post.html
-title: "TBA"
+title: "Frederik Philipona - TBA"
 description: 'Zurich Seminars in Bioinformatics'
 date: 2023-10-12
 authors:
