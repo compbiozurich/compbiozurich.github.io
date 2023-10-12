@@ -4,7 +4,7 @@ title: 'BIO390 Repeat Exam'
 description: BIO390 UZH HS23 - Introduction to Bioinformatics
 authors:
   - "@mbaudis"
-date: 2023-01-24
+date: 2024-01-24
 pdf_file_name: 
 ---
 
