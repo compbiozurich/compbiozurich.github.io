@@ -11,9 +11,10 @@ links:
 ---
 
 #### Valentina Boeva (ETHZ)
-##### (Date to be confirmed)
 
-Brief note: In this lecture V. Boeva will cover the standard machine learning methods used in the analysis of biological data: dimensionality reduction, clustering, classification and regression.
+Brief note: In this lecture V. Boeva will cover the standard machine learning methods
+used in the analysis of biological data: dimensionality reduction, clustering,
+classification and regression.
 
 <!--more-->
 
