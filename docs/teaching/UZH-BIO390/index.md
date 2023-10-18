@@ -15,8 +15,9 @@ The handling and analysis of biological data using computational methods has bec
 * Tue 08:00-09:45
 * UZH Irchel campus, **Y03-G-85**
 * [OLAT](https://lms.uzh.ch/auth/RepositoryEntry/17420091911/Infos/0) - but not much there...
-* KALTURA for [lecture recordings](https://uzh.mediaspace.cast.switch.ch/channel/22HS_BIO390___Introduction-to-Bioinformatics)
-    - videos are posted with some delay due to editing etc.
+* Lecture recordings:
+    - we do **not record** the HS23 lectures (regular attendance is expected)
+    - there are still 2022 [lecture recordings](https://uzh.mediaspace.cast.switch.ch/channel/22HS_BIO390___Introduction-to-Bioinformatics) available
 * Course language is English
 
 Some [very approximate learning goals](/teaching/UZH-BIO390/learning-goals/) may provide
