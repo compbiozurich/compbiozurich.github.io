@@ -3,29 +3,8 @@
   --md-accent-font-color: #ab47bd;
 }
 
-@media only screen and (min-width: 76.25em) {
-  .md-main__inner {
-    max-width: none;
-  }
-  .md-sidebar--primary {
-    left: 0;
-  }
-  .md-sidebar--secondary {
-    right: 0;
-    margin-left: 0;
-    -webkit-transform: none;
-    transform: none;   
-  }
-}
-
-/*.md-header__button {
-    padding:  0px; 
-}
-*/
-.md-header__source {
-    background-image: url("/img/logo-schemablocks-40x40-no-logo.png");
-    background-repeat: no-repeat;
-    background-position: right; 
+.md-grid {
+  max-width: 1024px; 
 }
 
 .md-typeset h1 {
@@ -85,74 +64,3 @@ li li li {
   justify-content: center;
 }
 
-/* Width manipulations etc. */
-
-.md-grid {
-  max-width: 920px; 
-}
-
-@media (max-width: 891.98px) {
-    .navbar-collapse.show { /* csslint allow: adjoining-classes */
-        overflow-y: auto;
-        max-height: calc(100vh - 3.5rem);
-    }
-}
-
-.dropdown-item.open { /* csslint allow: adjoining-classes */
-    color: #fff;
-    background-color: #2FA4E7;
-}
-
-.dropdown-submenu > .dropdown-menu {
-    margin: 0 0 0 1.5rem;
-    padding: 0;
-    border-width: 0;
-}
-
-.dropdown-submenu > a::after {
-    display: block;
-    content: " ";
-    float: right;
-    width: 0;
-    height: 0;
-    border-color: transparent;
-    border-style: solid;
-    border-width: 5px 0 5px 5px;
-    border-left-color: #ccc;
-    margin-top: 5px;
-    margin-right: -10px;
-}
-
-.dropdown-submenu:hover > a::after {
-    border-left-color: #fff;
-}
-
-@media (min-width: 892px) {
-    .dropdown-menu {
-        overflow-y: auto;
-        max-height: calc(100vh - 3.5rem);
-    }
-
-    .dropdown-submenu {
-        position: relative;
-    }
-
-    .dropdown-submenu > .dropdown-menu {
-        /* csslint ignore:start */
-        position: fixed !important;
-        /* csslint ignore:end */
-        margin-top: -9px;
-        margin-left: -2px;
-        border-width: 1px;
-        padding: 0.5rem 0;
-    }
-
-    .dropdown-submenu.pull-left { /* csslint allow: adjoining-classes */
-        float: none;
-    }
-
-    .dropdown-submenu.pull-left > .dropdown-menu { /* csslint allow: adjoining-classes */
-        left: -100%;
-        margin-left: 10px;
-    }
-}
