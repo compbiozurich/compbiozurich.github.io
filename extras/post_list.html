@@ -15,6 +15,7 @@ The list page will process individual pages which:
 {% block content %}
 
   {{ page.content }}
+
   {% set path_element = page.url.split('/')[-2] %}
   {% if page.meta.path_element is defined %}
     {% set path_element = page.meta.path_element %}
