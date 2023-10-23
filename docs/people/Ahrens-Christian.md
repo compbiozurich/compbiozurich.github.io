@@ -8,7 +8,7 @@ image_file: 'Ahrens.jpg'
 ---
 
 * Bioinformatics and Proteogenomics Group
-* Agroscope, Wädenswil
+* Agroscope
 
 <!--more-->
 
