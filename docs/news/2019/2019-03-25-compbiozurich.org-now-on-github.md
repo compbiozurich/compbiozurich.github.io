@@ -1,7 +1,7 @@
 ---
 title: 'Relaunch - compbiozurich.org with Github Based Hosting'
 date: 2019-03-25
-template: post.html
+template: blog_post.html
 authors:
   - "@mbaudis"
 links:  # one or multiple complete links

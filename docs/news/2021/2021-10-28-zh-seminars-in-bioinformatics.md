@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Functional implications of Short tandem repeat (STR) variation in NGS data
 description: 'Zurich Seminars in Bioinformatics - Max Verbiest'
 authors:

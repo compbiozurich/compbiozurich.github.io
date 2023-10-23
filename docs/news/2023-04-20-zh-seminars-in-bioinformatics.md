@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Microbiome Signatures in Host - Spatial and Single Cell Transcriptomics
 description: 'Zurich Seminars in Bioinformatics - Stine Anzböck'
 date: 2023-04-20

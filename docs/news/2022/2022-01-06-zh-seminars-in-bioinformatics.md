@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: 'An ion channel that allows you to see at night: the cryo-EM structure of the rod CNG channel opens up the hypothesis of mRNA editing on the CNGB1 sequence'
 description: 'Zurich Seminars in Bioinformatics - Jacopo Marino, Laboratory of Biomolecular Research, Paul Scherrer Institut'
 date: 2022-01-06

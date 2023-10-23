@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Long fragments achieve lower base quality in Illumina paired-end sequencing
 description: 'ZH Seminars Bioinformatics - Ge Tan'
 date: 2019-03-20

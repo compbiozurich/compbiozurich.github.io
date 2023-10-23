@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: ReSeq simulates realistic Illumina high-throughput sequencing data
 description: 'Zurich Seminars in Bioinformatics - Stephan Schmeing'
 date: 2020-09-03

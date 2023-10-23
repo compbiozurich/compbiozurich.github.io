@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: "Frederik Philipona - Simulation of spatial transcriptomic data"
 description: 'Zurich Seminars in Bioinformatics'
 date: 2023-10-12

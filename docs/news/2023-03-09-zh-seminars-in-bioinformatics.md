@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Detecting Single Cell Blasts in Acute Myeloid Leukaemia using an Auto-Encoder
 description: 'Zurich Seminars in Bioinformatics - Alice Driessen'
 date: 2023-03-09

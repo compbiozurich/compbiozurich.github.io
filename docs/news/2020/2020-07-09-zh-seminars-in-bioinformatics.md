@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 description: 'Zurich Seminars in Bioinformatics - Lennart Opitz'
 authors:
   - '@mbaudis'

@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: High-dimensional flow mass cytometry with Imaging Mass Cytometry in WNV and ZIKV encephalitis
 description: 'ZH Seminars Bioinformatics - Tom Ashhurst | Sydney Cytometry Facility, The University of Sydney and Centenary Institute'
 date: 2019-10-02

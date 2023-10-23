@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Taxonomic profiling of metagenomes from diverse environments with mOTUs3
 description: 'Zurich Seminars in Bioinformatics - Hans-Joachim Ruschewey'
 date: 2021-12-16

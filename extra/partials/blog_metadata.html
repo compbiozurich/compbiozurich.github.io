@@ -1,0 +1,17 @@
+<aside class="blog-post-aside">
+  <p>
+    <span>
+      {% if page.meta.author %}
+        {% if "@" in page.meta.author %}
+          {% set auth = page.meta.author.replace("@", "") %}
+            <strong><a href="https://github.com/{{auth}}">{{ page.meta.author }}</a></strong>
+        {% endif %}
+      {% endif %}
+      {% include "partials/blog_social.html" %}
+      <span class="twemoji">
+        {% include ".icons/octicons/calendar-24.svg" %}
+      </span>
+      {{ page.meta.date.strftime("%B %d, %Y") }}
+    </span>
+  </p>
+</aside>

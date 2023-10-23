@@ -1,5 +1,8 @@
 ---
-Template: post_list.html
+template: news_list.html
+date: 2023-10-23
+authors:
+  - '@mbaudis'
 ---
 
 # Bioinformatics, Biomedical Data Science and Computational Biology in the Zurich Area

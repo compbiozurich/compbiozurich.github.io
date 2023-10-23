@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: "Carino Gurjao - Genetic Analyses of Colorectal Cancer across Ancestries and Mutagenic Exposures"
 description: 'ETHZ special presentation hosted by Valentina Boeva'
 date: 2023-11-01

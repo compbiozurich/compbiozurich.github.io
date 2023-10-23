@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% set this_scope_match = "positions/" %}
+
+{% block content %}
+  {{ page.content }}
+  {% set these_pages = [] %}
+    {% for this_file in pages %}
+      {% set this_page = this_file.page %}
+      {% if this_page.meta is defined %} 
+        {% if this_page.url.startswith(this_scope_match) %}
+          <!-- avoiding integration of the index page -->
+          {% if not this_page.url.endswith(this_scope_match) %}
+            {{ these_pages.append( this_page ) or "" }}
+          {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% for page in these_pages %}
+      {% include "partials/blog_contact.html" %}
+  {% endfor %}
+
+{% endblock %}

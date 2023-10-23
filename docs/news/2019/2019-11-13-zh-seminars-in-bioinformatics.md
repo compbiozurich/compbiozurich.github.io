@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Functional enrichment in the STRING protein-protein interaction database
 description: 'ZH Seminars Bioinformatics - Annika Gable'
 date: 2019-11-13

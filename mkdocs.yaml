@@ -1,10 +1,11 @@
 site_name: 'CompbioZurich'
 site_description: 'Computational Biology & Bioinformatics in the Zürich Area'
 site_author: Michael Baudis
-copyright: '&copy; 2022 Michael Baudis'
+copyright: '&copy; 2023 Michael Baudis'
 repo_name: 'compbiozurich.github.io'
 
 repo_url: https://github.com/compbiozurich/compbiozurich.github.io
+edit_uri: edit/main/docs/
 
 this_year: 2023
 
@@ -13,13 +14,11 @@ this_year: 2023
 nav:
   - 'General Information': index.md
   - News & Events: news
-  - Bioinformatics Groups: people
+  - Bioinformatics Groups: contacts
   - Lectures, Courses & Graduate Programs:
     - Overview: teaching
-    - Courses & Lectures:
-      - UZH BIO390: teaching/UZH-BIO390/
-      - UZH BIO392: teaching/UZH-BIO392/
-    - Seminars: news
+    - UZH BIO390: UZH-BIO390/
+    - UZH BIO392: UZH-BIO392/
   - Community Resources:
     - Tools & Resources: resources
     - Positions: positions
@@ -57,13 +56,13 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
-  - tables
+  # - tables
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
       options:
         custom_icons:
-          - extras/.icons
+          - extra/.icons
 
 ###############################################################################
 
@@ -86,16 +85,35 @@ theme:
     - navigation.tracking
     - navigation.sections
     - toc.integrate
-  custom_dir: extras
+  custom_dir: extra
       
 extra:
-  excerpt_separator: <!--more-->
-  blog_list_length: 100
+  news:
+    dir: news
+    author: mbaudis
+    list_length: 50
+    extended_preview: true
+    excerpt_separator: <!--more-->
+  contacts:
+    dir: contacts
+    author: mbaudis
+    list_length: 50
+    extended_preview: true
+    excerpt_separator: <!--more-->
+  resources:
+    dir: resources
+    author: mbaudis
+    list_length: 50
+    extended_preview: true
+    excerpt_separator: <!--more-->
+  teaching:
+    dir: teaching
+    author: mbaudis
+    list_length: 50
+    extended_preview: true
+    excerpt_separator: <!--more-->
   social:
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/compbiozurich
     - icon: fontawesome/brands/github 
-      link: https://github.com/compbiozurich
+      link: https://github.com/hCNV
 extra_css:
   - css/theme_overrides.css
-    

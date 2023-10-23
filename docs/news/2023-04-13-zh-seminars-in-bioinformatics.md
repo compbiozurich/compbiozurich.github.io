@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Variational Autoencoders Supporting Conditioning in Single Cell Transcriptomics and Their Consistency
 description: 'Zurich Seminars in Bioinformatics - Eljas Röllin'
 date: 2023-04-13

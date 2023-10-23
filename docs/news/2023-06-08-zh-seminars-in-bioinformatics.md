@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Modeling the Tumor Microenvironment with Graph Concept Learning 
 description: 'Zurich Seminars in Bioinformatics - Santiago Castro Dau'
 date: 2023-06-08

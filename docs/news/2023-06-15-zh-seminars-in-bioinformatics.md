@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: "splicekit: a comprehensive toolkit for splicing analysis from short-read RNA-seq"
 description: 'Zurich Seminars in Bioinformatics - Gregor Rot'
 date: 2023-06-15

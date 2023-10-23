@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 description: 'ZH Seminars Bioinformatics - Marija Dmitrijeva'
 date: 2019-04-10
 authors:

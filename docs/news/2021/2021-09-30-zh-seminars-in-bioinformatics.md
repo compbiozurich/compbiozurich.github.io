@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: A global exploration of factors contributing to rates of horizontal gene transfer
 description: 'Zurich Seminars in Bioinformatics - Marija Dmitrijeva'
 authors:

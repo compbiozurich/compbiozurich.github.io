@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Comparison of Probabilistic Cell Type Annotation Methods Applied to Immunological CITE-seq Data
 description: 'Zurich Seminars in Bioinformatics - Ahmad Al Ajami'
 date: 2021-10-07

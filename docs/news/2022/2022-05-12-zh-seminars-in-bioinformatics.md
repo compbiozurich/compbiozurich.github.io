@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: The resemblance is uncanny a.k.a how similar are cancer cell lines really to their origins?
 description: 'Zurich Seminars in Bioinformatics - Rahel Paloots'
 date: 2022-05-12

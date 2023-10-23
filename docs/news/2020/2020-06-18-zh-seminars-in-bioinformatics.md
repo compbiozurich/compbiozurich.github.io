@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Progenetix data acquisition & processing pipeline
 description: 'ZH Seminars Bioinformatics - Qingyao Huang'
 date: 2020-06-18

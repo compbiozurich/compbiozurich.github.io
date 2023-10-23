@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Setting up a pipeline for horizontal gene transfer detection
 description: 'ZH Seminars Bioinformatics - Marija Dmitrijeva'
 date: 2020-04-16

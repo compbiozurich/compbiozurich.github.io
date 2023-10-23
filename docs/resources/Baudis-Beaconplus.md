@@ -1,6 +1,6 @@
 ---
 title: "Beacon - Discovery Services for Genomic Data"
-template: post.html
+template: blog_post.html
 date: 2016-07-01
 ---
 

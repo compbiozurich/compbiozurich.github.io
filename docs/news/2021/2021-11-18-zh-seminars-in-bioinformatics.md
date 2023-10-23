@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Structured metadata for genomic correlations in the Progenetix database
 description: 'Zurich Seminars in Bioinformatics - Ziying Yang'
 date: 2021-11-18

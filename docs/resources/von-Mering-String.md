@@ -1,6 +1,6 @@
 ---
 title: "STRING - Search Tool for the Retrieval of Interacting Genes"
-template: post.html
+template: blog_post.html
 date: 2006-07-01
 links:
   - 'https://string-db.org'

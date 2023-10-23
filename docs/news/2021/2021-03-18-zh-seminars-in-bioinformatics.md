@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Analysis and Method development for High-Throughput DNA Methylation and Gene Expression with Applications to Colorectal Tumors
 description: 'Zurich Seminars in Bioinformatics - Stephany Orjuela'
 date: 2021-03-18

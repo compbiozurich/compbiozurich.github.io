@@ -1,0 +1,19 @@
+<h3 class="mdx-author"><a href="{{ page.url|url }}">{{ page.title }}</a></h3>
+{% if page.meta.description is defined %}
+<h5>{{ page.meta.description }}</h5>
+{% endif %}
+<!-- Use a hidden p tag to provide a preview -->
+{% if config.extra.contacts.extended_preview %}
+  {{ page.content.split(config.extra.contacts.excerpt_separator, 1)[0] }}
+{% endif %} 
+<!-- The page may have a forwarding link in the meta block ... -->
+{% if page.meta.excerpt_link is defined %}
+<a href="{{ page.meta.excerpt_link }}">
+  External Page <span class="twemoji">{% include ".icons/octicons/link-24.svg" %}</span>
+</a>
+{% else %}
+<a href="/{{ page.url }}#more">
+  Contact Details <span class="twemoji">{% include ".icons/octicons/arrow-right-24.svg" %}</span>
+</a>
+{% endif %}
+<hr>

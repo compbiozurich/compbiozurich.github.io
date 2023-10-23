@@ -2,7 +2,7 @@
 title: Novel in  silico  methods  to  unveil  DNA  methylation  heterogeneity  in  cohorts,  tissues  and  cells
 description: 'UZH DMMD Seminar'
 date: 2019-04-16
-template: post.html
+template: blog_post.html
 authors: 
   - '@imallona'
 pdf_file_name: 2019-04-16__izaskun_mallona_dmmd.pdf

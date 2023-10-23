@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Protein-protein interaction prediction using co-evolution based method
 description: 'Zurich Seminars in Bioinformatics - Tao Fang'
 date: 2021-02-04

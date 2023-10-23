@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Stratifying sources of heterogeneity in single-cell whole-genome bisulfite sequencing datasets
 description: 'Zurich Seminars in Bioinformatics - Emanuel Sonder'
 date: 2021-05-20

@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Comprehensive network prediction for any fully sequence genome in STRING database
 description: 'Zurich Seminars in Bioinformatics - Damian Szklarczyk'
 date: 2022-09-15

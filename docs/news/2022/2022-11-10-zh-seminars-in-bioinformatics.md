@@ -1,5 +1,5 @@
 ---
-template: post.html
+template: blog_post.html
 title: Nucleosome footprints in the cell-free DNA of cancer patients
 description: 'Zurich Seminars in Bioinformatics - Zsolt Balázs'
 date: 2022-11-10
