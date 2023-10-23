@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title:  "Michael Krauthammer"
 links:
   - 'https://krauthammerlab.ch'

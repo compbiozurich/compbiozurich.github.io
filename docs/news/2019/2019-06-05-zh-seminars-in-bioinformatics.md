@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: On the discovery of population-specific state transitions from single-cell RNA sequencing data
 description: 'ZH Seminars Bioinformatics - Helena L. Crowell'
 date: 2019-06-05

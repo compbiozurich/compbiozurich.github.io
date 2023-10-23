@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'BIO390 Repeat Exam'
 description: BIO390 UZH HS22 - Introduction to Bioinformatics
 authors:

@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Navigating the global ocean microbiome through a web-based genome collection
 description: 'Zurich Seminars in Bioinformatics - Samuel Miravet Verde (Sunagawa Lab ETHZ)'
 date: 2023-10-05

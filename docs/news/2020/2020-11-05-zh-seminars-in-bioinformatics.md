@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 description: 'Zurich Seminars in Bioinformatics - João Rodrigues'
 authors:
   - '@mbaudis'

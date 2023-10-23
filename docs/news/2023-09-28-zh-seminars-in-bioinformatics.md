@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Investigation of the potential of Covariates for Multiphenotype Studies (CMS) to improve genetic risk prediction
 description: 'Zurich Seminars in Bioinformatics - Anja Estermann'
 date: 2023-09-28

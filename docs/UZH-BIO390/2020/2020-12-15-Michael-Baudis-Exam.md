@@ -1,6 +1,6 @@
 ---
 title: 'Exam'
-template: blog_post.html
+template: post.html
 date: 2020-12-15
 authors:
   - "@mbaudis"

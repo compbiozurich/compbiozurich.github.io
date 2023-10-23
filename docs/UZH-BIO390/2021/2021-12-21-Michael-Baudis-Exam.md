@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'BIO390 HS21 Exam'
 date: 2020-12-21
 authors:

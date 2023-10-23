@@ -1,6 +1,6 @@
 ---
 title: 'Izaskun Mallona - Regulatory Genomics and Epigenomics'
-template: blog_post.html
+template: post.html
 date: 2020-11-03
 authors:
   - ""

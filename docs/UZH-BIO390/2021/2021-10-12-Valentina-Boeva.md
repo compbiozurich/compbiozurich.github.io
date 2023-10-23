@@ -1,6 +1,6 @@
 ---
 title: Machine Learning for Biological Use Cases
-template: blog_post.html
+template: post.html
 authors:
 date: 2021-10-12
 pdf_file_name: 2020-10-27___Valentina-Boeva__Machine-Learning-for-Biological-Use-Cases__UZH-BIO390-HS20-lecture-07.pdf

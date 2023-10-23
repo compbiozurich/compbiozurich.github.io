@@ -1,6 +1,6 @@
 ---
 title: 'Amedeo Caflisch - Molecular Dynamics'
-template: blog_post.html
+template: post.html
 date: 2019-11-05
 pdf_file_name: 2019-11-05___Amedeo-Caflisch__Molecular_Dynamics__UZH-BIO390-HS19-lecture-07			# name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links

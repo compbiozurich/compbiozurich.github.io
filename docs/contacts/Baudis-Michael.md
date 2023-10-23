@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title:  "Michael Baudis"
 links:
   - 'https://info.baudisgroup.org/group/Michael-Baudis/'

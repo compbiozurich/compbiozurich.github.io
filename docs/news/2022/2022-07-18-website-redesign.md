@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "CompbioZurich Website Redesign"
 description: Re-implementing the Site with Mkdocs
 date: 2022-07-18

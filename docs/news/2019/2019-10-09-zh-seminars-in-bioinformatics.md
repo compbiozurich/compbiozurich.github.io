@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 description: 'ZH Seminars Bioinformatics - Anna Quaglieri'
 date: 2019-10-09
 authors:

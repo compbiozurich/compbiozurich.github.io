@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Multi-omics studies of cancer signalling and immune infiltration
 description: 'Zurich Seminars in Bioinformatics - Pedro Beltrao'
 date: 2023-02-16

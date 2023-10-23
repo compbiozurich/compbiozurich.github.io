@@ -1,6 +1,6 @@
 ---
 title: Proteomics
-template: blog_post.html
+template: post.html
 authors:
   - ""
 date: 2021-11-02

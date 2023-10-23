@@ -1,6 +1,6 @@
 ---
 title: 'Biological Networks'
-template: blog_post.html
+template: post.html
 authors:
   - "@mbaudis"
 date: 2021-11-09

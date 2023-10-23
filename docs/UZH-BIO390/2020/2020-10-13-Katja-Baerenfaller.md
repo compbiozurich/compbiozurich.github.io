@@ -1,6 +1,6 @@
 ---
 title: 'Katja Baerenfaller - Proteomics'
-template: blog_post.html
+template: post.html
 date: 2020-10-13
 authors:
   - ""

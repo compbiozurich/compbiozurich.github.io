@@ -1,6 +1,6 @@
 ---
 title: 'Christian von Mering - Biological Sequence Informatics'
-template: blog_post.html
+template: post.html
 date: 2019-09-24
 authors:
   - ""

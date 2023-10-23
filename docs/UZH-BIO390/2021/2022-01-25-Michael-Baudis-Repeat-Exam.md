@@ -1,6 +1,6 @@
 ---
 title: 'Repeat Exam'
-template: blog_post.html
+template: post.html
 date: 2022-01-25
 authors:
   - "@mbaudis"

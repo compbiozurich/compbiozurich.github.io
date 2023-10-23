@@ -1,6 +1,6 @@
 ---
 title: 'Alex H. Wagner- Clinical Interpretation Knowledgebases and Learning Bioinformatics'
-template: blog_post.html
+template: post.html
 date: 2019-12-10
 authors:
   - ""

@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Copy number variation data calibration towards intgerative analysis in cancer
 description: 'Zurich Seminars in Bioinformatics - Hangjia Zhao'
 date: 2022-05-05

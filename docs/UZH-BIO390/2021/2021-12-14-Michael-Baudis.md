@@ -1,6 +1,6 @@
 ---
 title: 'Michael Baudis - Genomic Data Risks & Opportunities'
-template: blog_post.html
+template: post.html
 date: 2020-12-14
 authors:
   - "@mbaudis"

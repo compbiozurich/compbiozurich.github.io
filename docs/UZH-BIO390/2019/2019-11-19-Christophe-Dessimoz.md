@@ -1,6 +1,6 @@
 ---
 title: 'Christophe Dessimoz - Sequence Evolution and Phylogenetics'
-template: blog_post.html
+template: post.html
 date: 2019-11-19
 authors:
   - "@cdessimoz"

@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Andreas Wagner"
 date: 2006-01-01
 links:

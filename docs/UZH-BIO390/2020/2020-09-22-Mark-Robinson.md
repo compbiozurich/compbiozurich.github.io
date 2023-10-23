@@ -1,6 +1,6 @@
 ---
 title: 'Mark Robinson - Statistical Bioinformatics'
-template: blog_post.html
+template: post.html
 date: 2020-09-22
 authors:
   - "@mbaudis"

@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Inflammatory bowel disease at single-cell and sub-cellular spatial resolution
 description: 'Zurich Seminars in Bioinformatics - Helena L. Cromwell'
 date: 2023-01-26

@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Searching in nucleotide archives at Petabase scale with MetaGraph"
 description: 'Zurich Seminars in Bioinformatics - Mikhail Karasikov'
 date: 2022-11-24

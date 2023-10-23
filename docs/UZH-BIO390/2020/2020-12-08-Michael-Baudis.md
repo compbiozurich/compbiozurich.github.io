@@ -1,6 +1,6 @@
 ---
 title: 'Michael Baudis - Human Genome Risks & Opportunities'
-template: blog_post.html
+template: post.html
 date: 2020-12-08
 authors:
   - ""

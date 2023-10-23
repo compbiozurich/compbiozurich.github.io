@@ -1,6 +1,6 @@
 ---
 title: 'Clinical Bioinformatics'
-template: blog_post.html
+template: post.html
 date: 2019-11-26
 authors:
   - "@mbaudis"

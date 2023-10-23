@@ -1,6 +1,6 @@
 ---
 title: 'Elif Ozkirimli - Protein Structure and Interactions'
-template: blog_post.html
+template: post.html
 date: 2019-11-12
 authors:
   - "@ElifOzkirimli"

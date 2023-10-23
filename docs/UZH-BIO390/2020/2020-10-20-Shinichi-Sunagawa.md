@@ -1,6 +1,6 @@
 ---
 title: 'Shinichi Sunagawa - Metagenomics'
-template: blog_post.html
+template: post.html
 date: 2020-10-20
 authors:
   - "@SuShiAtGit"

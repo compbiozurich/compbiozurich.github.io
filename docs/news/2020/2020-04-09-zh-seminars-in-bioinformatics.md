@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Censored predictors in single cell regression models
 description: 'ZH Seminars Bioinformatics - Reto Gerber'
 date: 2020-04-09

@@ -1,6 +1,6 @@
 ---
 title: 'Proteomics'
-template: blog_post.html
+template: post.html
 authors:
   - "@mbaudis"
 date: 2019-10-29

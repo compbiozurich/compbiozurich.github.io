@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Cara Magnabosco"
 links:
   - 'https://erdw.ethz.ch/en/people/profile.cara-magnabosco.html'

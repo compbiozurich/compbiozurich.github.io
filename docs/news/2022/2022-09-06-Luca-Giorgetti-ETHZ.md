@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Towards a quantitative understanding of long-range transcriptional regulation"
 description: ETHZ seminar - Luca Giorgetti, FMI Basel
 date: 2022-09-06

@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Supervised Hierarchical Autoencoders for Multi-Omics Integration in Cancer Survival Models
 description: 'Zurich Seminars in Bioinformatics - David Wissel'
 date: 2021-10-14

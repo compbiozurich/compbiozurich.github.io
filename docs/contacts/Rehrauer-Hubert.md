@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Hubert Rehrauer"
 date: 2007-07-01
 links:

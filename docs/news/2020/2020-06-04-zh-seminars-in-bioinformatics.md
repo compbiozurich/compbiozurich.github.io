@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'distinct: a method for differential analyses via hierarchical permutation tests, with applications to single-cell data'
 date: 2020-06-04
 description: 'Zurich Seminars in Bioinformatics - Simone Tiberi'

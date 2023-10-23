@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Polyploid crop genome assembly by optical genome mapping and homeolog specific genomics analysis
 description: 'ZH Seminars Bioinformatics - Masaomi Hatakeyama'
 date: 2019-04-03

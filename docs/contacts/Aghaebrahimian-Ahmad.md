@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title:  "Ahmad Aghaebrahimian"
 links:
   - 'https://www.zhaw.ch/en/about-us/person/agha/'

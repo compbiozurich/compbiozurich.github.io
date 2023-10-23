@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'What is Bioinformatics? Introduction and Resources'
 date: 2021-09-21
 authors:

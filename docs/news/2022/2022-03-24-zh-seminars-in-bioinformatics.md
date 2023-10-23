@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Frequent co-regulation of splicing and polyadenylation by RNA-binding proteins inferred with MAPP
 description: 'Zurich Seminars in Bioinformatics - Maciek Bak | Biozentrum, University of Basel | Swiss Institute of Bioinformatics'
 date: 2022-03-24

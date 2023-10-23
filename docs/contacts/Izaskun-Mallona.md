@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title:  "Izaskun Mallona Gonzalez, PhD"
 date: 2019-08-28
 links:

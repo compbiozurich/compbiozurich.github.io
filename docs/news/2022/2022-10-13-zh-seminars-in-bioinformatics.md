@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Genome-wide study of variations in Plasmodium falciparum and their association with different malaria interventions in Tanzania
 description: 'Zurich Seminars in Bioinformatics - Catherine Bakari Mvaa (Christian Nsanzabana group @ TPH)'
 date: 2022-10-13

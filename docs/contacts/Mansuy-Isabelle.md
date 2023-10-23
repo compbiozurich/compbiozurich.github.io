@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Isabelle Mansuy"
 date: 2019-09-09
 links:

@@ -1,6 +1,6 @@
 ---
 title: 'Shinichi Sunagawa - Metagenomics'
-template: blog_post.html
+template: post.html
 date: 2019-10-01
 authors:
   - ""

@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Joachim M. Buhmann"
 date: 2003-07-01
 links:

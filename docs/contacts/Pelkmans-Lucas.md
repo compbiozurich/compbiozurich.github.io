@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Lucas Pelkmans"
 date: 2010-07-01
 links:

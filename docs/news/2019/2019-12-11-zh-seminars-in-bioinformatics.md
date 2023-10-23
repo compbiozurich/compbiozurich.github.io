@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Knowledge standards drive clinical interpretation of genomic variants in cancers
 description: 'ZH Seminars Bioinformatics - Alex H. Wagner'
 date: 2019-12-11

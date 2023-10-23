@@ -1,6 +1,6 @@
 ---
 title: 'Metagenomics'
-template: blog_post.html
+template: post.html
 authors:
   - "@SuShiAtGit"
 date: 2021-10-26

@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 description: 'ZH Seminars Bioinformatics - Joao Rodrigues'
 date: 2019-11-27
 ---

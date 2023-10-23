@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Leveraging single-cell RNA-seq with CITE-seq data
 description: 'Zurich Seminars in Bioinformatics - Anthony Sonrel'
 date: 2021-03-04

@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Christof Aegerter"
 date: 2008-07-01
 links:

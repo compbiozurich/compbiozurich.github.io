@@ -1,6 +1,6 @@
 ---
 title: Regulatory Genomics and Epigenomics
-template: blog_post.html
+template: post.html
 authors:
   - "@mbaudis"
 date: 2021-10-19

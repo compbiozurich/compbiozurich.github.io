@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Gunnar R&auml;tsch"
 date: 2016-05-01
 links:

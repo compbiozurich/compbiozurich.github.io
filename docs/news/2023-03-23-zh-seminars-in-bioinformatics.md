@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Analysis of copy number variant heterogeneity in the hierarchical NCIt cancer classification system
 description: 'Zurich Seminars in Bioinformatics - Ziying Yang'
 date: 2023-03-23

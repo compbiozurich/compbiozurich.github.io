@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title:  "Bernd Wollscheid"
 links:
   - http://wlab.ethz.ch/wollscheidlab/

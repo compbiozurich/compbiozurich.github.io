@@ -1,6 +1,6 @@
 ---
 title: "Robinson Lab at UZH and SIB - Software & Resources in Statistical Bioinformatics"
-template: blog_post.html
+template: post.html
 date: 2012-01-01
 links:
   - 'https://robinsonlabuzh.github.io/tools.html'

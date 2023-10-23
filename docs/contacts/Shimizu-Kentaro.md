@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Kentaro Shimizu"
 date: 2006-07-01
 links:

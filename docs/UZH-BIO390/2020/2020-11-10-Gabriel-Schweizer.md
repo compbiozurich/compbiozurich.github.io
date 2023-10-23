@@ -1,6 +1,6 @@
 ---
 title: 'Gabriel Schweizer - Biological Networks'
-template: blog_post.html
+template: post.html
 date: 2020-11-10
 authors:
   - ""

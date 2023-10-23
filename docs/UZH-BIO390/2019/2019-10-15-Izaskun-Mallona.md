@@ -1,6 +1,6 @@
 ---
 title: 'Izaskun Mallona - Regulatory Genomics and Epigenomics'
-template: blog_post.html
+template: post.html
 date: 2019-10-15
 pdf_file_name: 				# name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links

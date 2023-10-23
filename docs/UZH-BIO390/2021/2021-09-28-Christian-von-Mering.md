@@ -1,6 +1,6 @@
 ---
 title: 'Biological Sequence Informatics'
-template: blog_post.html
+template: post.html
 date: 2021-09-28
 authors:
   - "@mbaudis"

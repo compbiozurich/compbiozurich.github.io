@@ -1,6 +1,6 @@
 ---
 title: 'Michael Baudis - Introducing Bioinformatics'
-template: blog_post.html
+template: post.html
 date: 2019-09-17
 authors:
   - "@mbaudis"

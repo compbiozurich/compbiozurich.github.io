@@ -1,6 +1,6 @@
 ---
 title:  Biomedical Text Mining
-template: blog_post.html
+template: post.html
 authors:
   - "@mbaudis"
 date: 2021-11-16

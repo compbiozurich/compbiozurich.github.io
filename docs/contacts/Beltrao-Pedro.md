@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title:  "Pedro Beltrao"
 links:
   - https://imsb.ethz.ch/research/beltrao.html

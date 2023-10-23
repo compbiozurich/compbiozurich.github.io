@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: HackyHour Zurich - data analysis made social
 description: 'ZH Seminars Bioinformatics - Nils Eling'
 authors:

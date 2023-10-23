@@ -1,7 +1,7 @@
 ---
 title: 'Abdullah Kahraman - Molecular Interaction Networks'
 date: 2020-11-17
-template: blog_post.html
+template: post.html
 authors:
   - ""
 pdf_file_name: 		# name of PDF (no path) somewhere in "assets"; auto-linked

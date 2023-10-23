@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Identifying clones and quantifying diversity in repertoire sequencing data.
 description: 'Zurich Seminars in Bioinformatics - Siyuan Luo'
 date: 2021-10-21

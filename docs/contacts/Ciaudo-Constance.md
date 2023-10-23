@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: "Constance Ciaudo"
 date: 2013-04-01
 links:

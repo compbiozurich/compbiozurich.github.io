@@ -1,6 +1,6 @@
 ---
 title: 'Patrick Ruch - Text Mining'
-template: blog_post.html
+template: post.html
 date: 2020-10-06
 pdf_file_name: 2020-10-06___Patrick-Ruch__Text-Mining__UZH-BIO390-HS20-lecture-04.pdf
 links:  # one or more formatted html links

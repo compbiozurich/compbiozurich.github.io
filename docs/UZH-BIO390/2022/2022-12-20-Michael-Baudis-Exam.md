@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: 'BIO390 Exam'
 description: BIO390 UZH HS22 - Introduction to Bioinformatics</br>08:15-09:45 @ UZH Irchel Y03-G-85
 authors:

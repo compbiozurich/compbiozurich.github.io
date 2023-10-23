@@ -1,6 +1,6 @@
 ---
 title: 'Clinical Bioinformatics'
-template: blog_post.html
+template: post.html
 authors:
   - "@mbaudis"
 date: 2021-12-07

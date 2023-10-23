@@ -1,7 +1,7 @@
 ---
 title: 'PhD / Postdoc in Computational Phylogenetics'
 date: 2019-03-14
-template: blog_post.html
+template: post.html
 links:
   - 'https://www.zhaw.ch/de/ueber-uns/person/anis/'
   - '<a href="mailto:maria.anisimova@zhaw.ch">[maria.anisimova@zhaw.ch]</a>'

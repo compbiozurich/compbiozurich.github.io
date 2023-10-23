@@ -1,6 +1,6 @@
 ---
 title: 'Valerie Barbie - Clinical Bioinformatics'
-template: blog_post.html
+template: post.html
 date: 2020-11-24
 authors:
   - ""

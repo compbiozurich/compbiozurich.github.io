@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Phylogeny and Metabolic Potential of SAR324
 description: 'Zurich Seminars in Bioinformatics - Lukas Malfertheiner'
 date: 2020-12-10

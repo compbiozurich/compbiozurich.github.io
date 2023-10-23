@@ -1,6 +1,6 @@
 ---
 title: 'Andreas Wagner - Biological Networks'
-template: blog_post.html
+template: post.html
 date: 2019-12-03
 authors:
   - ""

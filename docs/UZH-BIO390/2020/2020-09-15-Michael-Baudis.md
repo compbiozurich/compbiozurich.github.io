@@ -1,6 +1,6 @@
 ---
 title: 'Michael Baudis - What is Bioinformatics?'
-template: blog_post.html
+template: post.html
 date: 2020-09-15
 authors:
   - "@mbaudis"

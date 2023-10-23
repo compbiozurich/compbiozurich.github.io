@@ -1,6 +1,6 @@
 ---
 title: 'Michael Baudis - Building a Genomics Resource'
-template: blog_post.html
+template: post.html
 date: 2020-12-01
 authors: '@mbaudis'
 www_link: http://progenetix.org

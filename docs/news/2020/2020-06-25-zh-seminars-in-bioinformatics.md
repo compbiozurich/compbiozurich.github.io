@@ -1,5 +1,5 @@
 ---
-template: blog_post.html
+template: post.html
 title: Flanking sequence preference modulates _de novo_ DNA methylation in the mouse genome
 description: 'Zurich Seminars in Bioinformatics - Izaskun Mallona'
 date: 2020-06-25

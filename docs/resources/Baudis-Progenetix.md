@@ -1,6 +1,6 @@
 ---
 title: "Progenetix - Cancer Genome Data Resource"
-template: blog_post.html
+template: post.html
 date: 2001-01-01
 links: 
   - 'https://progenetix.org'
