@@ -6,8 +6,8 @@ date: 2023-09-19
 authors:
 pdf_file_name: 
 links:
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2022-09-27___Christian-von-Mering__Biological-Sequence-Informatics__UZH-BIO390-HS22-lecture-02.pdf" target="_blank">[2022 lecture slides]</a>'
-  - '[lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+2A+Biological+Sequence+Informatics/0_19c3kdm3)'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2023-09-19___Christian-von-Mering__Biological-Sequence-Informatics__UZH-BIO390-HS23-lecture-01.pdf" target="_blank">[2023 lecture slides]</a>'
+  - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+2A+Biological+Sequence+Informatics/0_19c3kdm3)'
 ---
 
 #### Christian von Mering

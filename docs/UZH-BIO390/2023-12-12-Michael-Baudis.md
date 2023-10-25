@@ -8,7 +8,7 @@ date: 2023-12-12
 pdf_file_name: 
 links:  # one or more formatted html links
   - '[2022 slides "Genomic Privacy"](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2022-12-13___Michael-Baudis__Genomic-data-and-Privacy__UZH-BIO390-HS22-lecture-13.pdf)'
-  - '[lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics/0_nbvsl9bm)'
+  - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics/0_nbvsl9bm)'
 ---
 
 #### Michael Baudis
