@@ -114,6 +114,6 @@ extra:
     excerpt_separator: <!--more-->
   social:
     - icon: fontawesome/brands/github 
-      link: https://github.com/hCNV
+      link: https://github.com/mbaudis
 extra_css:
   - css/theme_overrides.css
