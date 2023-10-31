@@ -7,7 +7,7 @@ authors:
 date: 2023-10-31
 pdf_file_name:     # name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2022-11-01___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS22-lecture-07.pdf">[2022 Lecture Slides]</a>'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2023-10-31___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS23-lecture-07.pdf">[2023 Lecture Slides]</a>'
   - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+06A+Proteomics/0_3zbyerll)'
 ---
 
