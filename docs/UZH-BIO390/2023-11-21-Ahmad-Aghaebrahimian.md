@@ -13,8 +13,6 @@ links:  # one or more formatted html links
 ---
 
 #### Ahmad Aghaebrahimian (ZHAW)
-##### (... to be confirmed ...)
-
 
 Biomedical science is rich in structured and unstructured textual data including but not limited to hundreds of ontologies as well as millions of scientific publications. Semantic web and its stack of standards provide an efficient way for organizing knowledge extracted from such huge volume of data. Modeling data in knowledge graphs makes complex question answering and reasoning over abundance of information manageable and feasible. In this session we will find out how.
 
