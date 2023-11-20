@@ -7,7 +7,7 @@ authors:
   - "@mbaudis"
 pdf_file_name: 
 links:
-  - '[[lecture slides] (PDF)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2023-09-26___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-lecture-02.pdf)'
+  - '[[2023 lecture slides] (PDF)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2023-09-26___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-lecture-02.pdf)'
   - '[[2022 podcast recording]](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Day+01A+What+is+Bioinformatics/0_5hdrb7uk)'
 ---
 
