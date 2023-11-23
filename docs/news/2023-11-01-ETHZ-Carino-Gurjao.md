@@ -10,7 +10,7 @@ links:
   - '[Valentina Boeva @ ETHZ](http://boevalab.inf.ethz.ch/boeva_personal.html)'
 ---
 
-* 11:00 at , Sonneggstrasse 3, 8092 Zürich
+* 11:00 at ETHZ, Sonneggstrasse 3, 8092 Zürich
 
 **Abstract** Colorectal cancer (CRC) has several established risk factors, including diet and microbiome. However, their mutagenic effect has not been observed directly in patients’ tumors and the individuals or ethnic groups who are most susceptible to diet-induced carcinogenesis are yet to be identified. In particular, CRC disproportionately affects African American (AA) patients who have worse clinical outcomes, but the molecular underpinnings are still poorly understood. We hypothesize that mutational signature analyses in CRC, coupled with epidemiologic, tumor molecular, micro-environmental, and patient germline data, can be linked to pre-diagnosis diet and specific germline alterations, which can further inform cancer prevention efforts.<!--more-->
  
