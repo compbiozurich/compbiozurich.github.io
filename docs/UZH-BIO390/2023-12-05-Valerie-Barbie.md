@@ -7,7 +7,7 @@ authors:
   - '@mbaudis'
 pdf_file_name:
 links:  # one or more formatted html links
-  - '[2022 lecture slides](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2022-12-06___Valerie-Barbie__Clinical-Bioinformatics__UZH-BIO390-HS22-lecture-12.pdf)'
+  - '[2023 lecture slides](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2023-12-05___Valerie-Barbie__Clinical-Bioinformatics__UZH-BIO390-HS23-lecture-12.pdf)'
   - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+12A+Clinical+Bioinformatics/0_93stjkug)'
 ---
 
