@@ -27,6 +27,38 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * common programming/analysis languages in bioinformatics and their preferred use
 * components of bioinformatics online resources
 
+##### Some Q & A (thanks to the providers of these questions)
+
+* _Progenetix use case_: In comparative genomic hybridization, in the case of an high
+copy number segment of DNA, more tumor DNA will hybridize to the metaphase chromosomes
+just because of higher likelihood?
+    - in essence, yes; it is a mix of higherlikelihood and therefore higher binding
+      probability (it is actually hard for a given fragment to encounter the right
+      place on the chromosome or array) w/ or w/o competition effects (latter when using normal
+      reference DNA)
+* _CURIEs_: ...hierarchical coding systems where individual codes are represented as
+  CURIEs - aren't they a type of URI rather then a "code"?
+    - CURIEs are universal identifiers (URIs) consisting of a public and a local
+      part
+    - they are universal (like UUIDs) but unlike UUIDs (which can be anonymous)
+      they are resolvable (_i.e._ the public part can be resolved to a URL where
+      then the local part can be used to retrieve the resource)
+    - the "hierarchical coding systems" usually _don't_ use the CURIE _internally_
+      but only the private part; but using the complete CURIE _externally_
+      makes it unambiguous
+* _Progenetix use case_: In Progenetix one can *either* use the GA4GH-Beacon API to
+  query (i.e., do information retrieval) *OR* use the _pgxRpi_ API to load the data
+  into an analysis environment (i.e., for eventual knowledge extraction)?
+    - Not really. The _bycon_ software stack implements database access / middleware /
+      Beacon API instance. This (outward facing) API (compatible to the Beacon specification)
+      can be accessed by various clients for data retrieval (e.g. the `beaconplus-web`
+      or `progenetix-web` JavaScript front ends, manual http requests, Beacon aggregator
+      services...).
+    - The `pgxRpi` itself is an API for the R environment, _i.e._ another client
+      accessing the Beacon API. So here one gets
+      `(DATA - Progenetix' Beacon API - pgxRpi API - R analysis environment`.
+
+
 #### Sequence Analysis
 
 * substitution matrices
@@ -123,6 +155,9 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * community (module) detection
 * cliques
 * motifs, graph representations of metabolic networks
+
+
+
 
 #### Genomic data & provacy
 
