@@ -7,9 +7,17 @@ authors:
 
 This page indicates some of the learning goals, as emphasised by the different lecturers. Some points will have been discussed in different lectures; accordingly, exam questions may not refer to information of one specific presentation.
 
-__Cave__: Please be aware that some of the "Learning Goals" may reflect aspects not necessarily captured by the lectures in the current semester - The ones reelevant for the current semester's exam are related to the given lectures. Also, updates may occurr at any time.
+!!! warning "Learning goals have an overa ll scope"
 
-#### Bioinformatics: Definition & Concepts
+    Please be aware that some of the "Learning Goals" may reflect aspects not necessarily captured by the lectures in the current semester - The ones reelevant for the current semester's exam are related to the given lectures. Also, updates may occurr at any time.
+
+!!! note "Consider individual pages"
+
+    Please consider individual course pages and documents linked from there. Those
+    might be updated later on, so it is a good idea to check back before the end
+    of the course.
+
+## Bioinformatics: Definition & Concepts
 
 * definition of "Bioinformatics" (cf. Anna Tramontano)
 * categories of informatics tools used in bioinformatics
@@ -22,12 +30,12 @@ __Cave__: Please be aware that some of the "Learning Goals" may reflect aspects 
 * areas of "not-bioinformatics", and why
 * bioinformatics tools (programming languages, libraries, online resources) and their specific use cases
 
-#### Bioinformatics tools & resources
+## Bioinformatics tools & resources
 
 * common programming/analysis languages in bioinformatics and their preferred use
 * components of bioinformatics online resources
 
-##### Some Q & A (thanks to the providers of these questions)
+### Some Q & A (thanks to the providers of these questions)
 
 * _Progenetix use case_: In comparative genomic hybridization, in the case of an high
 copy number segment of DNA, more tumor DNA will hybridize to the metaphase chromosomes
@@ -59,12 +67,12 @@ just because of higher likelihood?
       `(DATA - Progenetix' Beacon API - pgxRpi API - R analysis environment`.
 
 
-#### Sequence Analysis
+## Sequence Analysis
 
 * substitution matrices
 * BLAST
 
-#### Statistical Bioinformatics
+## Statistical Bioinformatics
 
 * usage of gene expression profiling
 * multiple testing correction
@@ -84,7 +92,7 @@ just because of higher likelihood?
 * effect of data transformation (e.g. log) on common types of plots
 -->
 
-#### Regulatory Genomics and Epigenomics
+## Regulatory Genomics and Epigenomics
 
 * secondary/tertiary human genome structure
 * functional genome content
@@ -95,7 +103,7 @@ just because of higher likelihood?
 * peak calling
 * sequence compression algorithms
 
-#### Metagenomics
+## Metagenomics
 
 * concept of taxonomic diversity
 * concept microbial community dissimilarity
@@ -104,7 +112,7 @@ just because of higher likelihood?
 * essential steps of short sequencing read assembly into contigs and scaffolds
 * basic steps of metagenomic analysis: from raw reads to the reconstruction of genomic scaffolds
 
-#### Proteomics
+## Proteomics
 
 * principles of proteome organization in the cell
 * key experimental and computational concepts  for the collection and analysis of high confidence protein-protein interaction data
@@ -112,7 +120,7 @@ just because of higher likelihood?
 * target-decoy approach
 * protein quantification
 
-#### Clinical Bioinformatics & Personalized Medicine
+## Clinical Bioinformatics & Personalized Medicine
 
 * genomic variants (types, numbers)
 * genomic privacy and re-identification (concepts)
@@ -124,7 +132,7 @@ just because of higher likelihood?
 * clinical trial participation
 * genotype-phenotype (G2P) (ab-)use
 
-#### Text Mining
+## Text Mining
 
 * text mining pipelines & (current) common programs/applications
 * article/literature repositories (with focus on accessibility)
@@ -133,7 +141,7 @@ just because of higher likelihood?
 * search engine precision metrics
 * benchmarking
 
-#### Semantic web, RDF, Ontologies
+## Semantic web, RDF, Ontologies
 
 * semantic web and its benefits
 * stack of standards in semantic web and their functions
@@ -141,7 +149,7 @@ just because of higher likelihood?
 * OWL/OBO for modeling a biomedical domain
 * querying knowledge graphs for answering biomedical questions
 
-#### Biological Networks
+## Biological Networks
 
 * Protein interaction and metabolic networks
 * the two-hybrid assay and its limitations
@@ -156,10 +164,7 @@ just because of higher likelihood?
 * cliques
 * motifs, graph representations of metabolic networks
 
-
-
-
-#### Genomic data & provacy
+## Genomic data & provacy
 
 * reasons for needing _many_ genomes
 * principle of re-identification attacks over the Beacon protocol
