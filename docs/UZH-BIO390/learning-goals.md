@@ -65,6 +65,14 @@ This page indicates some of the learning goals, as emphasised by the different l
       Mkdocs, ReadTheDocs, Bioconductor ...
 * components of bioinformatics online resources
     - Databases, middleware, APIs, frontends ...
+* database types / concepts
+    - SQL vs. document databases
+* data curation (biocuration)
+    - importance of classifications, ontologies
+    - some ontologies and their use (NCIt, UBERON, DO)
+    - CURIEs as identifiers (see below)
+    - Null Island
+    - ISO 8601 for dates and times (and why / why not?)
 
 ### Some Q & A (thanks to the providers of these questions)
 
