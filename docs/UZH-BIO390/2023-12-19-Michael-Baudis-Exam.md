@@ -1,13 +1,13 @@
 ---
 template: post.html
 title: 'BIO390 Exam'
-description: BIO390 UZH HS22 - Introduction to Bioinformatics</br>08:15-09:45 @ UZH Irchel Y03-G-85
+description: BIO390 UZH HS22 - Introduction to Bioinformatics</br>08:15-09:45 @ UZH Irchel and Y-03G-91
 authors:
   - "@mbaudis"
 date: 2023-12-19
 pdf_file_name: 
 links:
-  - '<a href="/UZH-BIO390/learning-goals/">[Approximate Learning goals]</a>'
+  - '<a href="/UZH-BIO390/learning-goals/">[Learning goals]</a>'
 ---
 
 The exam will be on the last day of the course *on site*:

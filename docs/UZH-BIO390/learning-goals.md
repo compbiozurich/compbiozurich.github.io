@@ -7,9 +7,12 @@ authors:
 
 This page indicates some of the learning goals, as emphasised by the different lecturers. Some points will have been discussed in different lectures; accordingly, exam questions may not refer to information of one specific presentation.
 
-!!! warning "Learning goals have an overa ll scope"
+!!! warning "Learning goals have a general scope"
 
-    Please be aware that some of the "Learning Goals" may reflect aspects not necessarily captured by the lectures in the current semester - The ones reelevant for the current semester's exam are related to the given lectures. Also, updates may occurr at any time.
+    Please be aware that some of the "Learning Goals" may reflect aspects not necessarily
+    captured by the lectures in the current semester - The ones reelevant for the
+    current semester's exam are related to the given lectures. Also, updates may
+    occurr at any time.
 
 !!! note "Consider individual pages"
 
@@ -32,8 +35,11 @@ This page indicates some of the learning goals, as emphasised by the different l
 
 ## Bioinformatics tools & resources
 
-* common programming/analysis languages in bioinformatics and their preferred use
+* common programming/analysis languages/environments in bioinformatics and their preferred use
+    - e.g. R, Perl, Python, JavaScript ... but also environments & packages like
+      Mkdocs, ReadTheDocs, Bioconductor ...
 * components of bioinformatics online resources
+    - Databases, middleware, APIs, frontends ...
 
 ### Some Q & A (thanks to the providers of these questions)
 
@@ -164,7 +170,7 @@ just because of higher likelihood?
 * cliques
 * motifs, graph representations of metabolic networks
 
-## Genomic data & provacy
+## Genomic data & privacy
 
 * reasons for needing _many_ genomes
 * principle of re-identification attacks over the Beacon protocol
