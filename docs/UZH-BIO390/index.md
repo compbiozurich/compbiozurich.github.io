@@ -14,11 +14,11 @@ The handling and analysis of biological data using computational methods has bec
 
 The _introduction to Bioinformatics_ is a series of lectures aimed at students w/
 a medium to advanced undergrate level in Life Sciences. Participants are expected
-to be knowledgeable in the basic concepts of molecular biology and genetics, but
-also to have some basic understanding in statistics and concepts of programming, if
-not practical experience (_i.e._ have attended introductory courses). Experience with
-common platforms used for shared code/document management (e.g. Gitlab/Github...)
-is helpful but not required.
+to be *knowledgeable in the basic concepts of molecular biology and genetics*, but
+also to have some *basic understanding in statistics and concepts of programming*, if
+not practical experience (_i.e._ have attended introductory courses, done some data
+analyses in R or Python etc.). Experience with common platforms used for shared
+code/document management (e.g. Gitlab/Github...) is helpful but not strictly required.
 
 ### Schedule & Notes
 
@@ -34,7 +34,7 @@ is helpful but not required.
 
 ### Syllabus
 
-Some [approximate learning goals](/UZH-BIO390/learning-goals/) may provide
-you with additional guidance - but plese be aware that those may not be particularly
-adjusted to a specific semester in which indvidual lecturers might make changes
-to their current topics.
+Some [learning goals](/UZH-BIO390/learning-goals/) should provide
+you with additional guidance - but please be aware that those may include details
+which not have been covered in the current semester; still good to know but not
+necessarily relevant for the exam.
