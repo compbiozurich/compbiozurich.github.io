@@ -13,7 +13,8 @@ links:
 
 #### Pouria Dasmeh
 
-This part of the course BIO390 (Introduction to Bioinformatics) will review examples of biological networks their basic properties. 
+This part of the course BIO390 (Introduction to Bioinformatics) will review
+examples of biological networks their basic properties. 
 
 <!--more-->
 
