@@ -1,6 +1,6 @@
 ---
 template: post.html
-title: "Characterizing Intestinal Fibroblast Diversity in Health and Inflammatory Bowel Disease Through Single-Cell Analysis<br/>Master Thesis Presentation"
+title: "Characterizing Intestinal Fibroblast Diversity in Health and Inflammatory Bowel Disease Through Single-Cell Analysis<br/>Melissa Ensmenger - Master Thesis Presentation"
 description: 'Zurich Seminars in Bioinformatics'
 date: 2024-03-28
 authors:
