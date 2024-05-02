@@ -2,7 +2,7 @@
 template: post.html
 title: "Proximal Short Tandem Repeat Variations as Regulators of Gene Expression across Multiple Cancers<br/>Feifei Xia (ZHAW)"
 description: 'Zurich Seminars in Bioinformatics'
-date: 2024-05-25
+date: 2024-05-02
 authors:
   - "@mbaudis"
 links:
