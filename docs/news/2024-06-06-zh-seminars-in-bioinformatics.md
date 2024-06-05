@@ -9,7 +9,7 @@ links:
   - '[Robinson lab @ UZH](https://robinsonlabuzh.github.io)'
 ---
 
-* 12:15 UZH Irchel Y55-l-06/08 and ZOOM Call
+* 12:15 ZOOM Call only!
 
 **Abstract** Spatial transcriptomics (ST) preserves transcriptomic information within a spatial context, enabling an unprecedented understanding of tissue architecture and cellular heterogeneity. Since 2020, over 50 methods have been developed to identify spatial domains in ST datasets. Existing benchmarking efforts are limited by imbalances in dataset and technology inclusion, hindering a comprehensive overview of current methods. This study is a pilot demonstration of SpaceHack, a collaborative and community-driven benchmarking framework initiated by more than 40 researchers from across the world. <!--more-->
 
