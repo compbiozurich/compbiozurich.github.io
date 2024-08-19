@@ -2,27 +2,30 @@
 
 {% block content %}
   {{ page.content }}
+  {% set future_posts = [] %}
   {% set news_posts = [] %}
+  {% set today = build_date_utc.strftime('%Y%m%d') | int %}
 
     {% for this_file in pages %}
       {% set this_page = this_file.page %}
       {% if this_page.meta is defined %}
         {% if "UZH-BIO390" in this_page.url and this_page.meta.date is defined %}
-          {{ news_posts.append( this_page ) or "" }}
+          {% set page_date = this_page.meta.date.strftime('%Y%m%d') | int %}
+          {% if page_date >= today %}
+            {{ future_posts.append( this_page ) or "" }}
+          {% else %}
+            {{ news_posts.append( this_page ) or "" }}
+          {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
 
-  {% set today = build_date_utc.strftime('%Y%m%d') | int %}
 
-  {% for page in (news_posts|sort(attribute="meta.date", reverse=True))[:config.extra.news.list_length] %}
-
-    {% set page_date = page.meta.date.strftime('%Y%m%d') | int %}
-    {% set future = "" %}
-    {% if page_date >= today %}
-      {% set future = "<i>Upcoming:</i> " %}
+  {% set future = "<i>Upcoming:</i> " %}
+  {% for page in (future_posts|sort(attribute="meta.date", reverse=False))[:config.extra.news.list_length] %}
+    {% if loop.index == 1 %}
+      {% set future = "<i>Next:</i> " %}
     {% endif %}
-    
 <h3 class="mdx-author"><a href="{{ page.url|url }}">{{future}}{{ page.title }}</a></h3>
       {% if page.meta.description is defined %}
 <h5>{{ page.meta.description }}</h5>
@@ -34,7 +37,24 @@
 <a href="{{ page.url|url }}#more"><span class="twemoji">
     {% include ".icons/octicons/arrow-right-24.svg" %}
 </span>Continue reading</a>
+      {% endif %}
+<hr>
+    {% set future = "<i>Upcoming:</i> " %}
+  {% endfor %}
 
+  {% set future = "" %}
+  {% for page in (news_posts|sort(attribute="meta.date", reverse=True))[:config.extra.news.list_length] %}
+<h3 class="mdx-author"><a href="{{ page.url|url }}">{{future}}{{ page.title }}</a></h3>
+      {% if page.meta.description is defined %}
+<h5>{{ page.meta.description }}</h5>
+      {% endif %}
+      {% include "partials/blog_metadata.html" %}
+      <!-- Use a hidden p tag to provide a preview -->
+      {% if config.extra.news.extended_preview %}
+        {{ page.content.split(config.extra.news.excerpt_separator, 1)[0] }}
+<a href="{{ page.url|url }}#more"><span class="twemoji">
+    {% include ".icons/octicons/arrow-right-24.svg" %}
+</span>Continue reading</a>
       {% endif %}
 <hr>
   {% endfor %}
