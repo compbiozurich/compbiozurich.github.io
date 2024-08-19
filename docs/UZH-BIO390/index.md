@@ -27,9 +27,8 @@ code/document management (e.g. Gitlab/Github...) is helpful but not strictly req
 * Tue 08:00-09:45
 * UZH Irchel campus, **Y-03G-85**
 * [OLAT](https://lms.uzh.ch/auth/RepositoryEntry/17420091911/Infos/0) - but not much there...
-* Lecture recordings:
-    - we do **not record** the lectures since HS23 (regular attendance is expected)
-    - there are still 2022 [lecture recordings](https://uzh.mediaspace.cast.switch.ch/channel/22HS_BIO390___Introduction-to-Bioinformatics) available
+* No lecture recordings - we do **not record** the lectures since HS23 (regular
+    attendance is expected) _but_ there might be still 2022 [lecture recordings](https://uzh.mediaspace.cast.switch.ch/channel/22HS_BIO390___Introduction-to-Bioinformatics) available
 * Course language is English
 
 ### Syllabus

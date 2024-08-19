@@ -17,6 +17,7 @@ This year happening at the second lecture day, the "What is Bioinformatics? Intr
 and Resources" provides a general introduction into the field and a description of the lecture topics, timeline and procedures.
 
 Topics covered in the lecture are e.g.:
+<!--more-->
 
 * a term definition for _bioinformatics_
 * the relation of hypothesis driven and data driven science, with respect to bioinformatics
@@ -27,8 +28,6 @@ Topics covered in the lecture are e.g.:
 * data collection & curation
 * file Formats, ontologies & APIs ass areas/topics (w/o details)
 * "not-bioinformatics"
-
-<!--more-->
 
 The lecture also presents the upcoming topics of the series.
 
