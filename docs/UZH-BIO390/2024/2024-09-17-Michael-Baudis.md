@@ -13,8 +13,9 @@ links:
 
 #### Michael Baudis
 
-The "What is Bioinformatics? Introduction
-and Resources" provides a general introduction into the field and a description of the lecture topics, timeline and procedures.
+The "What is Bioinformatics? Introduction and Resources" provides a general
+introduction into the field and a description of the lecture topics, timeline and
+procedures.
 
 Topics covered in the lecture are e.g.:
 
