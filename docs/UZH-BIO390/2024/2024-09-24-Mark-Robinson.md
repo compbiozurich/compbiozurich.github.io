@@ -7,6 +7,7 @@ authors:
 pdf_file_name: 
 links:
   - '[2024 lecture slides](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-09-24___Mark-Robinson__Statistics-Bioinformatics__UZH-BIO390-HS24-lecture-02.pdf)'
+  - '[2024 lecture exercise](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-09-24-exercise.txt)'
   - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+03A+Statistical+Bioinformatics/0_1nla51gy)'
 ---
 
