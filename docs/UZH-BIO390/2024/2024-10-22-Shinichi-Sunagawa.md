@@ -27,3 +27,4 @@ To this end, typically PCR-amplified fragments of universal taxonomic marker gen
 - You understand the process, value and challenges of reconstructing microbial genomes from metagenomes
 
 You will find material for exercises related to the lecture linked below.
+
