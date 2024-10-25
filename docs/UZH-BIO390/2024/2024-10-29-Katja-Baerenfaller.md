@@ -7,8 +7,8 @@ authors:
 date: 2024-10-29
 pdf_file_name:     # name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2023-10-31___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS23-lecture-07.pdf">[2023 Lecture Slides]</a> (PDF download)'
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2023-10-31___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS23-Proteomics-Exercise.pdf">[2023 Proteomics Exercise]</a> (PDF download)'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-10-29___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS24-lecture-07.pdf">[2024 Lecture Slides]</a> (PDF download)'
+  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-10-29___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS24-Proteomics-Glossary.pdf">[2024 Proteomics Glossary]</a> (PDF download)'
   - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+06A+Proteomics/0_3zbyerll)'
 ---
 
