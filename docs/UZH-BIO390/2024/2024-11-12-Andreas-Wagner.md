@@ -18,7 +18,7 @@ examples of biological networks their basic properties.
 
 <!--more-->
 
-## Learning goals for exam preparation 2024:
+### Learning goals for exam preparation 2024
 
 After this lecture you should be able to
 
