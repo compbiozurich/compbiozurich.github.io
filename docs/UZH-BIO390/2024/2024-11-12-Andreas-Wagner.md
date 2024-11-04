@@ -18,8 +18,14 @@ examples of biological networks their basic properties.
 
 <!--more-->
 
-## Learning goals for exam preparation (from 2023):
+## Learning goals for exam preparation 2024:
 
-In the Bio390 course, we explored various examples of biological networks and their characteristics. We specifically examined several online databases, such as STRING, KEGG, and Reactome, that facilitate data retrieval for constructing these networks. Additionally, we delved into the mathematical models of networks and learned about the distinctions between biological networks and random networks (such as the Erdős-Rényi model). An important characteristic we focused on to differentiate between network types was the degree distribution. Moreover, we gained insight into determining the positioning of different nodes within a network using metrics like betweenness centrality. Towards the end, we investigated the robustness of biological networks under different perturbations and briefly overviewed mathematical models that aid in understanding the flow of information through various nodes in a network.
+After this lecture you should be able to
 
-
+* enumerate various examples of biological networks and their characteristics.  
+* apply simple quantifiers of network structure to analyze a network, such as the degree distribution and betweenness centrality.
+* distinguish between the structure of biological networks and simple mathematical models of networks, such as the Erdős-Rényi model.
+* explain the concept of modularity in networks.
+* explain how a simple modularity-detection algorithm works.
+* determine whether a network is a small-world network or not
+* apply the basic principles of flux balance analysis to very simple metabolic networks.
