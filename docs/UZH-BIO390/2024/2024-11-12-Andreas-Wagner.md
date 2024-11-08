@@ -9,7 +9,6 @@ pdf_file_name:
 links:
   - '<a href="https://github.com/compbiozurich/UZH-BIO390/raw/main/course-material/2024-11-12___Andreas-Wagner__Biological-Networks__UZH-BIO390-HS24-lecture-09.pdf">[Slides 2024]</a> (PDF)'
   - '<a href="https://github.com/compbiozurich/UZH-BIO390/raw/main/course-material/2024-11-12___Andreas-Wagner__SampleProblems-solved__UZH-BIO390-HS24-lecture-09.pdf">[Sample problems to do at home]</a> (PDF)'
-  - '[2022 lecture recording (Pouria Dasmeh)](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+08A+Biological+Networks/0_6s062vo9)'
 ---
 
 #### Andreas Wagner
