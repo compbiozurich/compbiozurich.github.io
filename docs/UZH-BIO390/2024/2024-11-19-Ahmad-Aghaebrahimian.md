@@ -8,7 +8,7 @@ authors:
 pdf_file_name:
 links:  # one or more formatted html links
   - '<a href="https://bit.ly/3wjyHpf">SPARQL example</a>'
-  - '[2023 presentation slides](https://docs.google.com/presentation/d/16QMNqXv4lm55vvXK1Q6VKGzAm-jJOInYCkeJy1yEarY/edit?usp=sharing)'
+  - '[2024 presentation slides](https://docs.google.com/presentation/d/16QMNqXv4lm55vvXK1Q6VKGzAm-jJOInYCkeJy1yEarY/edit?usp=sharing)'
   - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+10A+Semantic+Web/0_p0y2gv98)'
 ---
 
