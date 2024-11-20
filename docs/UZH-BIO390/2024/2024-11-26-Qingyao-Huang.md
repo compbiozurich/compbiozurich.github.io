@@ -6,7 +6,7 @@ date: 2024-11-26
 authors:
   - '@mbaudis'
 pdf_file_name:
-links:  # one or more formatted html links
+links:
   - '[2023 lecture slides - Michael Baudis](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2023-11-28___Michael-Baudis__Building-a-Genomics-Resource__UZH-BIO390-HS23-lecture-11.pdf)'
   - '[2022 lecture recording - Michael Baudis](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+11A+Building+a+Cancer+Genomics+Resource/0_y7gjutdp)'
   - '[Progenetix resource](https://progenetix.org)'
