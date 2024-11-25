@@ -7,7 +7,7 @@ authors:
   - '@mbaudis'
 pdf_file_name:
 links:
- - '[lecture slides](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-11-26__Qingyao-Huang__Building-bioinformatics-resources__UZH-BIO390-HS24.pdf)'
+  - '[lecture slides](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-11-26__Qingyao-Huang__Building-bioinformatics-resources__UZH-BIO390-HS24.pdf)'
   - '[2023 lecture slides - Michael Baudis](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2023-11-28___Michael-Baudis__Building-a-Genomics-Resource__UZH-BIO390-HS23-lecture-11.pdf)'
   - '[2022 lecture recording - Michael Baudis](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+11A+Building+a+Cancer+Genomics+Resource/0_y7gjutdp)'
   - '[Progenetix resource](https://progenetix.org)'
