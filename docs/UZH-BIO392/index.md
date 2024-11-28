@@ -1,5 +1,5 @@
 ---
-template: BIO392-list.html
+template: BIO392_list.html
 ---
 
 # BIO392 - Bioinformatics of Sequence Variation
@@ -16,5 +16,10 @@ One of the fastest growing areas of bioinformatics is in the analysis, warehousi
 	* you will need to have / create a [Github](https://github.com) account (though this is also addressed at the beginning of the course)
 	* the course lab is equipped with iMacs - the use your personal machines is discouraged unless you really know what to do...
 
-<img style="width: 100%" src="/img/Y01-F-50-location.png" />
+
+??? note "Location"
+
+	<img style="width: 100%" src="/img/Y01-F-50-location.png" />
+
+## Course Days
 
