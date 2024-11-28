@@ -1,5 +1,5 @@
 ---
-template: news_list.html
+template: BIO390_list.html
 ---
 
 # BIO390 - Introduction to Bioinformatics
