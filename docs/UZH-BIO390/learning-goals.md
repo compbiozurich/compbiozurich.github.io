@@ -1,9 +1,4 @@
----
-title: "UZH BIO390 - Learning Goals"
-date: 2024-11-28
-authors:
-  - "@mbaudis"
----
+# UZH BIO390 - Learning Goals
 
 This page indicates some of the learning goals, as emphasised by the different lecturers. Some points will have been discussed in different lectures; accordingly, exam questions may not refer to information of one specific presentation.
 
