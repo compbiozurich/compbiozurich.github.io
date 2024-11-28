@@ -31,6 +31,11 @@
   max-width: 1024px; 
 }
 
+.md-header--shadow {
+    box-shadow: none;
+}
+
+
 .md-typeset h1 {
     line-height:  1;
     margin: 0px;
