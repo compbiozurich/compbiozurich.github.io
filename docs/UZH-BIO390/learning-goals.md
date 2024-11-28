@@ -1,6 +1,6 @@
 ---
 title: "UZH BIO390 - Learning Goals"
-date: 2022-08-10
+date: 2024-11-28
 authors:
   - "@mbaudis"
 ---

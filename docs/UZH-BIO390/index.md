@@ -37,3 +37,4 @@ Some [learning goals](/UZH-BIO390/learning-goals/) should provide
 you with additional guidance - but please be aware that those may include details
 which not have been covered in the current semester; still good to know but not
 necessarily relevant for the exam.
+
