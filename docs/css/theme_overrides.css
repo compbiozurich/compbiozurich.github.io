@@ -1,6 +1,30 @@
+@font-face {
+  font-family: "SourceSans3";
+  src: src: url("/fonts/WOFF2/SourceSans3-Regular.otf.woff2") format('woff');
+}
+
+@font-face {
+  font-family: "SourceSans3";
+  src: src: url("/fonts/WOFF2/SourceSans3-Semibold.otf.woff2") format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "SourceSans3";
+  src: src: url("/fonts/WOFF2/SourceSans3-SemiboldIt.otf.woff2") format('woff');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SourceSans3";
+  src: src: url("/fonts/WOFF2/SourceSans3-It.otf.woff2") format('woff');
+  font-style: light;
+}
+
 :root {
-  --md-accent-fg-color: #ab47bd;
-  --md-accent-font-color: #ab47bd;
+    --md-text-font: "SourceSans3";
+    --md-accent-fg-color: #666666;
+    --md-accent-font-color: #666666;
 }
 
 .md-grid {

@@ -31,9 +31,6 @@ plugins:
 
 markdown_extensions:
   - toc
-  # - toc:
-  #     toc_depth: 2-3
-  #     permalink: true
   - admonition
   - attr_list
   - footnotes
@@ -47,16 +44,10 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.saneheaders
-  # - pymdownx.superfences:
-  #     custom_fences:
-  #       - name: mermaid
-  #         class: mermaid
-  #         format: !!python/name:mermaid2.fence_mermaid   
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
-  # - tables
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -69,8 +60,8 @@ markdown_extensions:
 theme:
   name: material
   palette:
-    primary: purple
-    accent: indigo
+    primary: white
+    accent: white
   favicon: img/favicon.ico
   logo: img/site_logo.png
   icon:
