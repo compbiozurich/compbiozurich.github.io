@@ -10,9 +10,9 @@ This page indicates some of the learning goals, as emphasised by the different l
 !!! warning "Learning goals have a general scope"
 
     Please be aware that some of the "Learning Goals" may reflect aspects not necessarily
-    captured by the lectures in the current semester - The ones reelevant for the
+    captured by the lectures in the current semester - The ones relevant for the
     current semester's exam are related to the given lectures. Also, updates may
-    occurr at any time.
+    occur at any time.
 
 !!! note "Consider individual pages"
 
