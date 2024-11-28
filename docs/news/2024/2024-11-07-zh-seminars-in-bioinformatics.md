@@ -6,7 +6,7 @@ date: 2024-11-07
 authors:
   - "@mbaudis"
 links:
-  - '[Helena Crowell @ CNAG](https://www.cnag.eu/helena-crowell)'
+  - '[FGCZ](https://fgcz.ch)'
 ---
 
 * 12:15 UZH Irchel Y55-l-06/08 and ZOOM Call
