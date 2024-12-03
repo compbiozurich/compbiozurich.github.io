@@ -55,19 +55,15 @@ This page indicates some of the learning goals, as emphasised by the different l
 
 ## Bioinformatics tools & resources
 
-* common programming/analysis languages/environments in bioinformatics and their preferred use
-    - e.g. R, Perl, Python, JavaScript ... but also environments & packages like
-      Mkdocs, ReadTheDocs, Bioconductor ...
+* types of bioinformatics resources
+* common programming/analysis languages/tools in bioinformatics resource pipeline
+    - e.g. R, Perl, Python, JavaScript, regex, git (version control) ... 
 * components of bioinformatics online resources
-    - Databases, middleware, APIs, frontends ...
-* database types / concepts
-    - SQL vs. document databases
-* data curation (biocuration)
+    - Databases, webserver gateway, APIs, frontends ...
+* database types / concepts: SQL vs. NoSQL (e.g. document-oriented databases, graph database)
+* metadata and data curation (biocuration, codification)
     - importance of classifications, ontologies
-    - some ontologies and their use (NCIt, UBERON, DO)
-    - CURIEs as identifiers (see below)
-    - Null Island
-    - ISO 8601 for dates and times (and why / why not?)
+    - some ontologies and their use (NCIt, UBERON, ICD-O, GO, PO)
 
 ### Some Q & A (thanks to the providers of these questions)
 
