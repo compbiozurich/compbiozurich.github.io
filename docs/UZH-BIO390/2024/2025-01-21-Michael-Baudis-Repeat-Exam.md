@@ -4,13 +4,13 @@ title: 'BIO390 Repeat Exam'
 description: BIO390 UZH HS24 - Introduction to Bioinformatics
 authors:
   - "@mbaudis"
-date: 2025-01-23
+date: 2025-01-21
 pdf_file_name: 
 ---
 
-The repeat exam has been *tentatively planned* for the week of January 20-24, 2025:
+The repeat exam has been tentatively planned for **January 21, 2025**.
 
-* Exact date TBD; time: **09:15-10:45**
+* 2025-01-21; time: **09:15-10:45**
 * <span style="color: #d00; font-weight: 800">Planned room: Y13-L-11/13</span>
 * multiple (single + multiple) choice w/ one or two open questions
 * no material, phones etc.
