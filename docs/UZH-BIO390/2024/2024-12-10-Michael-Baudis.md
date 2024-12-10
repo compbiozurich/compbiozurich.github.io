@@ -8,7 +8,7 @@ date: 2024-12-10
 pdf_file_name: 
 links:  # one or more formatted html links
   - '<a href="https://lms.uzh.ch/auth/RepositoryEntry/17583866272/CourseNode/108724835558926" target="_blank">[OLAT page]</a> with literature links'
-  - '[2023 slides "Genomic Privacy"](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2023-12-12___Michael-Baudis__Genomic-data-and-Privacy__UZH-BIO390-HS23-lecture-13.pdf)'
+  - '[2024 slides "Genomic Privacy"](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-12-10___Michael-Baudis__Genomic-data-and-Privacy__UZH-BIO390-HS24-lecture-13.pdf)'
   - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics/0_nbvsl9bm)'
 ---
 
