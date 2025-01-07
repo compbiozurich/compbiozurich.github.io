@@ -17,5 +17,5 @@ The repeat exam will take place on **January 21, 2025**.
     not done so already.
 
 * 2025-01-21; time: **09:15-10:45**
-* <span style="color: #d00; font-weight: 800">Planned room: Y13-L-11/13 (to be confirmed)</span>
+* <span style="color: #d00; font-weight: 800">Room: Y13-L-11/13</span>
 * otherwise same conditions as the original exam
