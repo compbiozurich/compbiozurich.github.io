@@ -11,10 +11,11 @@ One of the fastest growing areas of bioinformatics is in the analysis, warehousi
 	* from 2025 on in each Spring semester (4 weeks in May) instead of Autumn semester
 	* UZH Irchel campus, [Y-01F-01](/img/Y01-F-50-location.png)
 	* Course language is English
+	* [OLAT](https://lms.uzh.ch/auth/RepositoryEntry/17675780269/CourseNode/85421310414617)
 	* previous BIO392 HS 2023 in the [UZH OLAT](https://lms.uzh.ch/auth/RepositoryEntry/17420091911/CourseNode/85421310414617) system
 	* [compbiozurich/UZH-BIO392](https://github.com/compbiozurich/UZH-BIO392) course material Github repository
 	* you will need to have / create a [Github](https://github.com) account (though this is also addressed at the beginning of the course)
-	* the course lab is equipped with iMacs - the use your personal machines is discouraged unless you really know what to do...
+	* (might change for 2025) the course lab is equipped with iMacs - the use your personal machines is discouraged unless you really know what to do...
 
 
 ??? note "Location"
