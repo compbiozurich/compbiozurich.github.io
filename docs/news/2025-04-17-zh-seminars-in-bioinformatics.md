@@ -1,11 +1,12 @@
 ---
 template: post.html
-title: "Imaging mass cytometry reveals early β-cell dysfunction and changes in immune signatures during type 1 diabetes progression in human pancreata.<br/>Nathan Steenbuck"
+title: "Imaging mass cytometry reveals early β-cell dysfunction and changes in immune signatures during type 1 diabetes progression in human pancreata.<br/>Nathan Steenbuck (Bodenmiller Lab)"
 description: 'Zurich Seminars in Bioinformatics'
 date: 2025-04-17
 authors:
   - "@mbaudis"
-links: []
+links:
+  - '[Bodenmiller Lab @ UZH](https://bodenmillerlab.mironet.ch/)'
 ---
 
 * 12:15 UZH Irchel Y55-l-06/08 and ZOOM Call
