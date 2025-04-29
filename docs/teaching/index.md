@@ -14,7 +14,7 @@ In this lecture students will be introduced to the use of bioinformatics tools a
 
 ## Courses
 
-### [UZH BIO392](/UZH-BIO392/): Bioinformatics of Sequence Variations
+### [UZH BIO392](/teaching/UZH-BIO392/): Bioinformatics of Sequence Variations
 
 ## Seminars
 
