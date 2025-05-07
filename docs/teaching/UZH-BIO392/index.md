@@ -9,7 +9,7 @@ One of the fastest growing areas of bioinformatics is in the analysis, warehousi
 !!! note "Practical Information"
 
 	* from 2025 on in each Spring semester (4 weeks in May) instead of Autumn semester
-	* UZH Irchel campus, [Y-01F-01](/img/Y01-F-50-location.png)
+	* UZH Irchel campus, [Y-01F-50](/img/Y01-F-50-location.png)
 	* Course language is English
 	* [OLAT](https://lms.uzh.ch/auth/RepositoryEntry/17675780269/CourseNode/85421310414617)
 	* previous BIO392 HS 2023 in the [UZH OLAT](https://lms.uzh.ch/auth/RepositoryEntry/17420091911/CourseNode/85421310414617) system
