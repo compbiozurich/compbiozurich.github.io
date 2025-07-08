@@ -7,7 +7,7 @@ authors:
 date: 2022-12-20
 pdf_file_name: 
 links:
-  - '<a href="/UZH-BIO390/learning-goals/">[Approximate Learning goals]</a>'
+  - '<a href="/teaching/UZH-BIO390/learning-goals/">[Approximate Learning goals]</a>'
 ---
 
 The exam will be on the last day of the course *on site*:

@@ -26,7 +26,7 @@ The handling and analysis of biological data using computational methods has bec
         attendance is expected) _but_ there might be still 2022 [lecture recordings](https://uzh.mediaspace.cast.switch.ch/channel/22HS_BIO390___Introduction-to-Bioinformatics) available
     * Course language is English
 
-Some [learning goals](/UZH-BIO390/learning-goals/) provide additional guidance - but please be aware that those may include details
+Some [learning goals](/teaching/UZH-BIO390/learning-goals/) provide additional guidance - but please be aware that those may include details
 which not have been covered in the current semester and therefore won't be 
 necessarily relevant for the exam.
 

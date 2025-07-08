@@ -8,7 +8,7 @@ different career stages. Below is a - necessarily incomplete - selection.
 
 ## Lectures
 
-### [UZH BIO390](/UZH-BIO390/): Introduction to Bioinformatics 
+### [UZH BIO390](/teaching/UZH-BIO390/): Introduction to Bioinformatics
 
 In this lecture students will be introduced to the use of bioinformatics tools and methods in different topics by different experts in the respective fields. Additionally, the use of low level tools (e.g. Programming and scripting languages) and specialized applications will be demonstrated. 
 
