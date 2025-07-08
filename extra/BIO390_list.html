@@ -9,7 +9,7 @@
     {% for this_file in pages %}
       {% set this_page = this_file.page %}
       {% if this_page.meta is defined %}
-        {% if this_page.url.startswith("UZH-BIO390") and this_page.meta.date is defined %}
+        {% if "UZH-BIO390" in this_page.url and this_page.meta.date is defined %}
           {% set page_date = this_page.meta.date.strftime('%Y%m%d') | int %}
           {% if page_date >= today %}
             {{ future_posts.append( this_page ) or "" }}
@@ -19,7 +19,6 @@
       {% endif %}
     {% endif %}
   {% endfor %}
-
 
   {% set future = "<i>Upcoming:</i> " %}
   {% for page in (future_posts|sort(attribute="meta.date", reverse=False))[:config.extra.news.list_length] %}
