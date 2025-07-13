@@ -6,9 +6,10 @@ authors:
   - "@mbaudis"
 date: 2025-12-09
 pdf_file_name: 
-links:  # one or more formatted html links
+links:  # one or more formatted Markdown or HTML links - single quoted ...
   - '[2024 slides "Genomic Privacy"](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-12-10___Michael-Baudis__Genomic-data-and-Privacy__UZH-BIO390-HS24-lecture-13.pdf)'
   - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics/0_nbvsl9bm)'
+  - '[BaudisGroup @ UZH](https://baudisgroup.org)'
 ---
 
 <!-- 

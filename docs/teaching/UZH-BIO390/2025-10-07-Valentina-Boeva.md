@@ -5,9 +5,10 @@ description: BIO390 UZH HS25 - Introduction to Bioinformatics</br>08:00-09:45 @ 
 date: 2025-10-07
 authors:
 pdf_file_name: 
-links:
+links:  # one or more formatted Markdown or HTML links - single quoted ...
   - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-10-08___Valentina-Boeva__Machine-Learning-for-Biological-Use-Cases__UZH-BIO390-HS24-lecture-04.pdf" target="_blank">[2024 lecture slides]</a>'
   - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction%20to%20Bioinformatics%20-%20Lecture%2004%3A%20Machine%20Learning%20for%20Biological%20Use%20Cases/0_7q6gemoy)'
+  - '[BoevaLab @ ETHZ](https://boevalab.inf.ethz.ch/boeva_personal.html)'
 ---
 
 #### Valentina Boeva (ETHZ)
