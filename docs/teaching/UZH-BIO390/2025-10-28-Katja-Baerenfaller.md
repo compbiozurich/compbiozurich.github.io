@@ -10,6 +10,7 @@ links:  # one or more formatted html links
   - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-10-29___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS24-lecture-07.pdf">[2024 Lecture Slides]</a> (PDF download)'
   - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-10-29___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS24-Proteomics-Glossary.pdf">[2024 Proteomics Glossary]</a> (PDF download)'
   - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+06A+Proteomics/0_3zbyerll)'
+  - '[Bärenfaller Lab - Molecular Allergology](https://www.siaf.uzh.ch/molecular_allergology_katja.html)'
 ---
 
 #### Katja Baerenfaller, Swiss Institute of Allergy and Asthma Research (SIAF) and University of Zurich

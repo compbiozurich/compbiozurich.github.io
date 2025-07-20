@@ -8,6 +8,7 @@ authors:
 pdf_file_name:
 links:
   - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-10-22___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS24-lecture-04.pdf" target="_blank">[2024 lecture slides]</a> (.pdf)'
+  - '[Sunagawa Lab](https://sunagawalab.ethz.ch/web/)'
 ---
 
 #### Shinichi Sunagawa (ETHZ)
