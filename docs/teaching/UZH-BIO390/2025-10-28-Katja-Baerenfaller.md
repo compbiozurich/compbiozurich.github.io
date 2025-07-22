@@ -15,15 +15,15 @@ links:  # one or more formatted html links
 
 #### Katja Baerenfaller, Swiss Institute of Allergy and Asthma Research (SIAF) and University of Zurich
 
-In proteomics one of the important bioinformatics tasks is to generate lists of reliably identified peptides and proteins in mass spectrometry-based experiments. For this, amino acid sequences are assigned to measured tandem mass spectra. The quality of the peptide spectrum assignments are scored and criteria are applied that allow to distinguish the good from the bad hits and to estimate the quality of the dataset.
+Proteins, along with their activities, modifications, subcellular localisation, and interactions, play a central role in determining the appearance and physiological state of a biological organism. A variety of cellular processes influence protein levels and activity. Proteomics is the large-scale study of proteins and the proteome, aiming to understand these dynamic processes in detail. One of the key bioinformatics tasks in proteomics is the generation of reliable lists of identified peptides and proteins from mass spectrometry-based experiments. 
 
 <!--more-->
 
-In the context of this lecture, you will need to learn and understand:  
+After this lecture, you will be able:  
 
-* what information can be gained in a proteomics experiment
-* what’s the principle of assigning an amino acid sequence to a tandem mass spectrum
-* how de novo and database-dependent peptide identifications work
-* one way of how the accuracy of peptide identifications can be estimated
-* how the number of wrong hits in a dataset can be estimated
-* current proteomic approaches
+* to recognise and describe the significance of protein characterisation 
+* to explain the principle of a mass spectrometry-based experiment
+* to apply the principle of de novo peptide spectrum matching
+* to describe the principle of database-dependent peptide spectrum matching 
+* to calculate the false discovery rate based on a target decoy approach
+* to describe various application methods of proteomics
