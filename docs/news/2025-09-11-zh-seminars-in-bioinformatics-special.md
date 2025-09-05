@@ -1,6 +1,6 @@
 ---
 template: post.html
-title: "Associating cancer-specific variants with methylation changes using nanopore genome dat<br/>Halimat Atanda (PhD student, University of Queensland)"
+title: "Associating cancer-specific variants with methylation changes using nanopore genome data<br/>Halimat Atanda (PhD student, University of Queensland)"
 description: 'Zurich Seminars in Bioinformatics'
 date: 2025-09-11
 authors:
