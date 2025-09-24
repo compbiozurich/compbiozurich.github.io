@@ -9,7 +9,7 @@ links:
 #  - '[]()'
 ---
 
-* 10:30 UZH Irchel Y17-H-05
+* 12:15 UZH Irchel Y55-l-06/08 and ZOOM Call
 
 **Abstract** Advancement in high throughput sequencing technologies has eased the extraction of the whole genome from biological samples and the identification of genomic variants that define molecular phenotypes. This has resulted in a relative abundance of genomic data, especially variants, with limited understanding of their functional or regulatory impacts.<!--more--> The presence of genomic variation and base modification on sequence reads generated from nanopore technology offers an opportunity to link a somatic or disease-specific variant to changes in methylation profile and offer insights into genetic-epigenetic regulation mechanisms in diseases. 
 

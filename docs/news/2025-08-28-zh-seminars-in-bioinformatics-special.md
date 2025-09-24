@@ -9,7 +9,7 @@ links:
 #  - '[]()'
 ---
 
-* 10:30 UZH Irchel Y17-H-05
+* 12:15 UZH Irchel Y55-l-06/08 and ZOOM Call
 
 **Abstract** High-resolution Spatial Transcriptomics technologies have transformed our ability to study gene expression within tissues while preserving spatial context. With the release of Visium HD by 10X Genomics, transcript counts can now be captured in 2 µm × 2 µm squares, opening the possibility of single-cell-like analysis. Translating these squares into meaningful cell-level data requires accurate cell segmentation. This process, known as bin-to-cell mapping, is the focus of this thesis.
 
