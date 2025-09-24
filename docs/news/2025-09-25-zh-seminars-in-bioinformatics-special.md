@@ -2,7 +2,7 @@
 template: post.html
 title: "TBA<br/>Tony Xu"
 description: 'Zurich Seminars in Bioinformatics'
-date: 2025-09-25
+date: 2025-10-02
 authors:
   - "@mbaudis"
 links:
