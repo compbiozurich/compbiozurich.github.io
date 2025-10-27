@@ -7,8 +7,8 @@ authors:
 date: 2025-10-28
 pdf_file_name:     # name of PDF (no path) somewhere in "assets"; auto-linked
 links:  # one or more formatted html links
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-10-29___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS24-lecture-07.pdf">[2024 Lecture Slides]</a> (PDF download)'
-  - '<a href="https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-10-29___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS24-Proteomics-Glossary.pdf">[2024 Proteomics Glossary]</a> (PDF download)'
+  - '[2025 Lecture Slides (PDF download)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2025-10-28___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS25-lecture-07.pdf)'
+  - '[2025 Proteomics Glossary (PDF download)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2025-10-28___Katja-Baerenfaller__Proteomics__UZH-BIO390-HS25-Proteomics-Glossary.pdf)'
   - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Lecture+06A+Proteomics/0_3zbyerll)'
   - '[Bärenfaller Lab - Molecular Allergology](https://www.siaf.uzh.ch/molecular_allergology_katja.html)'
 ---
