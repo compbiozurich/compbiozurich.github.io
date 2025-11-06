@@ -7,8 +7,8 @@ authors:
   - "@mbaudis"
 pdf_file_name:
 links:
-  - '<a href="https://github.com/compbiozurich/UZH-BIO390/raw/main/course-material/2024-11-12___Andreas-Wagner__Biological-Networks__UZH-BIO390-HS24-lecture-09.pdf">[Slides 2024]</a> (PDF)'
-  - '<a href="https://github.com/compbiozurich/UZH-BIO390/raw/main/course-material/2024-11-12___Andreas-Wagner__SampleProblems-solved__UZH-BIO390-HS24-lecture-09.pdf">[Sample problems to do at home - 2024 edition]</a> (PDF)'
+  - '[Slides 2025 (PDF)](https://github.com/compbiozurich/UZH-BIO390/raw/main/course-material/2025-11-11___Andreas-Wagner__Biological-Networks__UZH-BIO390-HS25-lecture-09.pdf)'
+  - '[Sample problems to do at home - 2025 edition (PDF)](https://github.com/compbiozurich/UZH-BIO390/raw/main/course-material/2025-11-11___Andreas-Wagner__Biological-Networks__UZH-BIO390-HS25-sample-problems.pdf)'
 ---
 
 #### Andreas Wagner
@@ -33,7 +33,7 @@ After this lecture you should be able to
 
 ### Homework exercises
 
-Please find the exercises for this lecture in the [PDF file](https://github.com/compbiozurich/UZH-BIO390/raw/main/course-material/2024-11-12___Andreas-Wagner__SampleProblems-solved__UZH-BIO390-HS24-lecture-09.pdf). 
+Please find the exercises for this lecture in the [PDF file](https://github.com/compbiozurich/UZH-BIO390/raw/main/course-material/2025-11-11___Andreas-Wagner__Biological-Networks__UZH-BIO390-HS25-sample-problems.pdf). 
 Note: These exercises are for you to solve on your own. You do not have to
 turn them in and they will not be graded. Even though solutions are
 provided at the end of this document, we highly recommend that you solve
