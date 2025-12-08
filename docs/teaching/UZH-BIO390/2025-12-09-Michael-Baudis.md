@@ -7,14 +7,10 @@ authors:
 date: 2025-12-09
 pdf_file_name: 
 links:  # one or more formatted Markdown or HTML links - single quoted ...
-  - '[2024 slides "Genomic Privacy"](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2024-12-10___Michael-Baudis__Genomic-data-and-Privacy__UZH-BIO390-HS24-lecture-13.pdf)'
+  - '[2025 slides "Genomic Privacy"](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2025-12-09___Michael-Baudis__Genomic-data-and-Privacy__UZH-BIO390-HS25-lecture-13.pdf)'
   - '[2022 lecture recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics/0_nbvsl9bm)'
   - '[BaudisGroup @ UZH](https://baudisgroup.org)'
 ---
-
-<!-- 
-  - '<a href="https://lms.uzh.ch/auth/RepositoryEntry/17583866272/CourseNode/108724835558926" target="_blank">[OLAT page]</a> with literature links'
--->
 
 #### Michael Baudis
 
@@ -30,4 +26,4 @@ This part of the course will address some of the issues related to the sharing o
 
 ### Topics and Literature
 
-An extended literature collection for the topic is available through the **OLAT page linked below**.
+An extended literature collection for the topic is available through the **OLAT page**.
