@@ -16,7 +16,9 @@ The repeat exam will take place on **January 19, 2026**.
     the original exam have to contact Prof. Baudis to register for an attempt if
     not done so already.
 
-* Monday, 2026-01-19; time: **10:00-11:30**
+* <span style="color: #e00; font-weight: 800">**CHANGED: Friday, 2026-01-19; time: 10:00-11:30**</span>
+    - Due to requests from students the date has been changed from Monday Jan 19
+      to Friday Jan 16. Please confirm with Prof. Baudis!
 * <span style="color: #d00; font-weight: 800">Room: Y13-L-11/13</span>
     - room potentially subject to change
 * otherwise same conditions as the original exam
