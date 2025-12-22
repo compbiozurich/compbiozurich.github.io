@@ -4,11 +4,11 @@ title: 'BIO390 Repeat Exam'
 description: BIO390 UZH HS25 - Introduction to Bioinformatics
 authors:
   - "@mbaudis"
-date: 2026-01-19
+date: 2026-01-16
 pdf_file_name: 
 ---
 
-The repeat exam will take place on **January 19, 2026**.
+The repeat exam will take place on **January 16, 2026**.
 
 !!! warning "Exam Results"
     The participants who have failed the exam on Dec 16 **have been notified on
