@@ -21,7 +21,7 @@ The handling and analysis of biological data using computational methods has bec
     * Autumn semesters
     * Tuesdays at 08:00-09:45 (15min break)
     * UZH Irchel campus, **Y03-G-85**
-    * [OLAT](https://lms.uzh.ch/auth/RepositoryEntry/17583866272/Infos/0) - but not much there...
+    * [OLAT](https://lms.uzh.ch/url/RepositoryEntry/17745707211) - but not much there...
     * No lecture recordings - we do **not record** the lectures since HS23 (regular
         attendance is expected) _but_ there might be still 2022 [lecture recordings](https://uzh.mediaspace.cast.switch.ch/channel/22HS_BIO390___Introduction-to-Bioinformatics) available
     * Course language is English
