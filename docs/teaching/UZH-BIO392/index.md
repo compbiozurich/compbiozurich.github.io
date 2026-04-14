@@ -16,7 +16,9 @@ One of the fastest growing areas of bioinformatics is in the analysis, warehousi
 	* previous BIO392 HS 2023 in the [UZH OLAT](https://lms.uzh.ch/auth/RepositoryEntry/17420091911/CourseNode/85421310414617) system
 	* [compbiozurich/UZH-BIO392](https://github.com/compbiozurich/UZH-BIO392) course material Github repository
 	* you will need to have / create a [Github](https://github.com) account (though this is also addressed at the beginning of the course)
-	* (might change for 2026) the course lab is equipped with iMacs - the use your personal machines is discouraged unless you really know what to do...
+	* ~~the course lab is equipped with iMacs~~ **(2026 update)** you _have_ to bring your own laptop
+
+
 
 
 ??? note "Location"
