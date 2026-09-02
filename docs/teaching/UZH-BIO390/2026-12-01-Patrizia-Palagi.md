@@ -1,6 +1,6 @@
 ---
 template: post.html
-title: ==TBD== 
+title: FAIR Data Standards, Methods and Education in Bioinformatics
 description: BIO390 UZH HS26 - Introduction to Bioinformatics</br>08:00-09:45 @ UZH Irchel Y03-G-85
 date: 2026-12-01
 authors:
@@ -9,7 +9,7 @@ links:
   # - '[2026 Lecture Slides (PDF)]()'
 ---
 
-#### ==TBD==
+#### Patrizia Palagi (TBC)
 
 ==TBD==
 
