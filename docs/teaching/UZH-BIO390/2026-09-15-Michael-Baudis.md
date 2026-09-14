@@ -7,7 +7,7 @@ authors:
   - "@mbaudis"
 pdf_file_name: 
 links:  # one or more formatted Markdown or HTML links - single quoted ...
-  - '[2025 lecture slides (PDF)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2025-09-16___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-lecture-01.pdf)'
+  - '[2026 lecture slides (PDF)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2026-09-15___Michael_Baudis__What_is_Bioinformatics__UZH-BIO390-lecture-01.pdf)'
   - '[2022 podcast recording](https://uzh.mediaspace.cast.switch.ch/media/Introduction+to+Bioinformatics+-+Day+01A+What+is+Bioinformatics/0_5hdrb7uk)'
   - '[BaudisGroup @ UZH](https://baudisgroup.org)'
 ---
