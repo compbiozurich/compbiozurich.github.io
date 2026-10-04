@@ -6,7 +6,7 @@ date: 2026-10-06
 authors:
 pdf_file_name: 
 links:
-  # - '[2026 Lecture Slides (PDF)](https://github.com/compbiozurich/UZH-BIO390/blob/main/course-material/2026-10-06___Virginie_Uhlmann__Microscopy_data_analysis__UZH-BIO390-lecture-04.pdf)'
+   - '[2026 Lecture Slides (PDF)](https://github.com/compbiozurich/UZH-BIO390/blob/main/course-material/2026-10-06___Virginie_Uhlmann__Microscopy_data_analysis__UZH-BIO390-lecture-04.pdf)'
 ---
 
 #### Virginie Uhlmann
