@@ -12,8 +12,12 @@ links:
 #### Anuradha Mukherjee
 
 Evolutionary Bioinformatics of Regulatory Sequences
-Regulatory DNA sequence can evolve through many possible mutational changes, but only a small fraction of this sequence space can usually be explored experimentally. In this lecture, we will introduce computational concepts for studying how variation in regulatory sequences can influence molecular phenotype and fitness. We will discuss genotype-phenotype and genotype-fitness maps, mutational neighbourhoods, fitness landscapes, epistasis, evolutionary accessibility and the dependence of fitness effects on environmental context. Simple simulated regulatory sequences examples will be used to illustrate how sequence space can be represented and analysed, and how these representations can help us reason about possible evolutionary trajectories. 
-After this lecture, students should be able to:
+Regulatory DNA sequence can evolve through many possible mutational changes, but only a small fraction of this sequence space can usually be explored experimentally. In this lecture, we will introduce computational concepts for studying how variation in regulatory sequences can influence molecular phenotype and fitness. We will discuss genotype-phenotype and genotype-fitness maps, mutational neighbourhoods, fitness landscapes, epistasis, evolutionary accessibility and the dependence of fitness effects on environmental context.
+
+Simple simulated regulatory sequences examples will be used to illustrate how sequence space can be represented and analysed, and how these representations can help us reason about possible evolutionary trajectories. 
+
+After this lecture, students should be able to:<!--more-->
+
 - Explain the concepts of sequence space, genotype-phenotype maps and fitness landscapes
 - Identify mutational neighbours and calculate distances between sequences
 - Distinguish local from global fitness optima and identify evolutionary paths in landscapes
