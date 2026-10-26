@@ -1,7 +1,7 @@
 ---
 template: post.html
 title: Biological Sequence Informatics
-description: BIO390 UZH HS26 - Introduction to Bioinformatics</br>08:00-09:45 @ UZH Irchel Y03-G-85
+description: BIO390 UZH HS26 - Introduction to Bioinformatics</br>08:00-09:45 @ UZH Irchel Y-03G-85
 date: 2026-09-22
 authors:
 pdf_file_name: 

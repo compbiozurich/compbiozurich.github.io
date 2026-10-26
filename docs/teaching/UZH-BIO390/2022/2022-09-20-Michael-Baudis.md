@@ -1,7 +1,7 @@
 ---
 template: post.html
 title: 'What is Bioinformatics? Introduction and Resources'
-description: BIO390 UZH HS22 - Introduction to Bioinformatics</br>08:00-09:45 @ UZH Irchel Y03-G-85
+description: BIO390 UZH HS22 - Introduction to Bioinformatics</br>08:00-09:45 @ UZH Irchel Y-03G-85
 date: 2022-09-20
 authors:
   - "@mbaudis"
