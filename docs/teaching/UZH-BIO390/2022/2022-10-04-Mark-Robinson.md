@@ -1,5 +1,4 @@
 ---
----
 template: post.html
 title: Statistical Bioinformatics
 description: BIO390 UZH HS22 - Introduction to Bioinformatics</br>08:00-09:45 @ UZH Irchel Y-03G-85

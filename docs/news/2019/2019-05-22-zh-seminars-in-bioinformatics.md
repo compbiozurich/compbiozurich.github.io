@@ -1,6 +1,6 @@
 ---
 template: post.html
-title Analysis of date-tagged protein-protein associations derived from scientific literature.
+title: Analysis of date-tagged protein-protein associations derived from scientific literature.
 description: 'ZH Seminars Bioinformatics - Damian Szklarczyk'
 date: 2019-05-22
 authors:

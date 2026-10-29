@@ -1,6 +1,7 @@
 ---
 template: post.html
-title: Deciphering the contribution of mechanisms involved in the regulation of gene expression in mESCsdescription: 'Zurich Seminars in Bioinformatics - Moritz Schäfer'
+title: Deciphering the contribution of mechanisms involved in the regulation of gene expression in mESCs
+description: 'Zurich Seminars in Bioinformatics - Moritz Schäfer'
 authors:
   - '@mbaudis'
 date: 2020-07-02
