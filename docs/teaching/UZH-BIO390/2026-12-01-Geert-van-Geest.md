@@ -1,13 +1,13 @@
 ---
 template: post.html
-title: FAIR Data Standards, Methods and Education in Bioinformatics
+title: FAIR Data Standards and AI, Methods and Training in Bioinformatics
 description: BIO390 UZH HS26 - Introduction to Bioinformatics</br>08:00-09:45 @ UZH Irchel Y-03G-85
 date: 2026-12-01
 authors:
 pdf_file_name: 
 links:
+  - "[Homepage](https://geertvangeest.github.io)"
   # - '[2026 Lecture Slides (PDF)]()'
-  - [Homepage](https://geertvangeest.github.io)
 ---
 
 #### Geert van Geest (UB & SIB)
