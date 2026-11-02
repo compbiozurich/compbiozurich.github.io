@@ -7,7 +7,7 @@ authors:
   - "@SuShiAtGit"
 pdf_file_name:
 links:
-  - '[2025 lecture slides](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2026-11-02___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS26-lecture-07.pdf)'
+  - '[2026 lecture slides](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2026-11-02___Shinichi-Sunagawa__Metagenomics__UZH-BIO390-HS26-lecture-07.pdf)'
   - '[Sunagawa Lab](https://sunagawalab.ethz.ch/web/)'
 ---
 
