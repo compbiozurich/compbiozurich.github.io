@@ -6,7 +6,7 @@ date: 2026-11-17
 authors:
 pdf_file_name: 
 links:
-  # - '[2026 Lecture Slides (PDF)]()'
+  - '[2026 Lecture Slides (PDF)](https://raw.githubusercontent.com/compbiozurich/UZH-BIO390/main/course-material/2026-11-17___Anuradha-Mukherjee__Evolutionary-Bioinformatics__UZH-BIO390-HS26-lecture-09.pdf)'
 ---
 
 #### Anuradha Mukherjee
