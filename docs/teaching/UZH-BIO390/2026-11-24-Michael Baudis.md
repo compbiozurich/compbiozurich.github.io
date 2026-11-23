@@ -6,7 +6,7 @@ date: 2026-11-24
 authors:
 pdf_file_name: 
 links:
-  # - '[2026 Lecture Slides (PDF)]()'
+  - '[2026 Lecture Slides (PDF)](https://docs.baudisgroup.org/pdf/2026-11-24___Michael-Baudis__Building-a-Genomics-Resource__UZH-BIO390-HS26-lecture-10.pdf)'
 ---
 
 #### Michael Baudis
