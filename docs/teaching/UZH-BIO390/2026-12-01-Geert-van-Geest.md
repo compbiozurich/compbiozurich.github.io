@@ -7,7 +7,7 @@ authors:
 pdf_file_name: 
 links:
   - "[Homepage](https://geertvangeest.github.io)"
-  # - '[2026 Lecture Slides (PDF)]()'
+  - '[2026 Lecture Slides (html)](https://geertvangeest.github.io/lecture-uzh-compbio/slides.html)'
 ---
 
 #### Geert van Geest (UB & SIB)
