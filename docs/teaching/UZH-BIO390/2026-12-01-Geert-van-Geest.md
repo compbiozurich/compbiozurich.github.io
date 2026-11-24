@@ -6,11 +6,13 @@ date: 2026-12-01
 authors:
 pdf_file_name: 
 links:
-  - "[Homepage](https://geertvangeest.github.io)"
-  # - '[2026 Lecture Slides (PDF)]()'
+
+  - '[2026 Lecture Slides (html)](https://geertvangeest.github.io/lecture-uzh-compbio/slides.html)'
+  - '[SIB Training Group](https://sib.swiss/training-group)'
+  - '[Personal homepage](https://geertvangeest.github.io)'
 ---
 
-#### Geert van Geest (UB & SIB)
+#### Geert van Geest (SIB)
 
 The life sciences domain thrives on shared data. From reference databases to
 community-curated knowledgebases, the field’s progress rests on data that are open
