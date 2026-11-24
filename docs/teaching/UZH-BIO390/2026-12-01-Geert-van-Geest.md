@@ -8,8 +8,8 @@ pdf_file_name:
 links:
 
   - '[2026 Lecture Slides (html)](https://geertvangeest.github.io/lecture-uzh-compbio/slides.html)'
-  - '[SIB Training Group](https://sib.swiss/training-group)
-  - "[Personal homepage](https://geertvangeest.github.io)"
+  - '[SIB Training Group](https://sib.swiss/training-group)'
+  - '[Personal homepage](https://geertvangeest.github.io)'
 ---
 
 #### Geert van Geest (SIB)
