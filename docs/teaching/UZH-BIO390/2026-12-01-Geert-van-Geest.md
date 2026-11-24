@@ -12,7 +12,7 @@ links:
   - "[Personal homepage](https://geertvangeest.github.io)"
 ---
 
-#### Geert van Geest (UB & SIB)
+#### Geert van Geest (SIB)
 
 The life sciences domain thrives on shared data. From reference databases to
 community-curated knowledgebases, the field’s progress rests on data that are open
