@@ -1,7 +1,7 @@
 ---
 template: post.html
 title: 'BIO390 Exam'
-description: BIO390 UZH HS25 - Introduction to Bioinformatics</br>08:15-09:45 @ Y-03G-85 and Y-03G-91 UZH Irchel
+description: BIO390 UZH HS25 - Introduction to Bioinformatics</br>08:15-09:45 @ Y03-G-85 and Y03-G-91 UZH Irchel
 authors:
   - "@mbaudis"
 date: 2026-12-15
@@ -13,9 +13,13 @@ links:
 The exam will be on the last day of the course *on site*:
 
 * time: **08:15-09:45**
+* Rooms:
+    - Y03-G-85 (normal lecture hall)
+    - Y03-G-91 (...next on the right)
+    - for registered NTA students Y13-L-11/13 
 <!-- * **special group in Y-35F-47 already from 08:00** -->
 * multiple (single + multiple) choice w/ one or two open questions
-* no material, phones etc.
+* no material, phones, devices etc.
 * student ID for entrance
 * please refer to the [learning goals](/teaching/UZH-BIO390/learning-goals/) for guidance
     - ¡topics may be edited throughout the course!
