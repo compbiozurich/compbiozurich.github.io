@@ -17,7 +17,6 @@ The exam will be on the last day of the course *on site*:
     - Y03-G-85 (normal lecture hall)
     - Y03-G-91 (...next on the right)
     - for registered NTA students Y13-L-11/13 
-<!-- * **special group in Y-35F-47 already from 08:00** -->
 * multiple (single + multiple) choice w/ one or two open questions
 * no material, phones, devices etc.
 * student ID for entrance
