@@ -1,0 +1,948 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+height="500px"
+width="600px"
+style="background-color: #ffffff; font-family: helvetica, sans-serif; "
+>
+<rect x="0" y="0" width="600" height="500" style="fill: #ffffff;" />
+	<a xlink:href="http://www.imls.uzh.ch/research/robinson.html" target="_blank">
+	<path
+		d="M 360.00 250.00 A 110 110 0 0 1 358.36 268.95 L 368.21 270.67 A 120 120 0 0 0 370.00 250.00
+	Z" style="fill: rgb(224,172,117)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.imls.uzh.ch/research/robinson.html"
+	xlink:show="new"
+	xlink:title="Mark Robinson"
+>
+<text x="374.13" y="264.71"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(6.76 374.13 264.71)">
+	Mark Robinson
+</text>
+</a>
+	<a xlink:href="http://www.ise.inf.ethz.ch" target="_blank">
+	<path
+		d="M 358.01 270.82 A 110 110 0 0 1 352.81 289.11 L 362.16 292.66 A 120 120 0 0 0 367.83 272.71
+	Z" style="fill: rgb(159,71,84)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.ise.inf.ethz.ch"
+	xlink:show="new"
+	xlink:title="Joachim M. Buhmann"
+>
+<text x="369.10" y="287.94"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(17.67 369.10 287.94)">
+	Joachim M. Buhmann
+</text>
+</a>
+	<a xlink:href="http://www.cbg.ethz.ch" target="_blank">
+	<path
+		d="M 352.12 290.88 A 110 110 0 0 1 343.55 307.86 L 352.06 313.12 A 120 120 0 0 0 361.40 294.60
+	Z" style="fill: rgb(159,71,84)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.cbg.ethz.ch"
+	xlink:show="new"
+	xlink:title="Niko Beerenwinkel"
+>
+<text x="359.77" y="309.79"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(28.58 359.77 309.79)">
+	Niko Beerenwinkel
+</text>
+</a>
+	<a xlink:href="https://www.hifo.uzh.ch/en/research/mansuy.html" target="_blank">
+	<path
+		d="M 342.54 309.47 A 110 110 0 0 1 330.91 324.52 L 338.27 331.29 A 120 120 0 0 0 350.95 314.88
+	Z" style="fill: rgb(115,131,154)" 
+	/>
+	</a>
+<a
+	xlink:href="https://www.hifo.uzh.ch/en/research/mansuy.html"
+	xlink:show="new"
+	xlink:title="Isabelle Mansuy"
+>
+<text x="346.47" y="329.49"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(39.49 346.47 329.49)">
+	Isabelle Mansuy
+</text>
+</a>
+	<a xlink:href="https://www.zhaw.ch/en/about-us/person/agha/" target="_blank">
+	<path
+		d="M 329.61 325.91 A 110 110 0 0 1 315.35 338.49 L 321.29 346.53 A 120 120 0 0 0 336.85 332.81
+	Z" style="fill: rgb(37,79,76)" 
+	/>
+	</a>
+<a
+	xlink:href="https://www.zhaw.ch/en/about-us/person/agha/"
+	xlink:show="new"
+	xlink:title="Ahmad Aghaebrahimian"
+>
+<text x="329.69" y="346.31"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(50.40 329.69 346.31)">
+	Ahmad Aghaebrahimian
+</text>
+</a>
+	<a xlink:href="https://www.dmmd.uzh.ch/en/research/baubec/groupmembers/imallona.html" target="_blank">
+	<path
+		d="M 313.81 339.60 A 110 110 0 0 1 297.42 349.25 L 301.73 358.28 A 120 120 0 0 0 319.61 347.75
+	Z" style="fill: rgb(224,172,117)" 
+	/>
+	</a>
+<a
+	xlink:href="https://www.dmmd.uzh.ch/en/research/baubec/groupmembers/imallona.html"
+	xlink:show="new"
+	xlink:title="Izaskun Mallona"
+>
+<text x="310.02" y="359.65"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(61.30 310.02 359.65)">
+	Izaskun Mallona
+</text>
+</a>
+	<a xlink:href="http://www.zhaw.ch/fileadmin/php_includes/popup/person-detail.php?kurzz=anis" target="_blank">
+	<path
+		d="M 295.70 350.06 A 110 110 0 0 1 277.78 356.43 L 280.31 366.11 A 120 120 0 0 0 299.85 359.16
+	Z" style="fill: rgb(37,79,76)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.zhaw.ch/fileadmin/php_includes/popup/person-detail.php?kurzz=anis"
+	xlink:show="new"
+	xlink:title="Maria Anisimova"
+>
+<text x="288.18" y="369.02"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(72.21 288.18 369.02)">
+	Maria Anisimova
+</text>
+</a>
+	<a xlink:href="http://www.fgcz.uzh.ch" target="_blank">
+	<path
+		d="M 275.93 356.90 A 110 110 0 0 1 257.13 359.77 L 257.78 369.75 A 120 120 0 0 0 278.29 366.62
+	Z" style="fill: rgb(14,236,193)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.fgcz.uzh.ch"
+	xlink:show="new"
+	xlink:title="Ralph Schlapbach"
+>
+<text x="264.97" y="374.10"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(83.12 264.97 374.10)">
+	Ralph Schlapbach
+</text>
+</a>
+	<a xlink:href="http://www.imls.uzh.ch/research/baudis.html" target="_blank">
+	<path
+		d="M 255.23 359.88 A 110 110 0 0 1 236.23 359.14 L 234.98 369.06 A 120 120 0 0 0 255.71 369.86
+	Z" style="fill: rgb(224,172,117)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.imls.uzh.ch/research/baudis.html"
+	xlink:show="new"
+	xlink:title="Michael Baudis"
+>
+<text x="247.49" y="374.97"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(271.15 247.49 374.97)">
+	Michael Baudis
+</text>
+</a>
+	<a xlink:href="http://www.physik.uzh.ch/groups/aegerter/team/aegerter.html" target="_blank">
+	<path
+		d="M 234.35 358.88 A 110 110 0 0 1 215.83 354.56 L 212.72 364.06 A 120 120 0 0 0 232.92 368.78
+	Z" style="fill: rgb(224,172,117)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.physik.uzh.ch/groups/aegerter/team/aegerter.html"
+	xlink:show="new"
+	xlink:title="Christof Aegerter"
+>
+<text x="223.88" y="372.24"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(282.06 223.88 372.24)">
+	Christof Aegerter
+</text>
+</a>
+	<a xlink:href="http://www.fgcz.ethz.ch/people/hrehrauer" target="_blank">
+	<path
+		d="M 214.02 353.95 A 110 110 0 0 1 196.66 346.20 L 191.81 354.95 A 120 120 0 0 0 210.75 363.40
+	Z" style="fill: rgb(14,236,193)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.fgcz.ethz.ch/people/hrehrauer"
+	xlink:show="new"
+	xlink:title="Hubert Rehrauer"
+>
+<text x="201.22" y="365.09"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(292.97 201.22 365.09)">
+	Hubert Rehrauer
+</text>
+</a>
+	<a xlink:href="http://www.biochem-caflisch.uzh.ch" target="_blank">
+	<path
+		d="M 195.00 345.26 A 110 110 0 0 1 179.41 334.37 L 173.00 342.04 A 120 120 0 0 0 190.00 353.92
+	Z" style="fill: rgb(224,172,117)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.biochem-caflisch.uzh.ch"
+	xlink:show="new"
+	xlink:title="Amedeo Caflisch"
+>
+<text x="180.32" y="353.78"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(303.88 180.32 353.78)">
+	Amedeo Caflisch
+</text>
+</a>
+	<a xlink:href="http://www.ieu.uzh.ch/staff/professors/shimizu.html" target="_blank">
+	<path
+		d="M 177.97 333.13 A 110 110 0 0 1 164.72 319.48 L 156.97 325.80 A 120 120 0 0 0 171.42 340.69
+	Z" style="fill: rgb(224,172,117)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.ieu.uzh.ch/staff/professors/shimizu.html"
+	xlink:show="new"
+	xlink:title="Kentaro K. Shimizu"
+>
+<text x="161.94" y="338.72"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(314.79 161.94 338.72)">
+	Kentaro K. Shimizu
+</text>
+</a>
+	<a xlink:href="https://www.dqbm.uzh.ch/en/research/groups/bodenmiller.html" target="_blank">
+	<path
+		d="M 163.53 318.00 A 110 110 0 0 1 153.12 302.09 L 144.31 306.83 A 120 120 0 0 0 155.67 324.18
+	Z" style="fill: rgb(224,172,117)" 
+	/>
+	</a>
+<a
+	xlink:href="https://www.dqbm.uzh.ch/en/research/groups/bodenmiller.html"
+	xlink:show="new"
+	xlink:title="Bernd Bodenmiller"
+>
+<text x="146.74" y="320.45"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(325.70 146.74 320.45)">
+	Bernd Bodenmiller
+</text>
+</a>
+	<a xlink:href="https://www.nexus.ethz.ch" target="_blank">
+	<path
+		d="M 152.23 300.40 A 110 110 0 0 1 145.01 282.81 L 135.46 285.80 A 120 120 0 0 0 143.34 304.99
+	Z" style="fill: rgb(37,219,252)" 
+	/>
+	</a>
+<a
+	xlink:href="https://www.nexus.ethz.ch"
+	xlink:show="new"
+	xlink:title="Daniel Stekhoven"
+>
+<text x="135.28" y="299.63"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(336.61 135.28 299.63)">
+	Daniel Stekhoven
+</text>
+</a>
+	<a xlink:href="https://inf.ethz.ch/people/person-detail.boeva.html" target="_blank">
+	<path
+		d="M 144.46 280.99 A 110 110 0 0 1 140.70 262.35 L 130.76 263.47 A 120 120 0 0 0 134.86 283.81
+	Z" style="fill: rgb(159,71,84)" 
+	/>
+	</a>
+<a
+	xlink:href="https://inf.ethz.ch/people/person-detail.boeva.html"
+	xlink:show="new"
+	xlink:title="Valentina Boeva"
+>
+<text x="127.96" y="277.02"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(347.52 127.96 277.02)">
+	Valentina Boeva
+</text>
+</a>
+	<a xlink:href="http://www.pelkmanslab.org" target="_blank">
+	<path
+		d="M 140.50 260.46 A 110 110 0 0 1 140.33 241.44 L 130.36 240.66 A 120 120 0 0 0 130.54 261.41
+	Z" style="fill: rgb(224,172,117)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.pelkmanslab.org"
+	xlink:show="new"
+	xlink:title="Lucas Pelkmans"
+>
+<text x="125.05" y="253.44"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(358.42 125.05 253.44)">
+	Lucas Pelkmans
+</text>
+</a>
+	<a xlink:href="http://bmi.inf.ethz.ch" target="_blank">
+	<path
+		d="M 140.50 239.54 A 110 110 0 0 1 143.94 220.84 L 134.29 218.19 A 120 120 0 0 0 130.54 238.59
+	Z" style="fill: rgb(159,71,84)" 
+	/>
+	</a>
+<a
+	xlink:href="http://bmi.inf.ethz.ch"
+	xlink:show="new"
+	xlink:title="Gunnar Raetsch"
+>
+<text x="126.65" y="229.73"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(369.33 126.65 229.73)">
+	Gunnar Raetsch
+</text>
+</a>
+	<a xlink:href="https://www.siaf.uzh.ch/molecular_allergology_katja.html" target="_blank">
+	<path
+		d="M 144.46 219.01 A 110 110 0 0 1 151.37 201.29 L 142.40 196.87 A 120 120 0 0 0 134.86 216.19
+	Z" style="fill: rgb(62,168,203)" 
+	/>
+	</a>
+<a
+	xlink:href="https://www.siaf.uzh.ch/molecular_allergology_katja.html"
+	xlink:show="new"
+	xlink:title="Katja Baerenfaller"
+>
+<text x="132.72" y="206.75"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(380.24 132.72 206.75)">
+	Katja Baerenfaller
+</text>
+</a>
+	<a xlink:href="http://www.imls.uzh.ch/research/vonmering.html" target="_blank">
+	<path
+		d="M 152.23 199.60 A 110 110 0 0 1 162.37 183.51 L 154.40 177.46 A 120 120 0 0 0 143.34 195.01
+	Z" style="fill: rgb(224,172,117)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.imls.uzh.ch/research/vonmering.html"
+	xlink:show="new"
+	xlink:title="Christian von Mering"
+>
+<text x="143.02" y="185.34"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(391.15 143.02 185.34)">
+	Christian von Mering
+</text>
+</a>
+	<a xlink:href="http://www.micro.biol.ethz.ch/research/sunagawa.html" target="_blank">
+	<path
+		d="M 163.53 182.00 A 110 110 0 0 1 176.54 168.13 L 169.86 160.68 A 120 120 0 0 0 155.67 175.82
+	Z" style="fill: rgb(159,71,84)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.micro.biol.ethz.ch/research/sunagawa.html"
+	xlink:show="new"
+	xlink:title="Shinichi Sunagawa"
+>
+<text x="157.20" y="166.26"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(402.06 157.20 166.26)">
+	Shinichi Sunagawa
+</text>
+</a>
+	<a xlink:href="http://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html" target="_blank">
+	<path
+		d="M 177.97 166.87 A 110 110 0 0 1 193.36 155.70 L 188.21 147.13 A 120 120 0 0 0 171.42 159.31
+	Z" style="fill: rgb(224,172,117)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html"
+	xlink:show="new"
+	xlink:title="Leonhard Held"
+>
+<text x="174.72" y="150.21"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(412.97 174.72 150.21)">
+	Leonhard Held
+</text>
+</a>
+	<a xlink:href="http://www.csb.ethz.ch" target="_blank">
+	<path
+		d="M 195.00 154.74 A 110 110 0 0 1 212.23 146.69 L 208.79 137.30 A 120 120 0 0 0 190.00 146.08
+	Z" style="fill: rgb(159,71,84)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.csb.ethz.ch"
+	xlink:show="new"
+	xlink:title="Joerg Stelling"
+>
+<text x="194.97" y="137.77"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(423.88 194.97 137.77)">
+	Joerg Stelling
+</text>
+</a>
+	<a xlink:href="https://krauthammerlab.ch" target="_blank">
+	<path
+		d="M 214.02 146.05 A 110 110 0 0 1 232.46 141.41 L 230.87 131.53 A 120 120 0 0 0 210.75 136.60
+	Z" style="fill: rgb(220,206,73)" 
+	/>
+	</a>
+<a
+	xlink:href="https://krauthammerlab.ch"
+	xlink:show="new"
+	xlink:title="Michael Krauthammer"
+>
+<text x="217.20" y="129.38"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(434.79 217.20 129.38)">
+	Michael Krauthammer
+</text>
+</a>
+	<a xlink:href="https://www.sib.swiss/directory?cn=abdullah%20kahraman" target="_blank">
+	<path
+		d="M 234.35 141.12 A 110 110 0 0 1 253.33 140.05 L 253.63 130.06 A 120 120 0 0 0 232.92 131.22
+	Z" style="fill: rgb(220,206,73)" 
+	/>
+	</a>
+<a
+	xlink:href="https://www.sib.swiss/directory?cn=abdullah%20kahraman"
+	xlink:show="new"
+	xlink:title="Abdullah Kahraman"
+>
+<text x="240.62" y="125.35"
+	style="text-anchor: end; font-size: 12px; fill: #000000;"
+	transform="rotate(445.70 240.62 125.35)">
+	Abdullah Kahraman
+</text>
+</a>
+	<a xlink:href="http://www.cse-lab.ethz.ch/" target="_blank">
+	<path
+		d="M 255.23 140.12 A 110 110 0 0 1 274.08 142.67 L 276.27 132.91 A 120 120 0 0 0 255.71 130.14
+	Z" style="fill: rgb(159,71,84)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.cse-lab.ethz.ch/"
+	xlink:show="new"
+	xlink:title="Petros Koumoutsakos"
+>
+<text x="270.60" y="126.71"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(279.49 270.60 126.71)">
+	Petros Koumoutsakos
+</text>
+</a>
+	<a xlink:href="https://imsb.ethz.ch/research/zamboni.html" target="_blank">
+	<path
+		d="M 275.93 143.10 A 110 110 0 0 1 293.96 149.16 L 297.95 140.00 A 120 120 0 0 0 278.29 133.38
+	Z" style="fill: rgb(159,71,84)" 
+	/>
+	</a>
+<a
+	xlink:href="https://imsb.ethz.ch/research/zamboni.html"
+	xlink:show="new"
+	xlink:title="Nicola Zamboni"
+>
+<text x="293.56" y="132.84"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(290.40 293.56 132.84)">
+	Nicola Zamboni
+</text>
+</a>
+	<a xlink:href="https://www.psi.ch/en/lbr/people/jacopo-marino" target="_blank">
+	<path
+		d="M 295.70 149.94 A 110 110 0 0 1 312.25 159.31 L 317.90 151.06 A 120 120 0 0 0 299.85 140.84
+	Z" style="fill: rgb(230,11,147)" 
+	/>
+	</a>
+<a
+	xlink:href="https://www.psi.ch/en/lbr/people/jacopo-marino"
+	xlink:show="new"
+	xlink:title="Jacopo Marino"
+>
+<text x="314.95" y="143.20"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(301.30 314.95 143.20)">
+	Jacopo Marino
+</text>
+</a>
+	<a xlink:href="https://www.ieu.uzh.ch/wagner/" target="_blank">
+	<path
+		d="M 313.81 160.40 A 110 110 0 0 1 328.28 172.72 L 335.40 165.70 A 120 120 0 0 0 319.61 152.25
+	Z" style="fill: rgb(224,172,117)" 
+	/>
+	</a>
+<a
+	xlink:href="https://www.ieu.uzh.ch/wagner/"
+	xlink:show="new"
+	xlink:title="Andreas Wagner"
+>
+<text x="333.99" y="157.42"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(312.21 333.99 157.42)">
+	Andreas Wagner
+</text>
+</a>
+	<a xlink:href="http://www.agroscope.admin.ch/agroscope/de/home/ueber-uns/standorte-kontakte/waedenswil.html" target="_blank">
+	<path
+		d="M 329.61 174.09 A 110 110 0 0 1 341.49 188.94 L 349.81 183.39 A 120 120 0 0 0 336.85 167.19
+	Z" style="fill: rgb(159,213,118)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.agroscope.admin.ch/agroscope/de/home/ueber-uns/standorte-kontakte/waedenswil.html"
+	xlink:show="new"
+	xlink:title="Christian Ahrens"
+>
+<text x="349.99" y="174.99"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(323.12 349.99 174.99)">
+	Christian Ahrens
+</text>
+</a>
+	<a xlink:href="http://wlab.ethz.ch/wollscheidlab/" target="_blank">
+	<path
+		d="M 342.54 190.53 A 110 110 0 0 1 351.40 207.36 L 360.62 203.48 A 120 120 0 0 0 350.95 185.12
+	Z" style="fill: rgb(159,71,84)" 
+	/>
+	</a>
+<a
+	xlink:href="http://wlab.ethz.ch/wollscheidlab/"
+	xlink:show="new"
+	xlink:title="Bernd Wollscheid"
+>
+<text x="362.38" y="195.27"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(334.03 362.38 195.27)">
+	Bernd Wollscheid
+</text>
+</a>
+	<a xlink:href="http://www.mhs.biol.ethz.ch/research/ciaudo/" target="_blank">
+	<path
+		d="M 352.12 209.12 A 110 110 0 0 1 357.64 227.32 L 367.42 225.25 A 120 120 0 0 0 361.40 205.40
+	Z" style="fill: rgb(159,71,84)" 
+	/>
+	</a>
+<a
+	xlink:href="http://www.mhs.biol.ethz.ch/research/ciaudo/"
+	xlink:show="new"
+	xlink:title="Constance Ciaudo"
+>
+<text x="370.71" y="217.52"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(344.94 370.71 217.52)">
+	Constance Ciaudo
+</text>
+</a>
+	<a xlink:href="https://imsb.ethz.ch/research/beltrao.html" target="_blank">
+	<path
+		d="M 358.01 229.18 A 110 110 0 0 1 359.98 248.10 L 369.98 247.92 A 120 120 0 0 0 367.83 227.29
+	Z" style="fill: rgb(159,71,84)" 
+	/>
+	</a>
+<a
+	xlink:href="https://imsb.ethz.ch/research/beltrao.html"
+	xlink:show="new"
+	xlink:title="Pedro Beltrao"
+>
+<text x="374.67" y="240.95"
+	style="text-anchor: start; font-size: 12px; fill: #000000;"
+	transform="rotate(355.85 374.67 240.95)">
+	Pedro Beltrao
+</text>
+</a>
+<rect x="576" y="26" width="13" height="14" fill="rgb(159,213,118)" />
+<text
+	x="564" y="38"
+	style="text-anchor: end; font-size: 13px; fill: #000000;"
+>Agroscope</text>
+<rect x="576" y="52" width="13" height="14" fill="rgb(159,71,84)" />
+<text
+	x="564" y="64"
+	style="text-anchor: end; font-size: 13px; fill: #000000;"
+>ETHZ</text>
+<rect x="576" y="78" width="13" height="14" fill="rgb(14,236,193)" />
+<text
+	x="564" y="90"
+	style="text-anchor: end; font-size: 13px; fill: #000000;"
+>FGCZ</text>
+<rect x="576" y="104" width="13" height="14" fill="rgb(115,131,154)" />
+<text
+	x="564" y="116"
+	style="text-anchor: end; font-size: 13px; fill: #000000;"
+>HIFO</text>
+<rect x="576" y="130" width="13" height="14" fill="rgb(37,219,252)" />
+<text
+	x="564" y="142"
+	style="text-anchor: end; font-size: 13px; fill: #000000;"
+>NEXUS</text>
+<rect x="576" y="156" width="13" height="14" fill="rgb(230,11,147)" />
+<text
+	x="564" y="168"
+	style="text-anchor: end; font-size: 13px; fill: #000000;"
+>PSI</text>
+<rect x="576" y="182" width="13" height="14" fill="rgb(62,168,203)" />
+<text
+	x="564" y="194"
+	style="text-anchor: end; font-size: 13px; fill: #000000;"
+>SIAF</text>
+<rect x="576" y="208" width="13" height="14" fill="rgb(220,206,73)" />
+<text
+	x="564" y="220"
+	style="text-anchor: end; font-size: 13px; fill: #000000;"
+>USZ</text>
+<rect x="576" y="234" width="13" height="14" fill="rgb(224,172,117)" />
+<text
+	x="564" y="246"
+	style="text-anchor: end; font-size: 13px; fill: #000000;"
+>UZH</text>
+<rect x="576" y="260" width="13" height="14" fill="rgb(37,79,76)" />
+<text
+	x="564" y="272"
+	style="text-anchor: end; font-size: 13px; fill: #000000;"
+>ZHAW</text>
+<path d="
+	M 251.36,354.99
+	C 251.1,334.0 228.4,179.8 219.11,149.65
+	A 105,105 0 0,1 222.25,148.73
+	C 238.9,209.5 248.9,313.0 248.09,354.98
+	A 105,105 0 0,0 251.36,354.99
+	Z" style="stroke-width: 1;  fill: rgb(99,118,140); opacity: 0.5;"
+/>
+<path d="
+	M 245.19,354.89
+	C 245.7,344.4 324.7,288.4 343.41,297.95
+	A 105,105 0 0,1 341.34,301.79
+	C 286.5,270.7 241.8,344.1 240.83,354.60
+	A 105,105 0 0,0 245.19,354.89
+	Z" style="stroke-width: 1;  fill: rgb(66,46,31); opacity: 0.5;"
+/>
+<path d="
+	M 250.27,355.00
+	C 250.1,302.5 234.5,289.0 211.23,347.58
+	A 105,105 0 0,1 208.54,346.47
+	C 233.4,288.6 248.9,292.0 247.36,354.97
+	A 105,105 0 0,0 250.27,355.00
+	Z" style="stroke-width: 1;  fill: rgb(168,252,60); opacity: 0.5;"
+/>
+<path d="
+	M 247.00,354.96
+	C 247.9,323.5 163.0,286.8 153.28,290.87
+	A 105,105 0 0,1 151.54,286.48
+	C 171.2,279.2 243.1,344.2 242.28,354.72
+	A 105,105 0 0,0 247.00,354.96
+	Z" style="stroke-width: 1;  fill: rgb(220,142,66); opacity: 0.5;"
+/>
+<path d="
+	M 330.24,182.28
+	C 306.2,202.6 186.8,212.4 159.76,196.32
+	A 105,105 0 0,1 162.46,192.02
+	C 180.0,203.6 316.7,199.0 333.43,186.24
+	A 105,105 0 0,0 330.24,182.28
+	Z" style="stroke-width: 1;  fill: rgb(136,66,37); opacity: 0.5;"
+/>
+<path d="
+	M 161.08,194.15
+	C 170.0,199.7 297.6,194.0 317.93,169.94
+	A 105,105 0 0,1 320.12,171.85
+	C 285.1,210.9 197.6,215.0 162.66,191.71
+	A 105,105 0 0,0 161.08,194.15
+	Z" style="stroke-width: 1;  fill: rgb(10,232,105); opacity: 0.5;"
+/>
+<path d="
+	M 336.31,309.79
+	C 319.1,297.8 292.0,251.5 354.94,253.63
+	A 105,105 0 0,1 354.82,256.18
+	C 302.4,253.1 317.9,299.5 334.84,311.86
+	A 105,105 0 0,0 336.31,309.79
+	Z" style="stroke-width: 1;  fill: rgb(84,50,136); opacity: 0.5;"
+/>
+<path d="
+	M 173.51,321.93
+	C 188.8,307.5 277.7,218.4 319.31,171.12
+	A 105,105 0 0,1 323.05,174.57
+	C 293.8,204.7 178.1,311.3 170.11,318.14
+	A 105,105 0 0,0 173.51,321.93
+	Z" style="stroke-width: 1;  fill: rgb(199,16,151); opacity: 0.5;"
+/>
+<path d="
+	M 189.09,335.53
+	C 201.3,318.4 291.3,202.4 318.76,170.65
+	A 105,105 0 0,1 320.93,172.58
+	C 278.4,219.0 224.7,283.5 186.75,333.81
+	A 105,105 0 0,0 189.09,335.53
+	Z" style="stroke-width: 1;  fill: rgb(79,50,147); opacity: 0.5;"
+/>
+<path d="
+	M 350.95,221.12
+	C 310.6,232.7 227.9,297.6 205.72,345.21
+	A 105,105 0 0,1 202.13,343.45
+	C 221.3,306.1 290.8,240.0 351.98,224.98
+	A 105,105 0 0,0 350.95,221.12
+	Z" style="stroke-width: 1;  fill: rgb(167,170,180); opacity: 0.5;"
+/>
+<path d="
+	M 229.86,353.05
+	C 235.9,322.1 257.2,176.9 260.25,145.50
+	A 105,105 0 0,1 262.42,145.74
+	C 257.5,187.4 230.0,342.3 227.73,352.61
+	A 105,105 0 0,0 229.86,353.05
+	Z" style="stroke-width: 1;  fill: rgb(133,235,171); opacity: 0.5;"
+/>
+<path d="
+	M 344.39,296.00
+	C 287.8,268.4 208.0,250.9 145.03,252.36
+	A 105,105 0 0,1 145.00,249.45
+	C 176.5,249.6 305.8,279.2 343.08,298.60
+	A 105,105 0 0,0 344.39,296.00
+	Z" style="stroke-width: 1;  fill: rgb(102,231,122); opacity: 0.5;"
+/>
+<path d="
+	M 319.72,328.51
+	C 284.9,289.3 247.0,333.9 246.28,354.93
+	A 105,105 0 0,1 243.73,354.81
+	C 245.0,333.9 297.5,306.1 317.79,330.18
+	A 105,105 0 0,0 319.72,328.51
+	Z" style="stroke-width: 1;  fill: rgb(67,142,196); opacity: 0.5;"
+/>
+<path d="
+	M 202.78,156.22
+	C 216.9,184.4 302.6,184.5 315.69,168.09
+	A 105,105 0 0,1 319.58,171.36
+	C 298.7,195.0 228.7,202.0 207.38,154.04
+	A 105,105 0 0,0 202.78,156.22
+	Z" style="stroke-width: 1;  fill: rgb(93,75,12); opacity: 0.5;"
+/>
+<path d="
+	M 297.71,156.46
+	C 269.1,212.6 333.9,253.6 354.90,254.54
+	A 105,105 0 0,1 354.56,259.62
+	C 291.8,253.8 286.5,186.2 302.18,158.89
+	A 105,105 0 0,0 297.71,156.46
+	Z" style="stroke-width: 1;  fill: rgb(110,128,177); opacity: 0.5;"
+/>
+<path d="
+	M 330.59,182.69
+	C 290.3,216.3 260.8,312.1 267.99,353.45
+	A 105,105 0 0,1 265.48,353.85
+	C 259.3,312.3 324.0,191.2 332.20,184.67
+	A 105,105 0 0,0 330.59,182.69
+	Z" style="stroke-width: 1;  fill: rgb(20,101,55); opacity: 0.5;"
+/>
+<path d="
+	M 350.85,279.23
+	C 290.3,261.7 263.1,156.4 264.58,146.02
+	A 105,105 0 0,1 267.10,146.40
+	C 262.0,177.5 330.1,275.3 350.11,281.67
+	A 105,105 0 0,0 350.85,279.23
+	Z" style="stroke-width: 1;  fill: rgb(229,158,221); opacity: 0.5;"
+/>
+<path d="
+	M 159.85,196.17
+	C 186.9,212.3 176.5,252.4 145.06,253.45
+	A 105,105 0 0,1 145.00,249.09
+	C 197.5,249.5 206.1,221.2 162.16,192.47
+	A 105,105 0 0,0 159.85,196.17
+	Z" style="stroke-width: 1;  fill: rgb(121,39,119); opacity: 0.5;"
+/>
+<path d="
+	M 148.16,275.55
+	C 178.7,267.9 156.4,237.3 145.96,235.87
+	A 105,105 0 0,1 146.39,232.99
+	C 167.1,236.4 168.0,268.2 147.49,272.72
+	A 105,105 0 0,0 148.16,275.55
+	Z" style="stroke-width: 1;  fill: rgb(84,33,0); opacity: 0.5;"
+/>
+<path d="
+	M 243.55,354.80
+	C 246.1,312.9 305.9,187.3 319.85,171.61
+	A 105,105 0 0,1 321.47,173.07
+	C 307.2,188.5 245.7,302.3 241.38,354.65
+	A 105,105 0 0,0 243.55,354.80
+	Z" style="stroke-width: 1;  fill: rgb(153,29,29); opacity: 0.5;"
+/>
+<path d="
+	M 151.05,214.89
+	C 190.6,228.9 249.3,334.0 249.18,355.00
+	A 105,105 0 0,1 245.19,354.89
+	C 246.1,333.9 172.0,218.9 152.45,211.14
+	A 105,105 0 0,0 151.05,214.89
+	Z" style="stroke-width: 1;  fill: rgb(101,60,54); opacity: 0.5;"
+/>
+<path d="
+	M 318.62,329.47
+	C 311.8,321.5 263.7,289.7 284.17,349.28
+	A 105,105 0 0,1 281.06,350.30
+	C 268.6,310.2 296.3,307.1 316.11,331.57
+	A 105,105 0 0,0 318.62,329.47
+	Z" style="stroke-width: 1;  fill: rgb(180,195,9); opacity: 0.5;"
+/>
+<path d="
+	M 244.46,354.85
+	C 245.0,344.4 291.6,323.0 302.03,341.20
+	A 105,105 0 0,1 299.48,342.61
+	C 284.6,314.8 246.6,291.9 241.56,354.66
+	A 105,105 0 0,0 244.46,354.85
+	Z" style="stroke-width: 1;  fill: rgb(220,137,43); opacity: 0.5;"
+/>
+<path d="
+	M 246.82,354.95
+	C 248.4,302.5 205.3,222.4 160.70,194.77
+	A 105,105 0 0,1 163.27,190.81
+	C 180.6,202.6 242.9,344.2 242.10,354.70
+	A 105,105 0 0,0 246.82,354.95
+	Z" style="stroke-width: 1;  fill: rgb(120,35,126); opacity: 0.5;"
+/>
+<path d="
+	M 185.02,167.52
+	C 211.0,200.5 218.8,328.0 211.06,347.51
+	A 105,105 0 0,1 208.71,346.54
+	C 212.8,336.9 218.5,208.0 187.04,165.97
+	A 105,105 0 0,0 185.02,167.52
+	Z" style="stroke-width: 1;  fill: rgb(20,102,58); opacity: 0.5;"
+/>
+<path d="
+	M 229.50,352.98
+	C 239.8,301.5 187.1,252.6 145.09,254.36
+	A 105,105 0 0,1 145.00,250.73
+	C 176.5,250.5 228.4,342.0 225.95,352.21
+	A 105,105 0 0,0 229.50,352.98
+	Z" style="stroke-width: 1;  fill: rgb(26,75,96); opacity: 0.5;"
+/>
+<path d="
+	M 291.29,346.54
+	C 287.2,336.9 251.2,302.5 252.45,354.97
+	A 105,105 0 0,1 247.73,354.98
+	C 248.0,344.5 268.5,299.2 286.91,348.30
+	A 105,105 0 0,0 291.29,346.54
+	Z" style="stroke-width: 1;  fill: rgb(52,84,198); opacity: 0.5;"
+/>
+<path d="
+	M 208.37,346.40
+	C 229.2,298.2 262.0,322.5 267.10,353.60
+	A 105,105 0 0,1 265.30,353.88
+	C 259.2,312.3 232.7,288.3 206.71,345.66
+	A 105,105 0 0,0 208.37,346.40
+	Z" style="stroke-width: 1;  fill: rgb(105,249,162); opacity: 0.5;"
+/>
+<path d="
+	M 344.78,295.18
+	C 287.9,268.1 208.1,165.3 203.43,155.89
+	A 105,105 0 0,1 206.38,154.49
+	C 210.7,164.0 334.0,293.3 343.33,298.11
+	A 105,105 0 0,0 344.78,295.18
+	Z" style="stroke-width: 1;  fill: rgb(31,53,1); opacity: 0.5;"
+/>
+<path d="
+	M 162.26,192.32
+	C 188.6,209.6 188.6,307.3 173.26,321.67
+	A 105,105 0 0,1 171.06,319.24
+	C 202.6,291.5 172.7,195.7 164.10,189.61
+	A 105,105 0 0,0 162.26,192.32
+	Z" style="stroke-width: 1;  fill: rgb(195,151,209); opacity: 0.5;"
+/>
+<path d="
+	M 245.00,354.88
+	C 246.5,323.4 198.4,259.9 146.90,269.87
+	A 105,105 0 0,1 146.57,268.08
+	C 208.6,257.2 247.3,291.9 243.19,354.78
+	A 105,105 0 0,0 245.00,354.88
+	Z" style="stroke-width: 1;  fill: rgb(50,202,174); opacity: 0.5;"
+/>
+<path d="
+	M 246.09,354.93
+	C 247.3,323.4 333.7,257.1 354.62,258.89
+	A 105,105 0 0,1 354.16,263.23
+	C 312.5,257.9 243.4,333.7 241.74,354.67
+	A 105,105 0 0,0 246.09,354.93
+	Z" style="stroke-width: 1;  fill: rgb(200,152,84); opacity: 0.5;"
+/>
+<path d="
+	M 349.61,216.78
+	C 299.8,233.4 213.9,228.6 159.66,196.48
+	A 105,105 0 0,1 162.36,192.17
+	C 206.2,221.1 330.9,227.3 351.10,221.64
+	A 105,105 0 0,0 349.61,216.78
+	Z" style="stroke-width: 1;  fill: rgb(124,130,148); opacity: 0.5;"
+/>
+<path d="
+	M 160.70,194.77
+	C 214.3,227.9 263.4,332.9 266.74,353.66
+	A 105,105 0 0,1 263.14,354.17
+	C 257.9,312.5 215.1,226.7 162.66,191.71
+	A 105,105 0 0,0 160.70,194.77
+	Z" style="stroke-width: 1;  fill: rgb(41,237,80); opacity: 0.5;"
+/>
+<path d="
+	M 145.01,248.91
+	C 197.5,249.5 291.8,254.4 354.42,261.07
+	A 105,105 0 0,1 354.16,263.23
+	C 333.3,260.6 187.0,248.0 145.05,246.73
+	A 105,105 0 0,0 145.01,248.91
+	Z" style="stroke-width: 1;  fill: rgb(91,80,147); opacity: 0.5;"
+/>
+<path d="
+	M 162.26,307.68
+	C 214.9,273.1 196.7,216.5 161.08,194.15
+	A 105,105 0 0,1 162.26,192.32
+	C 197.4,215.4 205.5,277.9 161.08,305.85
+	A 105,105 0 0,0 162.26,307.68
+	Z" style="stroke-width: 1;  fill: rgb(102,112,40); opacity: 0.5;"
+/>
+<path d="
+	M 246.46,354.94
+	C 246.8,344.4 246.8,197.6 243.55,145.20
+	A 105,105 0 0,1 247.55,145.03
+	C 248.3,176.5 247.0,291.9 242.46,354.73
+	A 105,105 0 0,0 246.46,354.94
+	Z" style="stroke-width: 1;  fill: rgb(101,116,169); opacity: 0.5;"
+/>
+<path d="
+	M 245.55,354.91
+	C 248.2,292.0 219.5,221.2 173.63,177.94
+	A 105,105 0 0,1 175.40,176.11
+	C 190.3,190.9 247.2,291.9 243.01,354.77
+	A 105,105 0 0,0 245.55,354.91
+	Z" style="stroke-width: 1;  fill: rgb(35,53,13); opacity: 0.5;"
+/>
+<path d="
+	M 301.24,341.65
+	C 275.6,295.8 312.6,256.9 354.38,261.43
+	A 105,105 0 0,1 354.07,263.95
+	C 312.4,258.4 294.1,333.6 299.00,342.87
+	A 105,105 0 0,0 301.24,341.65
+	Z" style="stroke-width: 1;  fill: rgb(48,2,195); opacity: 0.5;"
+/>
+<path d="
+	M 328.70,180.49
+	C 297.2,208.3 215.7,338.1 211.91,347.85
+	A 105,105 0 0,1 207.87,346.18
+	C 224.7,307.7 307.1,203.7 331.51,183.82
+	A 105,105 0 0,0 328.70,180.49
+	Z" style="stroke-width: 1;  fill: rgb(217,44,144); opacity: 0.5;"
+/>
+<path d="
+	M 245.19,354.89
+	C 248.1,292.0 198.4,240.2 146.86,230.31
+	A 105,105 0 0,1 147.69,226.39
+	C 209.1,240.6 246.5,291.9 241.20,354.63
+	A 105,105 0 0,0 245.19,354.89
+	Z" style="stroke-width: 1;  fill: rgb(165,251,134); opacity: 0.5;"
+/>
+</svg>
